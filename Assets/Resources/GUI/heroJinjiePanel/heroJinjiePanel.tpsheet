@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: heroJinjiePanel.png (64 x 64)
+# $TexturePacker:SmartUpdate:bb1684894e95f275fff485317446838b:a7af5151e4990f06200539e4e19d0a37:eedfe169b26ebcedc7f000a515eef090$
+#
+
+icon/denghaolv;24;50;20;12;0.5;0.5
+icon/jiahaolv;2;42;20;20;0.5;0.5

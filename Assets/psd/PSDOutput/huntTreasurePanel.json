@@ -1,0 +1,713 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "luckyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 88, 
+                        "colorG": 255, 
+                        "colorR": 158, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 20, 
+                        "height": 15, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "520/1314", 
+                        "underLine": false, 
+                        "width": 75, 
+                        "x": 98, 
+                        "y": 22
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "luckyTitleImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 22, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/xingyunzhi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 71, 
+                        "x": 18, 
+                        "y": 12
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "luckyBg", 
+                    "options": {
+                        "bottom": 15, 
+                        "height": 32, 
+                        "isScaleImage": true, 
+                        "left": 15, 
+                        "link": "huntTreasurePanel#board/wenziheiyuanjiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 15, 
+                        "top": 16, 
+                        "width": 203, 
+                        "x": 0, 
+                        "y": 7
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "luckyTip", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 46, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/xinxi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 46, 
+                        "x": 216, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "shang", 
+            "options": {
+                "height": 46, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 445, 
+                "y": 70
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "backArrow", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 25, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#btn/fanhuiheng.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 33, 
+                        "x": 18, 
+                        "y": 144
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "backTitle", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 86, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 21, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "返 回", 
+                        "underLine": false, 
+                        "width": 48, 
+                        "x": 58, 
+                        "y": 151
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "backBtn", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 50, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#btn/fanhui.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 130, 
+                        "x": 0, 
+                        "y": 131
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "tenBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 85, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 26, 
+                        "height": 26, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "求签10次", 
+                        "underLine": false, 
+                        "width": 100, 
+                        "x": 480, 
+                        "y": 63
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "refreshBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 85, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 26, 
+                        "height": 26, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "免费刷新", 
+                        "underLine": false, 
+                        "width": 104, 
+                        "x": 305, 
+                        "y": 63
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "oneBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 85, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 26, 
+                        "height": 26, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "求签1次", 
+                        "underLine": false, 
+                        "width": 86, 
+                        "x": 141, 
+                        "y": 63
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "oneBtn", 
+                    "options": {
+                        "bottom": 30, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 47, 
+                        "link": "huntTreasurePanel#btn/selectFhuanghua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 47, 
+                        "top": 26, 
+                        "width": 165, 
+                        "x": 102, 
+                        "y": 43
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "refreshBtn", 
+                    "options": {
+                        "bottom": 30, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 47, 
+                        "link": "huntTreasurePanel#btn/selectFhuanghua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 47, 
+                        "top": 26, 
+                        "width": 165, 
+                        "x": 275, 
+                        "y": 43
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "tenBtn", 
+                    "options": {
+                        "bottom": 30, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 47, 
+                        "link": "huntTreasurePanel#btn/selectFhuanghua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 47, 
+                        "top": 26, 
+                        "width": 165, 
+                        "x": 448, 
+                        "y": 43
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyIocn2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/jinbi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 499, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moneyLabel2", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 67, 
+                        "colorG": 71, 
+                        "colorR": 109, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 17, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "10", 
+                        "underLine": false, 
+                        "width": 19, 
+                        "x": 543, 
+                        "y": 17
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "timeLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 67, 
+                        "colorG": 71, 
+                        "colorR": 109, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "00：00：00", 
+                        "underLine": false, 
+                        "width": 115, 
+                        "x": 303, 
+                        "y": 16
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyIcon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/jinbi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 160, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moneLabel1", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 67, 
+                        "colorG": 71, 
+                        "colorR": 109, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 17, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "1", 
+                        "underLine": false, 
+                        "width": 6, 
+                        "x": 204, 
+                        "y": 17
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "xia", 
+            "options": {
+                "height": 181, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 613, 
+                "x": 2, 
+                "y": 1006
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectBtn2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 244, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/gaojiqiantong.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 133, 
+                        "x": 170, 
+                        "y": 6
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "listBtn2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 203, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/gaojiqiantongchangtai.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 90, 
+                        "x": 191, 
+                        "y": 27
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectBtn1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 260, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/putogqiantong.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 148, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "listBtn1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 202, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/putogqiantongchangtai.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 88, 
+                        "x": 31, 
+                        "y": 27
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "btnBg2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 50, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/qiantouying.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 139, 
+                        "x": 198, 
+                        "y": 181
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "btnBg1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 50, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasurePanel#icon/qiantouying.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 139, 
+                        "x": 37, 
+                        "y": 181
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "qian", 
+            "options": {
+                "height": 260, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 360, 
+                "x": 196, 
+                "y": 511
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint1", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 79, 
+                        "y": 11
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint2", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 201, 
+                        "y": 10
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint3", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 324, 
+                        "y": 10
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint4", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 446, 
+                        "y": 10
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint5", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 79, 
+                        "y": 117
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint6", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 201, 
+                        "y": 116
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint7", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 324, 
+                        "y": 116
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "GROUP", 
+                    "name": "cellPoint8", 
+                    "options": {
+                        "height": 93, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 94, 
+                        "x": 446, 
+                        "y": 116
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "awardTitle", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 234, 
+                        "colorG": 249, 
+                        "colorR": 255, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 26, 
+                        "height": 81, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "奖品池", 
+                        "underLine": false, 
+                        "width": 25, 
+                        "x": 0, 
+                        "y": 6
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "wuping", 
+            "options": {
+                "height": 210, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 540, 
+                "x": 50, 
+                "y": 767
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "panelBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "huntTreasurePanel#board/beijing.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "huntTreasurePanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

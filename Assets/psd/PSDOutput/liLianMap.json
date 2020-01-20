@@ -1,0 +1,179 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg5", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 591, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "liLianMap#moveBg5.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer5", 
+            "options": {
+                "height": 591, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 1009
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 482, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "liLianMap#moveBg4.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer4", 
+            "options": {
+                "height": 482, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 1118
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1095, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "liLianMap#moveBg3.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer3", 
+            "options": {
+                "height": 1095, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 505
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1267, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "liLianMap#moveBg2.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer2", 
+            "options": {
+                "height": 1267, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 333
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1600, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "liLianMap#moveBg1.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer1", 
+            "options": {
+                "height": 1600, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "liLianMap", 
+    "options": {
+        "height": 1600, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 1500, 
+        "x": 0, 
+        "y": 0
+    }
+}

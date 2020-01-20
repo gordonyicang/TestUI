@@ -1,0 +1,89 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 3, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "progressLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 18, 
+                "height": 13, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "5/50", 
+                "underLine": false, 
+                "width": 36, 
+                "x": 34, 
+                "y": 108
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "progressImg", 
+            "options": {
+                "bottom": 5, 
+                "height": 15, 
+                "isScaleImage": true, 
+                "left": 12, 
+                "link": "heroMainPanel#board/lvjindutiao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 12, 
+                "top": 6, 
+                "width": 87, 
+                "x": 8, 
+                "y": 101
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "progressBg", 
+            "options": {
+                "bottom": 10, 
+                "height": 21, 
+                "isScaleImage": true, 
+                "left": 20, 
+                "link": "heroMainPanel#board/lvjindutiaodi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 20, 
+                "top": 11, 
+                "width": 103, 
+                "x": 0, 
+                "y": 98
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroMainPanel_fragmentItem", 
+    "options": {
+        "height": 119, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 103, 
+        "x": 215, 
+        "y": 704
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "propValue", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 139, 
+                "colorG": 204, 
+                "colorR": 181, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 16, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "85210", 
+                "underLine": false, 
+                "width": 54, 
+                "x": 191, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "propName", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 203, 
+                "colorG": 236, 
+                "colorR": 229, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "攻击：", 
+                "underLine": false, 
+                "width": 52, 
+                "x": 7, 
+                "y": 9
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 8, 
+                "height": 28, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "heroXqPropPanel#board/dansehei.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 251, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroXqPropPanel_xqPropItem", 
+    "options": {
+        "height": 28, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 251, 
+        "x": 93, 
+        "y": 407
+    }
+}

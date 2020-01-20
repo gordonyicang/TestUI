@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 413683664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6f1358aeee35952455c05a2f7bbc641
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1f8190f465e6d3099ac0770229e4237
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Shader/UI/FontShadow.shader
+- Assets/Resources/Shader/Effect/Opaque.shader
+- Assets/Resources/Shader/Scene/PlantBlendWithAlpha.shader
+- Assets/Resources/Shader/Character/PlayerHigh.shader
+- Assets/Resources/Shader/UI/IconEffect_Gray.shader
+- Assets/Resources/Shader/Effect/DisturbAdd.shader
+- Assets/Resources/Shader/Effect/Lightning.shader
+- Assets/Resources/Shader/Character/RideFlow.shader
+- Assets/Resources/Shader/Effect/DissolveOpaque.shader
+- Assets/Resources/Shader/Character/Wing.shader
+- Assets/Resources/Shader/Character/WingTransparent.shader
+- Assets/Resources/Shader/Effect/RimModelAdd.shader
+- Assets/Resources/Shader/UI/DefaultETC1_Gray.shader
+- Assets/Resources/Shader/Scene/PlantOpaque.shader
+- Assets/Resources/Shader/Scene/PlantBlend.shader
+- Assets/Resources/Shader/UI/IconEffect.shader
+- Assets/Resources/Shader/testShader/GreyShader.shader
+- Assets/Resources/Shader/Scene/PlantFlutterCut.shader
+- Assets/Resources/Shader/UI/IconEffectBlend.shader
+- Assets/Resources/Shader/Effect/Dissolve.shader
+- Assets/Resources/Shader/Scene/PlantFlutterCutWithAlpha.shader
+- Assets/Resources/Shader/PostProcess/GaussBlur5.shader
+- Assets/Resources/Shader/Scene/PlantCut.shader
+- Assets/Resources/Shader/PSD2UGUI/PSD2UGUI_SCROLL.shader
+- Assets/Resources/Shader/Character/WeaponDisturb.shader
+- Assets/Resources/Shader/Effect/AlphaFlowBlend.shader
+- Assets/Resources/Shader/Scene/Terrain.shader
+- Assets/Resources/Shader/Scene/WaterCube.shader
+- Assets/Resources/Shader/Effect/FlowAdd2.shader
+- Assets/Resources/Shader/Effect/FlowDisturbOpaque.shader
+- Assets/Resources/Shader/Scene/StaticObjLowAlpha.shader
+- Assets/Resources/Shader/PostProcess/SimpleBlur.shader
+- Assets/Resources/Shader/Effect/FlowDisturbBlend.shader
+- Assets/Resources/Shader/Character/RideFlow2.shader
+- Assets/Resources/Shader/PSD2UGUI/UiObj_Mask.shader
+- Assets/Resources/Shader/Character/Player.shader
+- Assets/Resources/Shader/Character/Boss.shader
+- Assets/Resources/Shader/Effect/DisturbBlend.shader
+- Assets/Resources/Shader/PSD2UGUI/PSD2UGUI_SPLIT_ALPHA.shader
+- Assets/Resources/Shader/Scene/PlantCutWithAlpha.shader
+- Assets/Resources/Shader/PSD2UGUI/FontOutline.shader
+- Assets/Resources/Shader/PSD2UGUI/PSD2UGUI_ICON.shader
+- Assets/Resources/Shader/PSD2UGUI/UiObj.shader
+- Assets/Resources/Shader/Effect/FlowMask2LayerAdd.shader
+- Assets/Resources/Shader/Character/WingDisturb.shader
+- Assets/Resources/Shader/UI/FontShadow2.shader
+- Assets/Resources/Shader/Effect/FlowDisturbAdd.shader
+- Assets/Resources/Shader/ImageEffect/Combine.shader
+- Assets/Resources/Shader/Scene/BackSky.shader
+- Assets/Resources/Shader/Character/PlayerDisColor.shader
+- Assets/Resources/Shader/Character/BossGhost3.shader
+- Assets/Resources/Shader/Scene/WaterTransparent.shader
+- Assets/Resources/Shader/Scene/EmissiveStaticObj.shader
+- Assets/Resources/Shader/ImageEffect/Bright.shader
+- Assets/Resources/Shader/Character/Weapon.shader
+- Assets/Resources/Shader/PSD2UGUI/PSD2UGUI_OUTPIC_GREY.shader
+- Assets/Resources/Shader/Scene/Grass.shader
+- Assets/Resources/Shader/Character/WeaponFlowEnvi.shader
+- Assets/Resources/Shader/ImageEffect/Downsample.shader
+- Assets/Resources/Shader/Effect/RimModelBlend.shader
+- Assets/Resources/Shader/Simple/Texture.shader
+- Assets/Resources/Shader/Scene/LanternSwing.shader
+- Assets/Resources/Shader/Scene/ModelTerrain.shader
+- Assets/Resources/Shader/PSD2UGUI/PSD2UGUI.shader
+- Assets/Resources/Shader/Effect/Add.shader
+- Assets/Resources/Shader/Character/NPC.shader
+- Assets/Resources/Shader/Effect/Blend.shader
+- Assets/Resources/Shader/PSD2UGUI/FontOutline2.shader
+- Assets/Resources/Shader/Character/BossGhost2.shader
+- Assets/Resources/Shader/UI/FontOutline.shader
+- Assets/Resources/Shader/Character/Monster.shader
+- Assets/Resources/Shader/Character/Player_Shadow.shader
+- Assets/Resources/Shader/PostProcess/WaterWave.shader
+- Assets/Resources/Shader/ImageEffect/Blur.shader
+- Assets/Resources/Shader/Character/Player_Shelter.shader
+- Assets/Resources/Shader/Scene/FlowWater.shader
+- Assets/Resources/Shader/UI/Default_Gray.shader
+- Assets/Resources/Shader/PostProcess/GaussianBlur.shader
+- Assets/Resources/Shader/PSD2UGUI/Default_Gray.shader
+- Assets/Resources/Shader/UI/Flow2LayerColorAdd.shader
+- Assets/Resources/Shader/KyUnity.cginc
+- Assets/Resources/Shader/Scene/FarViewCut.shader
+- Assets/Resources/Shader/Scene/FlowBlend.shader
+- Assets/Resources/Shader/Scene/Sky.shader
+- Assets/Resources/Shader/Effect/FlowBlend.shader
+- Assets/Resources/Shader/Character/Pet.shader
+- Assets/Resources/Shader/PSD2UGUI/PSD2UGUI_SPLIT_ALPHA_GREY.shader
+- Assets/Resources/Shader/UI/IconEffectAdd.shader
+- Assets/Resources/Shader/Character/BossGhost.shader
+- Assets/Resources/Shader/Scene/StaticObjLow.shader
+- Assets/Resources/Shader/PostProcess/BlendColor.shader
+- Assets/Resources/Shader/Character/Fairy.shader
+- Assets/Resources/Shader/UI/UIAdd.shader
+- Assets/Resources/Shader/Character/Ride.shader
+- Assets/Resources/Shader/Simple/Cut.shader
+- Assets/Resources/Shader/PostProcess/Sample4Pix.shader
+- Assets/Resources/Shader/Character/Monster_Edge.shader
+- Assets/Resources/Shader/Scene/TransparentObj.shader
+- Assets/Resources/Shader/Effect/FlowMaskDisturbAdd.shader
+- Assets/Resources/Shader/Character/Boss_Edge.shader
+- Assets/Resources/Shader/Effect/Flow2LayerAdd.shader
+- Assets/Resources/Shader/Simple/Transparent.shader
+Dependencies: []

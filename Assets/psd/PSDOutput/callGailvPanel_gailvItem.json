@@ -1,0 +1,148 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "detailBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 18, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "查看详情", 
+                "underLine": false, 
+                "width": 73, 
+                "x": 439, 
+                "y": 14
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "detailBtn", 
+            "options": {
+                "bottom": 16, 
+                "height": 33, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "callGailvPanel#btn/huangxiaoanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 16, 
+                "width": 128, 
+                "x": 412, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "特殊说明", 
+                "underLine": false, 
+                "width": 87, 
+                "x": 9, 
+                "y": 11
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 10, 
+                "height": 35, 
+                "isScaleImage": true, 
+                "left": 84, 
+                "link": "callGailvPanel#board/kuangbiaotoudi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 84, 
+                "top": 20, 
+                "width": 542, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "contentLabel1", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "1.星英魂", 
+                "underLine": false, 
+                "width": 79, 
+                "x": 9, 
+                "y": 53
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "contentLabel2", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 17, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "100.00%", 
+                "underLine": false, 
+                "width": 76, 
+                "x": 436, 
+                "y": 55
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "callGailvPanel_gailvItem", 
+    "options": {
+        "height": 68, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 542, 
+        "x": 92, 
+        "y": 914
+    }
+}

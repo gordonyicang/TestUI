@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: heroKezhiTipsPanel.png (128 x 128)
+# $TexturePacker:SmartUpdate:80baf04c7a0fa5756f5ba853ec03bd28:58bfcc0a4f87653cac2237c67f061a99:36762e7f12fffd9821d02d3307c51971$
+#
+
+icon/jianbiancheng;17;32;13;39;0.5;0.5
+icon/jianbianhengzi;44;89;32;37;0.5;0.5
+icon/jianbianhong;2;32;13;39;0.5;0.5
+icon/jianbianlan;2;109;40;17;0.5;0.5
+icon/jianbianlv;2;73;31;34;0.5;0.5

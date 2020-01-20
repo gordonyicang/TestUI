@@ -1,0 +1,713 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 126, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#callTitleImg1.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 341, 
+                "x": 199, 
+                "y": 193
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 129, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#callTitleImg2.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 334, 
+                "x": 206, 
+                "y": 193
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg3", 
+            "options": {
+                "bottom": 0, 
+                "height": 128, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#callTitleImg3.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 336, 
+                "x": 204, 
+                "y": 193
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "callHeroImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#callHeroImg1.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 673, 
+                "x": 21, 
+                "y": 308
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 226, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/lvjuanliang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 162, 
+                "x": 115, 
+                "y": 683
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 193, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/lvjuan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 133, 
+                "x": 130, 
+                "y": 699
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectImg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 221, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/lanjuanliang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 162, 
+                "x": 278, 
+                "y": 683
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemImg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 186, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/lanjuan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 126, 
+                "x": 296, 
+                "y": 701
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectImg3", 
+            "options": {
+                "bottom": 0, 
+                "height": 220, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/jinjuanliang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 166, 
+                "x": 439, 
+                "y": 687
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemImg3", 
+            "options": {
+                "bottom": 0, 
+                "height": 191, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/jinjuan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 129, 
+                "x": 457, 
+                "y": 698
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tipsBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 59, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/wenhao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 57, 
+                "x": 18, 
+                "y": 145
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "img", 
+            "options": {
+                "bottom": 0, 
+                "height": 75, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/liangdeng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 69, 
+                "x": 651, 
+                "y": 52
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "callDesImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 22, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "callPanel#icon/jifen.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 91, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "progressBar", 
+                    "options": {
+                        "bottom": 5, 
+                        "height": 15, 
+                        "isScaleImage": true, 
+                        "left": 12, 
+                        "link": "callPanel#board/lvjindutiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 12, 
+                        "top": 6, 
+                        "width": 176, 
+                        "x": 105, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "progressBarBg", 
+                    "options": {
+                        "bottom": 10, 
+                        "height": 21, 
+                        "isScaleImage": true, 
+                        "left": 20, 
+                        "link": "callPanel#board/lvjindutiaodi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 20, 
+                        "top": 11, 
+                        "width": 192, 
+                        "x": 97, 
+                        "y": 1
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "scoreLayer", 
+            "options": {
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 289, 
+                "x": 362, 
+                "y": 81
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moreCallBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 85, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 26, 
+                        "height": 25, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "唤灵10次", 
+                        "underLine": false, 
+                        "width": 100, 
+                        "x": 330, 
+                        "y": 46
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "oneCallBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 85, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 26, 
+                        "height": 25, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "唤灵1次", 
+                        "underLine": false, 
+                        "width": 86, 
+                        "x": 39, 
+                        "y": 46
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "oneCallBtn", 
+                    "options": {
+                        "bottom": 30, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 47, 
+                        "link": "callPanel#btn/selectFhuanghua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 47, 
+                        "top": 26, 
+                        "width": 165, 
+                        "x": 0, 
+                        "y": 25
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moreCallBtn", 
+                    "options": {
+                        "bottom": 30, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 47, 
+                        "link": "callPanel#btn/selectFhuanghua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 47, 
+                        "top": 26, 
+                        "width": 165, 
+                        "x": 296, 
+                        "y": 25
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "freeTimeLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 191, 
+                        "colorG": 217, 
+                        "colorR": 223, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 20, 
+                        "height": 20, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "00：00：00后免费", 
+                        "underLine": false, 
+                        "width": 164, 
+                        "x": -1, 
+                        "y": 6
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "callLayer", 
+            "options": {
+                "height": 81, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 461, 
+                "x": 129, 
+                "y": 1012
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "oneNeedMoneyIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "callPanel#icon/jinbi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 56, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "oneNeedMoneyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 119, 
+                        "colorG": 123, 
+                        "colorR": 107, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "99", 
+                        "underLine": false, 
+                        "width": 24, 
+                        "x": 104, 
+                        "y": 14
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "oneNeedMoneyBg", 
+                    "options": {
+                        "bottom": 22, 
+                        "height": 42, 
+                        "isScaleImage": true, 
+                        "left": 98, 
+                        "link": "callPanel#board/zhandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 90, 
+                        "top": 12, 
+                        "width": 220, 
+                        "x": 0, 
+                        "y": 1
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "oneMoneyLayer", 
+            "options": {
+                "height": 43, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 220, 
+                "x": 106, 
+                "y": 1094
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moreNeedMoneyIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "callPanel#icon/xianyu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 57, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moreNeedMoneyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 119, 
+                        "colorG": 123, 
+                        "colorR": 107, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "99", 
+                        "underLine": false, 
+                        "width": 24, 
+                        "x": 102, 
+                        "y": 14
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moreNeedMoneyBg", 
+                    "options": {
+                        "bottom": 22, 
+                        "height": 42, 
+                        "isScaleImage": true, 
+                        "left": 98, 
+                        "link": "callPanel#board/zhandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 90, 
+                        "top": 12, 
+                        "width": 220, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moreMoneyLayer", 
+            "options": {
+                "height": 42, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 220, 
+                "x": 405, 
+                "y": 1095
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tipLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 136, 
+                "colorG": 235, 
+                "colorR": 255, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "随机召唤一个或十个普通~传说英魂", 
+                "underLine": false, 
+                "width": 342, 
+                "x": 211, 
+                "y": 959
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tipIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 46, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#icon/xinxi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 164, 
+                "y": 939
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "arrowImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "closeBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callPanel#choukabg.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=1\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "callPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

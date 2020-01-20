@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: createRolePanel.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:0d95e6af96ca9a45c0819cf4ac4ba73c:bf37e46d1a53c60d72ff4afc7f081c5a:6f606064e428b961908861aa4d564547$
+#
+
+bg;2;766;720;1280;0.5;0.5
+board/mingzidikuang;145;737;25;27;0.5;0.5
+btn/chuanjueanniu;2;689;141;75;0.5;0.5
+wenzi/jinruyouxi;2;658;152;29;0.5;0.5

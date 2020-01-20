@@ -1,0 +1,33 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "panelBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 899, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "testTabPanel1#panelBg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 651, 
+                "x": 32, 
+                "y": 184
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "testTabPanel1", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

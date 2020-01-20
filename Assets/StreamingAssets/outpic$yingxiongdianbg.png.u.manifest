@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2491401751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d84a6c2ad0a3dacabad9c1f6f57b0c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/hunDunCallPanel-icon/yingxiongdianbg.png
+Dependencies: []

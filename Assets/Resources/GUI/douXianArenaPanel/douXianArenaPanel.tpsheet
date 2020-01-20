@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: douXianArenaPanel.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:dd27ca97f14fedc749e95b8b77ec9253:729de06b75ea11b09d088d38ab1f034b:7938d84bad2159ed16eefbb2ed2aa20d$
+#
+
+board/shufengexian;2010;2014;2;32;0.5;0.5
+huangbaoxiang;1761;1883;51;48;0.5;0.5
+huangbaoxiangkai;1634;1877;64;54;0.5;0.5
+icon/bglanZ;1385;1933;623;113;0.5;0.5
+icon/douxiantai;1479;1906;86;25;0.5;0.5
+icon/jingjichangkuandi;2;1020;731;1026;0.5;0.5
+icon/piaodai;735;1884;648;162;0.5;0.5
+icon/shaijijieshu;1385;1908;92;23;0.5;0.5
+iconjingjishangdian;1385;1833;75;73;0.5;0.5
+lanbaoxiang;1588;1826;51;49;0.5;0.5
+lanbaoxiangkai;1567;1877;65;54;0.5;0.5
+paimingjin1da;1700;1872;59;59;0.5;0.5
+paimingtong3da;1462;1790;58;58;0.5;0.5
+paimingyin2da;1528;1817;58;58;0.5;0.5
+zibaoxiang;1641;1827;51;48;0.5;0.5
+zibaoxiangkai;1462;1850;64;54;0.5;0.5

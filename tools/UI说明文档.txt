@@ -1,0 +1,6 @@
+1.配置config.xml中的资源目录，指向策划项目的StreamingAssets
+2.从美术资源目录\\192.168.10.201\美工技术资源\（手游集合）\5组2019年项目\UI\ 拷贝对应psd文件到\Assets\psd\PSDIng\目录下并加上_英文名作为导出json文件名
+3.打开psd文件对图层进行重命名
+4.执行\Assets\psd\psdall2.bat
+5.在U3D项目中执行KYTool-UI-PSD2UGUI选中对应json文件，生成prefab
+6.执行KYTool-assetBundle-一键发布 将生成AB到config.xml配置的资源目录中

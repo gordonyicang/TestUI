@@ -1,0 +1,76 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "nameLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "充 值", 
+                "underLine": false, 
+                "width": 54, 
+                "x": 59, 
+                "y": 50
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn2", 
+            "options": {
+                "bottom": 0, 
+                "height": 91, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rechargePanel#icon/biaoqianlian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 180, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn1", 
+            "options": {
+                "bottom": 0, 
+                "height": 71, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rechargePanel#icon/biaoqian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 176, 
+                "x": 0, 
+                "y": 20
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "rechargePanel_tabBtn", 
+    "options": {
+        "height": 91, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 180, 
+        "x": 81, 
+        "y": 142
+    }
+}

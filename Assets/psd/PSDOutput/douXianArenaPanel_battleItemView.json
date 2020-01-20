@@ -1,0 +1,242 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 42, 
+                "x": 485, 
+                "y": 13
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 43, 
+                "colorG": 167, 
+                "colorR": 105, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 16, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "0", 
+                "underLine": false, 
+                "width": 12, 
+                "x": 527, 
+                "y": 29
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 38, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "douXianArenaPanel#board/baizidibianji.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 144, 
+                "x": 440, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "btnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 31, 
+                "colorG": 99, 
+                "colorR": 79, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "挑 战", 
+                "underLine": false, 
+                "width": 49, 
+                "x": 488, 
+                "y": 79
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "btn", 
+            "options": {
+                "bottom": 23, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "douXianArenaPanel#btn/lvanniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 25, 
+                "width": 149, 
+                "x": 438, 
+                "y": 59
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "combatImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 26, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#icon/zhan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 128, 
+                "y": 82
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "combatLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 53, 
+                "colorG": 106, 
+                "colorR": 94, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "5648145", 
+                "underLine": false, 
+                "width": 83, 
+                "x": 171, 
+                "y": 93
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "scoreLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "积分：99999", 
+                "underLine": false, 
+                "width": 124, 
+                "x": 130, 
+                "y": 52
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "nameLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "名字有六个字", 
+                "underLine": false, 
+                "width": 132, 
+                "x": 130, 
+                "y": 19
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "headPos", 
+            "options": {
+                "height": 106, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 104, 
+                "x": 15, 
+                "y": 10
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemBg", 
+            "options": {
+                "bottom": 30, 
+                "height": 125, 
+                "isScaleImage": true, 
+                "left": 34, 
+                "link": "douXianArenaPanel#board/kuangbiaotoudiqian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 34, 
+                "top": 4, 
+                "width": 605, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "douXianArenaPanel_battleItemView", 
+    "options": {
+        "height": 125, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 605, 
+        "x": 59, 
+        "y": 718
+    }
+}

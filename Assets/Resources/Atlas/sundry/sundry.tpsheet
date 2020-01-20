@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: sundry.png (512 x 512)
+# $TexturePacker:SmartUpdate:43a231c5b0b02618f07ac67fb90183f8:47619b3ec483a1e24d3f60f850df31a4:cdf338c5eb104eed85752ea9422d76bf$
+#
+
+zhenfa0;344;18;144;144;0.5;0.5
+zhenfa1;344;164;144;144;0.5;0.5
+zhenfa2;2;169;223;143;0.5;0.5
+zhenfa3;2;314;227;196;0.5;0.5
+zhenfa4;173;5;169;162;0.5;0.5
+zhenfa5;2;5;169;162;0.5;0.5
+zhenfa6;231;310;200;200;0.5;0.5

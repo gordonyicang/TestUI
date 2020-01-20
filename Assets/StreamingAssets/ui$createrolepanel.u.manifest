@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2700481002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0672a10c8e77e7ab7bfcfe7a82e53c6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 114822378cc3ec018e854b969b7d97d3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/createRolePanel/createRolePanel.png
+- Assets/Resources/GUI/createRolePanel/createRolePanelPrefab.prefab
+- Assets/Resources/GUI/createRolePanel/createRolePanel_alpha.png
+- Assets/Resources/GUI/createRolePanel/createRolePanel_etc.mat
+Dependencies:
+- U:/unity_workplace/208/UIProject/Assets/StreamingAssets/shader.u
+- U:/unity_workplace/208/UIProject/Assets/StreamingAssets/font$yhfont.ttf.u

@@ -1,0 +1,246 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "99", 
+                "underLine": false, 
+                "width": 24, 
+                "x": 363, 
+                "y": 559
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "descLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 203, 
+                "colorG": 236, 
+                "colorR": 229, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 44, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": false, 
+                "text": "可回退传说+及以上的英雄\r 回退后返还所有晋升材料", 
+                "underLine": false, 
+                "width": 255, 
+                "x": 232, 
+                "y": 379
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "okBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "回 退", 
+                "underLine": false, 
+                "width": 53, 
+                "x": 333, 
+                "y": 611
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 23, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#icon/huituiyulan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 95, 
+                "x": 315, 
+                "y": 278
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 23, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#icon/zhongzhiyulan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 96, 
+                "x": 314, 
+                "y": 278
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "selectItemPos", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 313, 
+                "y": 145
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemListView", 
+            "options": {
+                "height": 174, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 623, 
+                "x": 48, 
+                "y": 325
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 42, 
+                "x": 315, 
+                "y": 543
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyBg", 
+            "options": {
+                "bottom": 22, 
+                "height": 42, 
+                "isScaleImage": true, 
+                "left": 136, 
+                "link": "heroSoulTemplePanel#board/zhandi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 136, 
+                "top": 12, 
+                "width": 182, 
+                "x": 269, 
+                "y": 545
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "okBtn", 
+            "options": {
+                "bottom": 24, 
+                "height": 56, 
+                "isScaleImage": true, 
+                "left": 30, 
+                "link": "heroSoulTemplePanel#btn/huangdaanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 30, 
+                "top": 25, 
+                "width": 159, 
+                "x": 281, 
+                "y": 587
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tipBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 59, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#icon/wenhao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 57, 
+                "x": 647, 
+                "y": 4
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "infoBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 536, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#board/diwen.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 719, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroSoulTemplePanel_revertInfoView", 
+    "options": {
+        "height": 643, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 719, 
+        "x": 1, 
+        "y": 95
+    }
+}

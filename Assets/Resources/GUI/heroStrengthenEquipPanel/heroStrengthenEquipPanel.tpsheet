@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: heroStrengthenEquipPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:03f615bdf865025f65f614006dae716f:3163f906635e9c9c20458a81df596f21:dd81ae829cc4a42e05adae4ac3cc7f6c$
+#
+
+board/lvqiandi;583;993;387;29;0.5;0.5
+board/yuandihua;2;824;579;198;0.5;0.5

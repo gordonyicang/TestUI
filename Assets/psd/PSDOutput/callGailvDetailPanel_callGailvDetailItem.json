@@ -1,0 +1,57 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "cellImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 93, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "callGailvDetailPanel#cells/beibaokuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 94, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "gailvLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 139, 
+                "colorG": 204, 
+                "colorR": 181, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 17, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "5.888%", 
+                "underLine": false, 
+                "width": 68, 
+                "x": 13, 
+                "y": 107
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "callGailvDetailPanel_callGailvDetailItem", 
+    "options": {
+        "height": 118, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 94, 
+        "x": 104, 
+        "y": 434
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "shopItemBar", 
+            "options": {
+                "bottom": 6, 
+                "height": 19, 
+                "isScaleImage": true, 
+                "left": 14, 
+                "link": "hunDunCallShopPanel#board/jiazi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 14, 
+                "top": 11, 
+                "width": 666, 
+                "x": 29, 
+                "y": 614
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 55, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/yuanxuanzhongkuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 55, 
+                "x": 150, 
+                "y": 1042
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/hongmengshangdian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 120, 
+                "x": 300, 
+                "y": 153
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "iconImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/quan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 152, 
+                "y": 1044
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "iconImg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/ren.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 224, 
+                "y": 1044
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "iconImg3", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/gui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 297, 
+                "y": 1044
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "iconImg4", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/yao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 369, 
+                "y": 1044
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "iconImg5", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/shen.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 442, 
+                "y": 1044
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "iconImg6", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/mo.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 514, 
+                "y": 1044
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemList", 
+            "options": {
+                "height": 832, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 667, 
+                "x": 28, 
+                "y": 184
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "arrowImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "closeBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bottomImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 85, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/shangchengditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 666, 
+                "x": 28, 
+                "y": 1029
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "lineImg1", 
+            "options": {
+                "bottom": 10, 
+                "height": 861, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "hunDunCallShopPanel#board/fengezhixian.png", 
+                "opacity": 214, 
+                "property": "", 
+                "right": 1, 
+                "top": 10, 
+                "width": 22, 
+                "x": 245, 
+                "y": 164
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "lineImg2", 
+            "options": {
+                "bottom": 10, 
+                "height": 861, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "hunDunCallShopPanel#board/fengezhixian.png", 
+                "opacity": 214, 
+                "property": "", 
+                "right": 1, 
+                "top": 10, 
+                "width": 22, 
+                "x": 450, 
+                "y": 164
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "leftImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 499, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/hongchouduan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 72, 
+                "x": 8, 
+                "y": 159
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "rightImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 499, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/hongchouduan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 72, 
+                "x": 639, 
+                "y": 159
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg1", 
+            "options": {
+                "bottom": 40, 
+                "height": 1041, 
+                "isScaleImage": true, 
+                "left": 1, 
+                "link": "hunDunCallShopPanel#board/shangchengkuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 357, 
+                "top": 116, 
+                "width": 359, 
+                "x": 1, 
+                "y": 89
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg2", 
+            "options": {
+                "bottom": 40, 
+                "height": 1041, 
+                "isScaleImage": true, 
+                "left": 1, 
+                "link": "hunDunCallShopPanel#board/shangchengkuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 357, 
+                "top": 116, 
+                "width": 360, 
+                "x": 360, 
+                "y": 89
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "hunDunCallShopPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

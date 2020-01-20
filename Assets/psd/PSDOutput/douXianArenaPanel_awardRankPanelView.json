@@ -1,0 +1,313 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "btnLabel1", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "每日奖励", 
+                "underLine": false, 
+                "width": 87, 
+                "x": 214, 
+                "y": 29
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "btnLabel2", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 31, 
+                "colorG": 99, 
+                "colorR": 79, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "赛季奖励", 
+                "underLine": false, 
+                "width": 87, 
+                "x": 316, 
+                "y": 29
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "btn1", 
+            "options": {
+                "bottom": 25, 
+                "height": 48, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "douXianArenaPanel#btn/lingxinganniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 7, 
+                "top": 22, 
+                "width": 113, 
+                "x": 196, 
+                "y": 11
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "btn2", 
+            "options": {
+                "bottom": 25, 
+                "height": 48, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "douXianArenaPanel#btn/lingxinganniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 7, 
+                "top": 22, 
+                "width": 113, 
+                "x": 308, 
+                "y": 11
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selBtn1", 
+            "options": {
+                "bottom": 25, 
+                "height": 48, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "douXianArenaPanel#btn/lingxinganniucheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 7, 
+                "top": 22, 
+                "width": 113, 
+                "x": 195, 
+                "y": 11
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selBtn2", 
+            "options": {
+                "bottom": 25, 
+                "height": 48, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "douXianArenaPanel#btn/lingxinganniucheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 7, 
+                "top": 22, 
+                "width": 116, 
+                "x": 308, 
+                "y": 11
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "awardTitle", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "奖 励", 
+                "underLine": false, 
+                "width": 49, 
+                "x": 380, 
+                "y": 78
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "rankTitle", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "排 名", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 76, 
+                "y": 79
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleLine", 
+            "options": {
+                "bottom": 0, 
+                "height": 32, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#board/shufengexian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 2, 
+                "x": 197, 
+                "y": 67
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 10, 
+                "height": 35, 
+                "isScaleImage": true, 
+                "left": 84, 
+                "link": "douXianArenaPanel#board/kuangbiaotoudi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 84, 
+                "top": 20, 
+                "width": 607, 
+                "x": 7, 
+                "y": 67
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "awardTimeDesc", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "奖励每日21：00通过邮件发放", 
+                "underLine": false, 
+                "width": 285, 
+                "x": 321, 
+                "y": 655
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemListView", 
+            "options": {
+                "height": 384, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 587, 
+                "x": 17, 
+                "y": 115
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "myItemPos", 
+            "options": {
+                "height": 120, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 605, 
+                "x": 9, 
+                "y": 517
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "listViewBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 402, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "douXianArenaPanel#board/baidikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 605, 
+                "x": 8, 
+                "y": 105
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "panelViewBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 684, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "douXianArenaPanel#board/qiansedikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 621, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "douXianArenaPanel_awardRankPanelView", 
+    "options": {
+        "height": 684, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 621, 
+        "x": 51, 
+        "y": 391
+    }
+}

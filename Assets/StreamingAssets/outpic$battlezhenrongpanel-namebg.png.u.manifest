@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 330458736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d6d6091b5e921771fc5a5d55b763dda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/battleZhenRongPanel-nameBg.png
+Dependencies: []

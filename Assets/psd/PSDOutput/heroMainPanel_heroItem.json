@@ -1,0 +1,133 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "upImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 76, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroMainPanel#icon/guanganjianyou.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 54, 
+                "x": 95, 
+                "y": 114
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "typeIcon1", 
+            "options": {
+                "bottom": 0, 
+                "height": 41, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroMainPanel#icon/mo.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 40, 
+                "x": 16, 
+                "y": 2
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "typeIcon2", 
+            "options": {
+                "bottom": 0, 
+                "height": 35, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroMainPanel#icon/lanbagua.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 34, 
+                "x": 119, 
+                "y": 4
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "levelLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 18, 
+                "height": 15, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": " 999", 
+                "underLine": false, 
+                "width": 31, 
+                "x": 52, 
+                "y": 17
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 35, 
+                "height": 205, 
+                "isScaleImage": true, 
+                "left": 102, 
+                "link": "heroMainPanel#board/lvkuangda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 46, 
+                "top": 48, 
+                "width": 162, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "heroHeadImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 177, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroMainPanel#heroHeadImg.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 129, 
+                "x": 17, 
+                "y": 10
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroMainPanel_heroItem", 
+    "options": {
+        "height": 205, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 232, 
+        "x": 358, 
+        "y": 495
+    }
+}

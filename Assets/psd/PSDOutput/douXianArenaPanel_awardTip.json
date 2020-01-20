@@ -1,0 +1,70 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "countLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "26.0", 
+                "colorB": 203, 
+                "colorG": 236, 
+                "colorR": 229, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 16, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "×5", 
+                "underLine": false, 
+                "width": 28, 
+                "x": 41, 
+                "y": 120
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "itemPos", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 13, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "awardBg", 
+            "options": {
+                "bottom": 10, 
+                "height": 144, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "douXianArenaPanel#board/xiaotipskuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 10, 
+                "width": 120, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "douXianArenaPanel_awardTip", 
+    "options": {
+        "height": 144, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 120, 
+        "x": 91, 
+        "y": 827
+    }
+}

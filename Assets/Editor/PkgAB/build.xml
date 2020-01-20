@@ -1,0 +1,12 @@
+<!-- 格式：路径,模式
+	默认单文件单个AssetBundler
+	1表示 不再遍历子文件夹，该文件夹下有什么打什么，该目录下文件或文件夹都单独打包成一个ab
+	比如 Assets\Resources\Maps,1   这么配就会打成2个AB：10001.unity 10001 Compond
+	2单独打自己整个文件夹，不再往下遍历:
+	Assets\Resources\Shader,2   就把整个Shader打成一个
+-->
+<config>
+	<node name="Atlas">Assets\Resources\Atlas,1</node>
+	<node name="Maps">Assets\Resources\Maps,1</node>
+	<node name="Shader">Assets\Resources\Shader,2</node>
+</config>

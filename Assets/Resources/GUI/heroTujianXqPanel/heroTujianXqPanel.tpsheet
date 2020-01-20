@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: heroTujianXqPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:3c198c9067df2a8772b5f0fb8f4a0780:b1f8f3c7f12af8df130d499d3d0367b3:e1f0ec1596862c10171e7f545151d15f$
+#
+
+board/chenghaodi;724;892;61;48;0.5;0.5
+board/heng;2;604;720;418;0.5;0.5
+board/wenzilvdi;724;1001;281;21;0.5;0.5
+btn/youceliangtai;798;889;65;110;0.5;0.5
+icon/chenghaowenzi;724;860;53;30;0.5;0.5
+icon/youcediaozhui;865;934;23;65;0.5;0.5
+icon/youcehudie;724;942;72;57;0.5;0.5

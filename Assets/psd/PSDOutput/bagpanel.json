@@ -1,0 +1,161 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "btn1", 
+            "options": {
+                "bottom": 0, 
+                "height": 98, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "bagpanel#btn/zhuangbeiliang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 84, 
+                "x": 145, 
+                "y": 138
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selBtn1", 
+            "options": {
+                "bottom": 0, 
+                "height": 98, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "bagpanel#btn/zhuangbeian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 84, 
+                "x": 145, 
+                "y": 138
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selBtn2", 
+            "options": {
+                "bottom": 0, 
+                "height": 99, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "bagpanel#btn/daojuan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 84, 
+                "x": 317, 
+                "y": 115
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "btn2", 
+            "options": {
+                "bottom": 0, 
+                "height": 99, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "bagpanel#btn/daojuliang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 84, 
+                "x": 317, 
+                "y": 115
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selBtn3", 
+            "options": {
+                "bottom": 0, 
+                "height": 98, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "bagpanel#btn/liangyuan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 84, 
+                "x": 491, 
+                "y": 136
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "btn3", 
+            "options": {
+                "bottom": 0, 
+                "height": 98, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "bagpanel#btn/liangyuliang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 84, 
+                "x": 491, 
+                "y": 136
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "bagList", 
+            "options": {
+                "height": 757, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 565, 
+                "x": 78, 
+                "y": 256
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 293, 
+                "height": 1280, 
+                "isScaleImage": true, 
+                "left": 360, 
+                "link": "bagpanel#board/beibaodi.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 360, 
+                "top": 242, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "bagpanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "rankIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 63, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "battleShowPanel#icon/banghangbang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 57, 
+                "x": 16, 
+                "y": 125
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "awardIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 68, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "battleShowPanel#icon/liwu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 66, 
+                "x": 11, 
+                "y": 199
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "xiulianIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 68, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "battleShowPanel#icon/kuaisuxiulian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 67, 
+                "x": 643, 
+                "y": 1067
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "goBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "20.69231", 
+                "colorB": 22, 
+                "colorG": 96, 
+                "colorR": 187, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 28, 
+                "height": 29, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "挑战强敌", 
+                "underLine": false, 
+                "width": 113, 
+                "x": 328, 
+                "y": 1090
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bladeIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 44, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "battleShowPanel#icon/huojian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 38, 
+                "x": 265, 
+                "y": 1072
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "goBtn", 
+            "options": {
+                "bottom": 30, 
+                "height": 80, 
+                "isScaleImage": true, 
+                "left": 40, 
+                "link": "battleShowPanel#btn/dahuangguanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 40, 
+                "top": 49, 
+                "width": 242, 
+                "x": 240, 
+                "y": 1056
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "battleShowPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

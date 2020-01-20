@@ -1,0 +1,47 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "tabBtnList", 
+            "options": {
+                "height": 54, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 450, 
+                "x": 36, 
+                "y": 110
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroMainPanel#bg.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 719, 
+                "x": -1, 
+                "y": -1
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroMainPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

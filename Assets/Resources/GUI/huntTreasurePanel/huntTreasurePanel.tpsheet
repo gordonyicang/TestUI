@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: huntTreasurePanel.png (512 x 512)
+# $TexturePacker:SmartUpdate:e1a2e9e8b25ae262922aeb8c783b4900:ec76aa24e4c3ed3b8649b95f76b31f88:22776674346869fe77ab9ee576a036b0$
+#
+
+board/hongshengzi;157;252;3;5;0.5;0.5
+board/hongshengzihui;152;252;3;5;0.5;0.5
+icon/denglong;210;51;71;206;0.5;0.5
+icon/denglonghui;137;42;71;206;0.5;0.5
+icon/gaojiqiantong;2;4;133;244;0.5;0.5
+icon/gaojiqiantongchangtai;283;54;90;203;0.5;0.5
+icon/putogqiantong;2;250;148;260;0.5;0.5
+icon/putogqiantongchangtai;375;308;88;202;0.5;0.5
+icon/qiantouying;283;2;139;50;0.5;0.5
+icon/xingyunzhi;137;18;71;22;0.5;0.5
+icon/xuanzhong;152;259;135;251;0.5;0.5

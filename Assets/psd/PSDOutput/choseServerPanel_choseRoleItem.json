@@ -1,0 +1,156 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "serverNameLabel", 
+            "options": {
+                "AntiAlias": 3, 
+                "Justification": 0, 
+                "Leading": "0.0", 
+                "colorB": 53, 
+                "colorG": 53, 
+                "colorR": 89, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "S1000-一二三四", 
+                "underLine": false, 
+                "width": 82, 
+                "x": 74, 
+                "y": 79
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "roleNameLabel", 
+            "options": {
+                "AntiAlias": 3, 
+                "Justification": 0, 
+                "Leading": "0.0", 
+                "colorB": 11, 
+                "colorG": 13, 
+                "colorR": 131, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "一二三四五", 
+                "underLine": false, 
+                "width": 70, 
+                "x": 74, 
+                "y": 41
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectBg", 
+            "options": {
+                "bottom": 28, 
+                "height": 122, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "choseServerPanel#cells/cellSelect1.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 28, 
+                "top": 28, 
+                "width": 245, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "serverStateIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 23, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "choseServerPanel#icon/hongsedian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 13, 
+                "x": 220, 
+                "y": 49
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "levelLabel", 
+            "options": {
+                "AntiAlias": 3, 
+                "Justification": 0, 
+                "Leading": "0.0", 
+                "colorB": 255, 
+                "colorG": 255, 
+                "colorR": 255, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 18, 
+                "height": 14, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "888", 
+                "underLine": false, 
+                "width": 17, 
+                "x": 41, 
+                "y": 87
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "headPos", 
+            "options": {
+                "height": 82, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 48, 
+                "x": 14, 
+                "y": 20
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemBg", 
+            "options": {
+                "bottom": 48, 
+                "height": 114, 
+                "isScaleImage": true, 
+                "left": 78, 
+                "link": "choseServerPanel#btn/qianseanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 187, 
+                "top": 44, 
+                "width": 239, 
+                "x": 3, 
+                "y": 4
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "choseServerPanel_choseRoleItem", 
+    "options": {
+        "height": 122, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 245, 
+        "x": 185, 
+        "y": 467
+    }
+}

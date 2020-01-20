@@ -1,0 +1,147 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "listView", 
+            "options": {
+                "height": 708, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 534, 
+                "x": 95, 
+                "y": 311
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "boardBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 741, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "heroJinjiePanel#board/qiansedikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 550, 
+                "x": 87, 
+                "y": 297
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "进阶预览", 
+                "underLine": false, 
+                "width": 87, 
+                "x": 321, 
+                "y": 254
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroJinjiePanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 623, 
+                "y": 235
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "topImg2", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "heroJinjiePanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 240, 
+                "y": 238
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "topImg", 
+            "options": {
+                "bottom": 13, 
+                "height": 28, 
+                "isScaleImage": true, 
+                "left": 212, 
+                "link": "heroJinjiePanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 212, 
+                "top": 14, 
+                "width": 644, 
+                "x": 43, 
+                "y": 235
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 54, 
+                "height": 839, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "heroJinjiePanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 656, 
+                "x": 43, 
+                "y": 243
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroJinjiePanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

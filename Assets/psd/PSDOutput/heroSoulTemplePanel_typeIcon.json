@@ -1,0 +1,52 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 55, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#icon/yuanxuanzhongkuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 55, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "typeIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 53, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#icon/ren.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 2, 
+                "y": 2
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroSoulTemplePanel_typeIcon", 
+    "options": {
+        "height": 55, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 55, 
+        "x": 187, 
+        "y": 758
+    }
+}

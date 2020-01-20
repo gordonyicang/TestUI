@@ -1,0 +1,276 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "equipList", 
+            "options": {
+                "height": 94, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 425, 
+                "x": 147, 
+                "y": 513
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "cancelLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 31, 
+                "colorG": 99, 
+                "colorR": 79, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "取 消", 
+                "underLine": false, 
+                "width": 49, 
+                "x": 201, 
+                "y": 685
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "cancelBtn", 
+            "options": {
+                "bottom": 23, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "heroStrengthenTwoTipsPanel#btn/lvanniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 25, 
+                "width": 149, 
+                "x": 152, 
+                "y": 666
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "oKBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "确 定", 
+                "underLine": false, 
+                "width": 50, 
+                "x": 467, 
+                "y": 685
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "okBtn", 
+            "options": {
+                "bottom": 36, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "heroStrengthenTwoTipsPanel#btn/huanganniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 12, 
+                "width": 149, 
+                "x": 417, 
+                "y": 666
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tipsLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 87, 
+                "colorG": 85, 
+                "colorR": 250, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "强化材料中包含稀有装备，是否确定要消耗", 
+                "underLine": false, 
+                "width": 418, 
+                "x": 148, 
+                "y": 474
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "提 示", 
+                "underLine": false, 
+                "width": 54, 
+                "x": 335, 
+                "y": 394
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroStrengthenTwoTipsPanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 583, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg2", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "heroStrengthenTwoTipsPanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 235, 
+                "y": 378
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 13, 
+                "height": 36, 
+                "isScaleImage": true, 
+                "left": 212, 
+                "link": "heroStrengthenTwoTipsPanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 212, 
+                "top": 14, 
+                "width": 574, 
+                "x": 73, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bottomBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 114, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroStrengthenTwoTipsPanel#icon/sanjijiemianditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 540, 
+                "x": 89, 
+                "y": 639
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg1", 
+            "options": {
+                "bottom": 8, 
+                "height": 198, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "heroStrengthenTwoTipsPanel#board/baidikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 482, 
+                "x": 118, 
+                "y": 440
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 54, 
+                "height": 403, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "heroStrengthenTwoTipsPanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 587, 
+                "x": 74, 
+                "y": 373
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroStrengthenTwoTipsPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

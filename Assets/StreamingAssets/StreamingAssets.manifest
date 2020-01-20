@@ -1,0 +1,341 @@
+ManifestFileVersion: 0
+CRC: 81653237
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas$icon.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_1:
+      Name: ui$common.u
+      Dependencies:
+        Dependency_0: shader.u
+        Dependency_1: font$yhfont.ttf.u
+        Dependency_2: ui$heromainpanel.u
+    Info_2:
+      Name: ui$bagpanel.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_3:
+      Name: ui$mainpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_4:
+      Name: ui$mysticalshoppanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_5:
+      Name: ui$choseserverpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_6:
+      Name: outpic$panelbg1.png.u
+      Dependencies: {}
+    Info_7:
+      Name: shader.u
+      Dependencies: {}
+    Info_8:
+      Name: font$yhfont.ttf.u
+      Dependencies: {}
+    Info_9:
+      Name: ui$scenebase.u
+      Dependencies: {}
+    Info_10:
+      Name: ui$hunduncallpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_11:
+      Name: ui$rechargepanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_12:
+      Name: ui$createrolepanel.u
+      Dependencies:
+        Dependency_0: shader.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_13:
+      Name: ui$vippanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_14:
+      Name: ui$hunttreasurepanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_15:
+      Name: atlas$herocard1.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_16:
+      Name: ui$testtabpanel1.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_17:
+      Name: ui$hunduncallshoppanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_18:
+      Name: ui$testpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_19:
+      Name: ui$callscorepanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_20:
+      Name: ui$hunttreasureawardview.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_21:
+      Name: ui$herodetailspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_22:
+      Name: atlas$herogrid1.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_23:
+      Name: ui$changwantequanpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_24:
+      Name: atlas$zhuangbei.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_25:
+      Name: ui$rewardpanel.u
+      Dependencies:
+        Dependency_0: shader.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_26:
+      Name: atlas$herocard2.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_27:
+      Name: ui$jubaopenpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_28:
+      Name: ui$herostrengthenequippanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_29:
+      Name: ui$composetipspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_30:
+      Name: ui$mailpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_31:
+      Name: atlas$number.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_32:
+      Name: ui$battleshowpanel.u
+      Dependencies:
+        Dependency_0: shader.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_33:
+      Name: ui$herokezhitipspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_34:
+      Name: ui$herojinshengsuccesspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_35:
+      Name: ui$heromainpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_36:
+      Name: ui$callpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_37:
+      Name: ui$herosoultemplepanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_38:
+      Name: atlas$herogrid2.u
+      Dependencies:
+        Dependency_0: shader.u
+    Info_39:
+      Name: ui$shoppanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_40:
+      Name: ui$battlezhenrongpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: shader.u
+        Dependency_2: font$yhfont.ttf.u
+    Info_41:
+      Name: outpic$hunduncallpanel-yingxiongdianbg.png.u
+      Dependencies: {}
+    Info_42:
+      Name: outpic$herosoultemplepanelbg.png.u
+      Dependencies: {}
+    Info_43:
+      Name: ui$lilianmap.u
+      Dependencies: {}
+    Info_44:
+      Name: outpic$herodetailspanel_bg1.png.u
+      Dependencies: {}
+    Info_45:
+      Name: outpic$rewardpanel-rewardtitlebg.png.u
+      Dependencies: {}
+    Info_46:
+      Name: outpic$herodetailspanel_bg2.png.u
+      Dependencies: {}
+    Info_47:
+      Name: outpic$hunduncallshoppanel-shangchengkuang.png.u
+      Dependencies: {}
+    Info_48:
+      Name: outpic$huodejiangli.png.u
+      Dependencies: {}
+    Info_49:
+      Name: outpic$herodetailspanel_bg5.png.u
+      Dependencies: {}
+    Info_50:
+      Name: outpic$hunduncallpanel-beijing.png.u
+      Dependencies: {}
+    Info_51:
+      Name: outpic$callpanel-choukabg.png.u
+      Dependencies: {}
+    Info_52:
+      Name: outpic$rechargepanel-chonzhiditu.png.u
+      Dependencies: {}
+    Info_53:
+      Name: outpic$hunttreasurepanelbg.png.u
+      Dependencies: {}
+    Info_54:
+      Name: outpic$changwantequanpanel-changwantequanditu.png.u
+      Dependencies: {}
+    Info_55:
+      Name: outpic$rewardpanel-huodejiangli.png.u
+      Dependencies: {}
+    Info_56:
+      Name: outpic$herodetailspanel_bg4.png.u
+      Dependencies: {}
+    Info_57:
+      Name: outpic$herodetailspanel_bg3.png.u
+      Dependencies: {}
+    Info_58:
+      Name: outpic$heromainpanel-bg.png.u
+      Dependencies: {}
+    Info_59:
+      Name: ui$buytipspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_60:
+      Name: ui$callgailvpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_61:
+      Name: ui$heroequipreplacepanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_62:
+      Name: ui$heroxqproppanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_63:
+      Name: ui$maildetailpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_64:
+      Name: ui$callgailvdetailpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_65:
+      Name: ui$herolevelsuccesspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_66:
+      Name: ui$awardpreviewpanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_67:
+      Name: ui$herostrengthentwotipspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_68:
+      Name: ui$heroupleveltipspanel.u
+      Dependencies:
+        Dependency_0: ui$common.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_69:
+      Name: ui$loginpanel.u
+      Dependencies:
+        Dependency_0: shader.u
+        Dependency_1: font$yhfont.ttf.u
+    Info_70:
+      Name: outpic$battlezhenrongpanel-muwenbg.png.u
+      Dependencies: {}
+    Info_71:
+      Name: outpic$battlezhenrongpanel-namebg.png.u
+      Dependencies: {}
+    Info_72:
+      Name: outpic$mainpanel-xialan.png.u
+      Dependencies: {}
+    Info_73:
+      Name: outpic$mainpanel-shang.png.u
+      Dependencies: {}
+    Info_74:
+      Name: outpic$bg.png.u
+      Dependencies: {}

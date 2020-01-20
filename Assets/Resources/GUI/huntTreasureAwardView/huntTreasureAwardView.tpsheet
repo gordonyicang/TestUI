@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: huntTreasureAwardView.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:3860732521c819b4e03af4daea9941ac:fa2240a0c3bee4226078ef74ab579ae9:5cb72a2c932a8b3ec1b8284859556bed$
+#
+
+board/hehuadi;2;601;719;421;0.5;0.5
+icon/daji;723;549;199;239;0.5;0.5
+icon/dajimu;723;790;206;232;0.5;0.5
+icon/xiaoji;2;176;191;244;0.5;0.5
+icon/xiaojimu;195;177;193;243;0.5;0.5
+icon/zhongji;924;422;81;299;0.5;0.5
+icon/zhongjimu;931;723;81;299;0.5;0.5

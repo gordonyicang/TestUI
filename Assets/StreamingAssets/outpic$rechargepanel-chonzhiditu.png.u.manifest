@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2933310812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06ddde9f9ca21625c4e1f5338b410fe0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/rechargePanel-chonzhiditu.png
+Dependencies: []

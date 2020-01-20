@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: rewardPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:a32f854eb3f6f2d404b91e8d6f037a15:e12edc70ddff97a35eece83236adb82a:642ad1a71b57fec3da456bdc867d9021$
+#
+
+board/hehuadi;2;601;719;421;0.5;0.5
+huodejiangli;2;181;402;104;0.5;0.5
+rewardTitleBg;2;287;699;312;0.5;0.5

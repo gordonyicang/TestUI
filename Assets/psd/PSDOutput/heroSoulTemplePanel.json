@@ -1,0 +1,295 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "backBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "backArrowImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "backBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "btnLabel1", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 86, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 22, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "分 解", 
+                        "underLine": false, 
+                        "width": 50, 
+                        "x": 41, 
+                        "y": 18
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "btnLabel2", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 31, 
+                        "colorG": 99, 
+                        "colorR": 79, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 21, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "重 置", 
+                        "underLine": false, 
+                        "width": 50, 
+                        "x": 148, 
+                        "y": 18
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "btnLabel3", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 31, 
+                        "colorG": 99, 
+                        "colorR": 79, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 20, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "回 退", 
+                        "underLine": false, 
+                        "width": 49, 
+                        "x": 251, 
+                        "y": 19
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectBtn1", 
+                    "options": {
+                        "bottom": 25, 
+                        "height": 48, 
+                        "isScaleImage": true, 
+                        "left": 28, 
+                        "link": "heroSoulTemplePanel#btn/lingxinganniucheng.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 7, 
+                        "top": 22, 
+                        "width": 113, 
+                        "x": 1, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectBtn2", 
+                    "options": {
+                        "bottom": 25, 
+                        "height": 48, 
+                        "isScaleImage": true, 
+                        "left": 7, 
+                        "link": "heroSoulTemplePanel#btn/fangxinganniucheng.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 7, 
+                        "top": 22, 
+                        "width": 113, 
+                        "x": 114, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectBtn3", 
+                    "options": {
+                        "bottom": 25, 
+                        "height": 48, 
+                        "isScaleImage": true, 
+                        "left": 28, 
+                        "link": "heroSoulTemplePanel#btn/lingxinganniucheng.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 7, 
+                        "top": 22, 
+                        "width": 116, 
+                        "x": 227, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "btn1", 
+                    "options": {
+                        "bottom": 25, 
+                        "height": 48, 
+                        "isScaleImage": true, 
+                        "left": 28, 
+                        "link": "heroSoulTemplePanel#btn/lingxinganniu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 7, 
+                        "top": 22, 
+                        "width": 114, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "btn2", 
+                    "options": {
+                        "bottom": 25, 
+                        "height": 48, 
+                        "isScaleImage": true, 
+                        "left": 7, 
+                        "link": "heroSoulTemplePanel#btn/fangxinganniu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 7, 
+                        "top": 22, 
+                        "width": 113, 
+                        "x": 114, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "btn3", 
+                    "options": {
+                        "bottom": 25, 
+                        "height": 48, 
+                        "isScaleImage": true, 
+                        "left": 28, 
+                        "link": "heroSoulTemplePanel#btn/lingxinganniu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 7, 
+                        "top": 22, 
+                        "width": 116, 
+                        "x": 227, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "btnLayer", 
+            "options": {
+                "height": 48, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 343, 
+                "x": 186, 
+                "y": 105
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "panelBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroSoulTemplePanel#board/beijing.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroSoulTemplePanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

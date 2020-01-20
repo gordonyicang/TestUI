@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2189681088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 380d28d18eb2d5702ba4c7499316ec27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/changWanTeQuanPanel-changwantequanditu.png
+Dependencies: []

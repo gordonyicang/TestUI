@@ -1,0 +1,413 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "tabBtnList", 
+            "options": {
+                "height": 519, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 65, 
+                "x": 8, 
+                "y": 191
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "topBtnGrop", 
+            "options": {
+                "bottom": 0, 
+                "height": 74, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#topBtnGrop.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 18, 
+                "x": 26, 
+                "y": 145
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "downBtnGrop", 
+            "options": {
+                "bottom": 0, 
+                "height": 93, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#downBtnGrop.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 29, 
+                "x": 16, 
+                "y": 705
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "hongChouDuan1", 
+            "options": {
+                "bottom": 0, 
+                "height": 499, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#hongchouduan.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 72, 
+                "x": 8, 
+                "y": 159
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "hongChouDuan2", 
+            "options": {
+                "bottom": 0, 
+                "height": 499, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#hongchouduan.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 72, 
+                "x": 639, 
+                "y": 159
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "listView", 
+            "options": {
+                "height": 832, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 666, 
+                "x": 29, 
+                "y": 184
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "timeLabel2", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 119, 
+                        "colorG": 123, 
+                        "colorR": 107, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 24, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "刷新时间：", 
+                        "underLine": false, 
+                        "width": 103, 
+                        "x": -1, 
+                        "y": 22
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "timeLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 119, 
+                        "colorG": 123, 
+                        "colorR": 107, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "10:00:00", 
+                        "underLine": false, 
+                        "width": 84, 
+                        "x": 110, 
+                        "y": 24
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "allCountLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 119, 
+                        "colorG": 123, 
+                        "colorR": 107, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "刷新次数：99/100", 
+                        "underLine": false, 
+                        "width": 188, 
+                        "x": 266, 
+                        "y": 23
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "countLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 86, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "刷新（0/3）", 
+                        "underLine": false, 
+                        "width": 120, 
+                        "x": 503, 
+                        "y": 23
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "countBtn", 
+                    "options": {
+                        "bottom": 24, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 30, 
+                        "link": "shopPanel#btn/huangdaanniu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 30, 
+                        "top": 25, 
+                        "width": 159, 
+                        "x": 481, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "flushLayer", 
+            "options": {
+                "height": 56, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 640, 
+                "x": 39, 
+                "y": 1045
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "{name}", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 25, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "shopPanel#btn/fanhuiheng.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 33, 
+                        "x": 18, 
+                        "y": 13
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "{name}", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 86, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 21, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "返 回", 
+                        "underLine": false, 
+                        "width": 48, 
+                        "x": 58, 
+                        "y": 20
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "closeBtn", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 50, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "shopPanel#btn/fanhui.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 130, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "fanhui", 
+            "options": {
+                "height": 50, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "titleImage", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 23, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "shopPanel#icon/linlangge.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 89, 
+                        "x": 333, 
+                        "y": 157
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "flushBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 85, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "shopPanel#shangchengditu.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 666, 
+                        "x": 47, 
+                        "y": 1032
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "leftBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1041, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "shopPanel#shangchengkuang.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 359, 
+                        "x": 20, 
+                        "y": 92
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "rightBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1041, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "shopPanel#shangchengkuang.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 360, 
+                        "x": 379, 
+                        "y": 92
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "zudikuang", 
+            "options": {
+                "height": 2115, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 923, 
+                "x": -19, 
+                "y": -3
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "shopPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

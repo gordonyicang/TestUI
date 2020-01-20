@@ -1,0 +1,917 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "tipsLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 81, 
+                        "colorG": 85, 
+                        "colorR": 67, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 22, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "一起来玩游戏好吗?", 
+                        "underLine": false, 
+                        "width": 186, 
+                        "x": 85, 
+                        "y": 34
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "arrowImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 11, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#board/qipaoheijianjian.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 9, 
+                        "x": 67, 
+                        "y": 32
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "board", 
+                    "options": {
+                        "bottom": 12, 
+                        "height": 39, 
+                        "isScaleImage": true, 
+                        "left": 12, 
+                        "link": "mainPanel#board/qipaohei.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 12, 
+                        "top": 12, 
+                        "width": 205, 
+                        "x": 76, 
+                        "y": 20
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "chatIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 69, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#btn/liaotian.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 69, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "chatIconLayer", 
+            "options": {
+                "height": 69, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 281, 
+                "x": 253, 
+                "y": 945
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 92, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/gonghui2.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 72, 
+                        "x": 154, 
+                        "y": 37
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 95, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/beibao2.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 68, 
+                        "x": 244, 
+                        "y": 34
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 97, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/lingshou2.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 69, 
+                        "x": 331, 
+                        "y": 32
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 97, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/zhucheng2.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 72, 
+                        "x": 603, 
+                        "y": 34
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon5", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 93, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/kuafu2.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 70, 
+                        "x": 694, 
+                        "y": 36
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon6", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 93, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/lilian2.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 74, 
+                        "x": 781, 
+                        "y": 36
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "huaIcon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 40, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/bianhua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 2, 
+                        "y": 91
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "huaIcon2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 40, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/bianhua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 966, 
+                        "y": 91
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 64, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/fengesanjiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 298, 
+                        "y": 67
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 64, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/fengesanjiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 191, 
+                        "y": 67
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 64, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/fengesanjiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 759, 
+                        "y": 67
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 64, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/fengesanjiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 659, 
+                        "y": 67
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "battleIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 91, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#battleIcon.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 84, 
+                        "x": 461, 
+                        "y": 37
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 81, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/guagnxiao.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=0\rhidden=0\rScale=1=1\rRotation=-1\rVisible=0\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 99, 
+                        "x": 315, 
+                        "y": 36
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "battleIconBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 131, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/zhongjian.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 243, 
+                        "x": 380, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "bg1", 
+                    "options": {
+                        "bottom": 48, 
+                        "height": 93, 
+                        "isScaleImage": true, 
+                        "left": 40, 
+                        "link": "mainPanel#xialan.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 118, 
+                        "top": 45, 
+                        "width": 500, 
+                        "x": 0, 
+                        "y": 38
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "bg2", 
+                    "options": {
+                        "bottom": 48, 
+                        "height": 93, 
+                        "isScaleImage": true, 
+                        "left": 40, 
+                        "link": "mainPanel#xialan.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 118, 
+                        "top": 45, 
+                        "width": 500, 
+                        "x": 500, 
+                        "y": 38
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "bottomLayer", 
+            "options": {
+                "height": 131, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1002, 
+                "x": -143, 
+                "y": 1149
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "GROUP", 
+                            "name": "pos", 
+                            "options": {
+                                "height": 62, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "width": 62, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "group2", 
+                    "options": {
+                        "height": 62, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 62, 
+                        "x": 66, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "GROUP", 
+                            "name": "pos", 
+                            "options": {
+                                "height": 62, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "width": 62, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "switchIcon", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 60, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "mainPanel#btn/shouqi.png", 
+                                "opacity": 255, 
+                                "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 60, 
+                                "x": 68, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "group3", 
+                    "options": {
+                        "height": 62, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 128, 
+                        "x": 0, 
+                        "y": 70
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "rightBottomLayer", 
+            "options": {
+                "height": 256, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 139, 
+                "x": 581, 
+                "y": 1024
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "GROUP", 
+                            "name": "pos", 
+                            "options": {
+                                "height": 77, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "width": 75, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "group1", 
+                    "options": {
+                        "height": 77, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 75, 
+                        "x": 276, 
+                        "y": 67
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "expAddBtn", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 36, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#btn/jiahao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 315, 
+                        "y": 10
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "expLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 77, 
+                        "colorG": 104, 
+                        "colorR": 77, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "8869万", 
+                        "underLine": false, 
+                        "width": 74, 
+                        "x": 232, 
+                        "y": 23
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "expIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/exp.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 192, 
+                        "y": 9
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "board1", 
+                    "options": {
+                        "bottom": 8, 
+                        "height": 37, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "mainPanel#board/heiqiandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 8, 
+                        "width": 158, 
+                        "x": 192, 
+                        "y": 9
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moneyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 77, 
+                        "colorG": 104, 
+                        "colorR": 77, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "8869万", 
+                        "underLine": false, 
+                        "width": 74, 
+                        "x": 45, 
+                        "y": 23
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyAddBtn", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 36, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#btn/jiahao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 128, 
+                        "y": 10
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/jinbi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 5, 
+                        "y": 9
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "board2", 
+                    "options": {
+                        "bottom": 8, 
+                        "height": 37, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "mainPanel#board/heiqiandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 8, 
+                        "width": 158, 
+                        "x": 5, 
+                        "y": 9
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "rightTopLayer", 
+            "options": {
+                "height": 144, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 360, 
+                "x": 360, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line1", 
+                    "options": {
+                        "bottom": 3, 
+                        "height": 7, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "mainPanel#board/jindutiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 3, 
+                        "width": 219, 
+                        "x": 125, 
+                        "y": 53
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "levelLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 79, 
+                        "colorG": 106, 
+                        "colorR": 79, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 18, 
+                        "height": 13, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "888", 
+                        "underLine": false, 
+                        "width": 28, 
+                        "x": 40, 
+                        "y": 94
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "figthIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 26, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#icon/zhan.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 117, 
+                        "y": 64
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "nameLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 77, 
+                        "colorG": 104, 
+                        "colorR": 77, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 22, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "这里有六个字", 
+                        "underLine": false, 
+                        "width": 132, 
+                        "x": 117, 
+                        "y": 21
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "fightLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 50, 
+                        "colorG": 121, 
+                        "colorR": 106, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "5648145", 
+                        "underLine": false, 
+                        "width": 83, 
+                        "x": 154, 
+                        "y": 74
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "board3", 
+                    "options": {
+                        "bottom": 8, 
+                        "height": 24, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "mainPanel#btn/shuzidi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 8, 
+                        "width": 42, 
+                        "x": 33, 
+                        "y": 82
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "headIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 91, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#headIcon.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 114, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "board4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 106, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "mainPanel#shang.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1000, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "topLayer", 
+            "options": {
+                "height": 106, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1000, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "mainPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "timeLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 43, 
+                "colorG": 167, 
+                "colorR": 105, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 23, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "17:15", 
+                "underLine": false, 
+                "width": 46, 
+                "x": 326, 
+                "y": 92
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "dateLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 43, 
+                "colorG": 167, 
+                "colorR": 105, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 23, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "2019/1/1", 
+                "underLine": false, 
+                "width": 80, 
+                "x": 176, 
+                "y": 92
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 43, 
+                "colorG": 167, 
+                "colorR": 105, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 23, 
+                "height": 24, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "有礼物未拆的邮件", 
+                "underLine": false, 
+                "width": 190, 
+                "x": 176, 
+                "y": 37
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "giftIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#icon/lihe.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 50, 
+                "x": 523, 
+                "y": 42
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "noReadFlag", 
+            "options": {
+                "bottom": 0, 
+                "height": 49, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#icon/xinfeng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 63, 
+                "x": 59, 
+                "y": 45
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "isReadFlag", 
+            "options": {
+                "bottom": 0, 
+                "height": 57, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#icon/yikai.png", 
+                "opacity": 204, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 61, 
+                "x": 60, 
+                "y": 39
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "flagBgImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 90, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#cells/yuankuang.png", 
+                "opacity": 184, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 90, 
+                "x": 43, 
+                "y": 24
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "mailItemBg", 
+            "options": {
+                "bottom": 30, 
+                "height": 139, 
+                "isScaleImage": true, 
+                "left": 34, 
+                "link": "mailPanel#board/kuangbiaotoudiqian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 34, 
+                "top": 4, 
+                "width": 662, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "mailPanel_mailItem", 
+    "options": {
+        "height": 139, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 662, 
+        "x": 29, 
+        "y": 257
+    }
+}

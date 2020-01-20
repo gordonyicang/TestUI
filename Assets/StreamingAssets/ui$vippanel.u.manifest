@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2395046275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4323e1ffeb1b529cb8287515fce0013b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9fcbf508b06c7938675426508b82311f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1804404296, guid: e893241d60d309c4bb9294efee80f54b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d504e39efbe55c54faf7c82e3bc3f66f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/vipPanel/vipPanel_vipTabItemPrefab.prefab
+- Assets/Resources/GUI/vipPanel/vipPanel_etc.mat
+- Assets/Resources/GUI/vipPanel/vipPanel_alpha.png
+- Assets/Resources/GUI/vipPanel/vipPanel_rewardItemPrefab.prefab
+- Assets/Resources/GUI/vipPanel/vipPanel_teQuanItemPrefab.prefab
+- Assets/Resources/GUI/vipPanel/vipPanelPrefab.prefab
+- Assets/Resources/GUI/vipPanel/vipPanel.png
+Dependencies:
+- U:/unity_workplace/208/UIProject/Assets/StreamingAssets/ui$common.u
+- U:/unity_workplace/208/UIProject/Assets/StreamingAssets/shader.u
+- U:/unity_workplace/208/UIProject/Assets/StreamingAssets/font$yhfont.ttf.u

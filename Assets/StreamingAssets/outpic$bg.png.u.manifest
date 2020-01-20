@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 775717540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b18a9b4d73664be4c335e357bcc9a254
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/bg.png
+Dependencies: []

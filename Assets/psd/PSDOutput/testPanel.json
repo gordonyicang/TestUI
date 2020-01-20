@@ -1,0 +1,66 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "tabBtnList", 
+            "options": {
+                "height": 54, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 450, 
+                "x": 36, 
+                "y": 110
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "board1", 
+            "options": {
+                "bottom": 0, 
+                "height": 115, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "testPanel#board/huawendide.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 633, 
+                "x": 51, 
+                "y": 183
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "board2", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "testPanel#board/dalubg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 719, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "testPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "rankIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 59, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#icon/paimingjin1da.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 59, 
+                "x": 25, 
+                "y": 39
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "scoreLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "积分：99999", 
+                "underLine": false, 
+                "width": 124, 
+                "x": 457, 
+                "y": 60
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "nameLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "名字有六个字", 
+                "underLine": false, 
+                "width": 132, 
+                "x": 217, 
+                "y": 34
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "headPos", 
+            "options": {
+                "height": 106, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 104, 
+                "x": 102, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "combatTitleImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 26, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#icon/zhan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 218, 
+                "y": 73
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "combatLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 53, 
+                "colorG": 106, 
+                "colorR": 94, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "5648145", 
+                "underLine": false, 
+                "width": 83, 
+                "x": 259, 
+                "y": 84
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "myRankTipImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 76, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#icon/wodepm.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 86, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemBg", 
+            "options": {
+                "bottom": 25, 
+                "height": 127, 
+                "isScaleImage": true, 
+                "left": 25, 
+                "link": "douXianArenaPanel#board/huodongdikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 25, 
+                "top": 25, 
+                "width": 607, 
+                "x": 2, 
+                "y": 2
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "douXianArenaPanel_rankItemView", 
+    "options": {
+        "height": 129, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 609, 
+        "x": 57, 
+        "y": 947
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "英雄合成", 
+                "underLine": false, 
+                "width": 88, 
+                "x": 325, 
+                "y": 394
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 592, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "composeTipsPanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 243, 
+                "y": 378
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg2", 
+            "options": {
+                "bottom": 13, 
+                "height": 36, 
+                "isScaleImage": true, 
+                "left": 212, 
+                "link": "composeTipsPanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 212, 
+                "top": 14, 
+                "width": 574, 
+                "x": 83, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "composeBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "合 成", 
+                "underLine": false, 
+                "width": 54, 
+                "x": 342, 
+                "y": 741
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "composeBtn", 
+            "options": {
+                "bottom": 24, 
+                "height": 56, 
+                "isScaleImage": true, 
+                "left": 30, 
+                "link": "composeTipsPanel#btn/huangdaanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 30, 
+                "top": 25, 
+                "width": 159, 
+                "x": 288, 
+                "y": 720
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "grid", 
+            "options": {
+                "bottom": 0, 
+                "height": 93, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#cells/beibaokuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 94, 
+                "x": 321, 
+                "y": 478
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "goodsLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "元神名称", 
+                "underLine": false, 
+                "width": 87, 
+                "x": 324, 
+                "y": 627
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "progressLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 18, 
+                "height": 13, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "30/50", 
+                "underLine": false, 
+                "width": 46, 
+                "x": 345, 
+                "y": 595
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "progressImg", 
+            "options": {
+                "bottom": 5, 
+                "height": 15, 
+                "isScaleImage": true, 
+                "left": 12, 
+                "link": "composeTipsPanel#board/lvjindutiao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 12, 
+                "top": 6, 
+                "width": 158, 
+                "x": 289, 
+                "y": 588
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "progressBg", 
+            "options": {
+                "bottom": 10, 
+                "height": 21, 
+                "isScaleImage": true, 
+                "left": 20, 
+                "link": "composeTipsPanel#board/lvjindutiaodi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 20, 
+                "top": 11, 
+                "width": 174, 
+                "x": 281, 
+                "y": 585
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bottomBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 114, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#icon/sanjijiemianditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 540, 
+                "x": 98, 
+                "y": 696
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "numLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "6", 
+                "underLine": false, 
+                "width": 12, 
+                "x": 361, 
+                "y": 676
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "maxBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#btn/zuoxiang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 491, 
+                "y": 662
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "minBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#btn/zuoxiang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 209, 
+                "y": 662
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "subtractBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#btn/jianhao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 249, 
+                "y": 662
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "addBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#btn/jiahao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 453, 
+                "y": 662
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "numBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 38, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "composeTipsPanel#board/baizidibianji.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 158, 
+                "x": 289, 
+                "y": 660
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "gridRightBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 202, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#icon/yingxionghecheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 239, 
+                "x": 368, 
+                "y": 432
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "gridLeftBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 202, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "composeTipsPanel#icon/yingxionghecheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 239, 
+                "x": 129, 
+                "y": 432
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 54, 
+                "height": 455, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "composeTipsPanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 586, 
+                "x": 83, 
+                "y": 373
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "composeTipsPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

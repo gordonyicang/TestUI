@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 728763163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f01ab4317f538e77bf730383feb57924
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/heroSoulTemplePanelBg.png
+Dependencies: []

@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: jubaopenPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:cbb151937a647e5558d082023ff7d277:233d12e6f417c974ce1d64f40daab53f:fe3dc11ef5d845d6883c745e7d256e08$
+#
+
+Commodity_P1,icon;665;973;88;49;0.5;0.5
+Commodity_P2,icon;755;942;81;80;0.5;0.5
+Commodity_P3,icon;572;917;87;81;0.5;0.5
+icon/jinbi ;661;933;42;38;0.5;0.5
+icon/shuaxinshijian;572;1000;91;22;0.5;0.5
+jubaopenditu;2;650;568;372;0.5;0.5

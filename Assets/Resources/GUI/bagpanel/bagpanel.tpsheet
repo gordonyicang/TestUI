@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: bagpanel.png (512 x 512)
+# $TexturePacker:SmartUpdate:b0dc4ab52ca6b861faa44558474cf2f7:37ee498f1e51776fac32fbb9334fa120:3703028fa2c74c982cf77b6cfc4faa90$
+#
+
+btn/daojuan;2;310;84;99;0.5;0.5
+btn/daojuliang;2;411;84;99;0.5;0.5
+btn/liangyuan;88;412;84;98;0.5;0.5
+btn/liangyuliang;2;10;84;98;0.5;0.5
+btn/zhuangbeian;2;110;84;98;0.5;0.5
+btn/zhuangbeiliang;2;210;84;98;0.5;0.5

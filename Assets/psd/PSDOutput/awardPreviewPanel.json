@@ -1,0 +1,233 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "btnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "确 定", 
+                "underLine": false, 
+                "width": 49, 
+                "x": 335, 
+                "y": 885
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "descLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "本次分解可得", 
+                "underLine": false, 
+                "width": 133, 
+                "x": 292, 
+                "y": 441
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 24, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "分解预览", 
+                "underLine": false, 
+                "width": 96, 
+                "x": 312, 
+                "y": 393
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "sureBtn", 
+            "options": {
+                "bottom": 36, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "awardPreviewPanel#btn/huanganniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 12, 
+                "width": 149, 
+                "x": 286, 
+                "y": 865
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemListView", 
+            "options": {
+                "height": 344, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 438, 
+                "x": 141, 
+                "y": 491
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "awardPreviewPanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 583, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "awardPreviewPanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 235, 
+                "y": 378
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBarBg", 
+            "options": {
+                "bottom": 13, 
+                "height": 36, 
+                "isScaleImage": true, 
+                "left": 212, 
+                "link": "awardPreviewPanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 212, 
+                "top": 14, 
+                "width": 574, 
+                "x": 73, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg3", 
+            "options": {
+                "bottom": 0, 
+                "height": 114, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "awardPreviewPanel#icon/sanjijiemianditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 540, 
+                "x": 90, 
+                "y": 820
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg2", 
+            "options": {
+                "bottom": 8, 
+                "height": 383, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "awardPreviewPanel#board/baidikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 482, 
+                "x": 118, 
+                "y": 469
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg1", 
+            "options": {
+                "bottom": 54, 
+                "height": 584, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "awardPreviewPanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 587, 
+                "x": 74, 
+                "y": 373
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "awardPreviewPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

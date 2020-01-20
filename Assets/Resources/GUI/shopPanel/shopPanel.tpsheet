@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: shopPanel.png (256 x 256)
+# $TexturePacker:SmartUpdate:3a08a4a3c1aad59468cea7ec54768e20:944288cde32eb71e4d02eb6a60595d8a:bd49a7c20191d7dcd10c2459d3a2c9f2$
+#
+
+board/fengezhixian;69;17;12;21;0.5;0.5
+board/jiazi;83;20;29;18;0.5;0.5
+btn/changtaishangdian;194;136;53;118;0.5;0.5
+downBtnGrop;103;41;29;93;0.5;0.5
+icon/biaoqiandi;69;40;32;94;0.5;0.5
+icon/linlangge;103;143;89;23;0.5;0.5
+icon/shangpingdizhuo;2;168;190;86;0.5;0.5
+icon/shenghong;2;140;8;26;0.5;0.5
+liangshangdian;2;4;65;130;0.5;0.5
+linlangge;103;143;89;23;0.5;0.5
+topBtnGrop;134;67;18;74;0.5;0.5
+zhenbaoge;12;142;89;24;0.5;0.5

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1920293422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36a79fd8bc807070656b2bb103f7e1fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca0812f0a4393a71bceac734454fc159
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/sceneBase/moveBg1.png
+- Assets/Resources/GUI/sceneBase/moveBg4.png
+- Assets/Resources/GUI/sceneBase/moveBg2.png
+- Assets/Resources/GUI/sceneBase/moveBg5.png
+- Assets/Resources/GUI/sceneBase/moveBg3.png
+- Assets/Resources/GUI/sceneBase/sceneBasePrefab.prefab
+Dependencies: []

@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: battleShowPanel.png (256 x 256)
+# $TexturePacker:SmartUpdate:c9e76dd08cd85caa4b7b4abf0797e7ae:4e7f915763f6be8ccc296eecc1c0c557:d714fdfeaec0b51e6f564ed3a67d518e$
+#
+
+btn/dahuangguanniu;2;174;81;80;0.5;0.5
+icon/banghangbang;2;109;57;63;0.5;0.5
+icon/huojian;2;63;38;44;0.5;0.5
+icon/kuaisuxiulian;85;186;67;68;0.5;0.5
+icon/liwu;154;186;66;68;0.5;0.5

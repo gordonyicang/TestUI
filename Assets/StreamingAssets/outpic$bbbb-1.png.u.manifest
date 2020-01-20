@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 677410536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31842c2fd857996dc4dda76d20dd706f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/bbbb-1.png
+Dependencies: []

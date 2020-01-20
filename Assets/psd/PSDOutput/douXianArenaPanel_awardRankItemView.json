@@ -1,0 +1,102 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "rankLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 54, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": false, 
+                "text": "我的排名：309\r保持排名可获得奖励", 
+                "underLine": false, 
+                "width": 215, 
+                "x": 54, 
+                "y": 39
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "rankIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 59, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "douXianArenaPanel#icon/paimingjin1da.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 59, 
+                "x": 64, 
+                "y": 30
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "awardCell1", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 371, 
+                "y": 13
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "awardCell2", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 477, 
+                "y": 13
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemBg", 
+            "options": {
+                "bottom": 25, 
+                "height": 120, 
+                "isScaleImage": true, 
+                "left": 25, 
+                "link": "douXianArenaPanel#board/huodongdikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 25, 
+                "top": 25, 
+                "width": 605, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "douXianArenaPanel_awardRankItemView", 
+    "options": {
+        "height": 120, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 605, 
+        "x": 60, 
+        "y": 908
+    }
+}

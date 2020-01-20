@@ -1,0 +1,95 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "roleIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 45, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "choseServerPanel#roleIcon.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 24, 
+                "x": 33, 
+                "y": 16
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "nameLabel", 
+            "options": {
+                "AntiAlias": 3, 
+                "Justification": 0, 
+                "Leading": "0.0", 
+                "colorB": 11, 
+                "colorG": 13, 
+                "colorR": 131, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "已有角色", 
+                "underLine": false, 
+                "width": 50, 
+                "x": 58, 
+                "y": 34
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 83, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "choseServerPanel#btn/xuanjueanniuliangtai.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 145, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "unSelectBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 83, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "choseServerPanel#btn/xuanjueanniuchangtai.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 145, 
+                "x": 0, 
+                "y": 1
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "choseServerPanel_tabBtnItem", 
+    "options": {
+        "height": 84, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 145, 
+        "x": 12, 
+        "y": 427
+    }
+}

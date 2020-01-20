@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2450751852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b46537b844af9fde04224a0882ebd74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/rewardPanel-icon/huodejiangli.png
+Dependencies: []

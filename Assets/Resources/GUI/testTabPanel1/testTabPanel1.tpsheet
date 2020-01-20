@@ -1,0 +1,11 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: testTabPanel1.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:e6be27e92374497662253ba7da9f89e3:afc7c2ad545f0bd037f84846a56b1090:a59803c9ea1c1361d2da6cb079be3caf$
+#
+
+panelBg;2;123;651;899;0.5;0.5

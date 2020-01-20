@@ -1,0 +1,461 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "rewardItemList", 
+            "options": {
+                "height": 69, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 146, 
+                "x": 356, 
+                "y": 487
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "vipImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 24, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#VIP1.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 50, 
+                "x": 384, 
+                "y": 609
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "img1", 
+            "options": {
+                "bottom": 0, 
+                "height": 26, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#tequan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 47, 
+                "x": 441, 
+                "y": 608
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "vipTitleBg", 
+            "options": {
+                "bottom": 15, 
+                "height": 35, 
+                "isScaleImage": true, 
+                "left": 26, 
+                "link": "vipPanel#board/hongxiaobiaoti.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 26, 
+                "top": 15, 
+                "width": 275, 
+                "x": 300, 
+                "y": 604
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "conditionLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "Type=LABEL\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1\risRichLabel=1", 
+                "singleLine": true, 
+                "text": "累计充值2000       即可享受以下特权", 
+                "underLine": false, 
+                "width": 349, 
+                "x": 266, 
+                "y": 657
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "buyFlagImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 55, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#icon/yishouqing.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 96, 
+                "x": 396, 
+                "y": 1047
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "buyMoneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "Type=LABEL\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1\risRichLabel=1", 
+                "singleLine": true, 
+                "text": "9999999999", 
+                "underLine": false, 
+                "width": 127, 
+                "x": 375, 
+                "y": 1073
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "buyBtn", 
+            "options": {
+                "bottom": 24, 
+                "height": 56, 
+                "isScaleImage": true, 
+                "left": 30, 
+                "link": "vipPanel#btn/huangdaanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 30, 
+                "top": 25, 
+                "width": 192, 
+                "x": 344, 
+                "y": 1047
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "hongxian", 
+            "options": {
+                "bottom": 0, 
+                "height": 17, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#hongxian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 117, 
+                "x": 391, 
+                "y": 1021
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "getFlagImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 55, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#jiaobiao/yilingqu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 96, 
+                "x": 530, 
+                "y": 494
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 15, 
+                "opacity": 255, 
+                "property": "Type=LABEL\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1\risRichLabel=1", 
+                "singleLine": true, 
+                "text": "88888888", 
+                "underLine": false, 
+                "width": 84, 
+                "x": 398, 
+                "y": 1025
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "btnList", 
+            "options": {
+                "height": 668, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 169, 
+                "x": 63, 
+                "y": 447
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "tequanList", 
+            "options": {
+                "height": 200, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 222, 
+                "x": 275, 
+                "y": 684
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line1", 
+            "options": {
+                "bottom": 0, 
+                "height": 17, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#board/biaotizhuangshihong.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 102, 
+                "x": 281, 
+                "y": 901
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "特权礼包", 
+                "underLine": false, 
+                "width": 87, 
+                "x": 396, 
+                "y": 904
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line2", 
+            "options": {
+                "bottom": 0, 
+                "height": 17, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#board/biaotizhuangshihong.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 102, 
+                "x": 502, 
+                "y": 901
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tipLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 211, 
+                "colorG": 252, 
+                "colorR": 255, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 20, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": " 至尊月卡每日额外奖励", 
+                "underLine": false, 
+                "width": 199, 
+                "x": 352, 
+                "y": 464
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "giftItemList", 
+            "options": {
+                "height": 69, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 371, 
+                "x": 256, 
+                "y": 929
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "doBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "开 通", 
+                "underLine": false, 
+                "width": 49, 
+                "x": 548, 
+                "y": 519
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "doBtn", 
+            "options": {
+                "bottom": 36, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "vipPanel#btn/huanganniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 12, 
+                "width": 124, 
+                "x": 511, 
+                "y": 496
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg3", 
+            "options": {
+                "bottom": 0, 
+                "height": 127, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#shangditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 427, 
+                "x": 227, 
+                "y": 442
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 551, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#tequandikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 423, 
+                "x": 231, 
+                "y": 568
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 699, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#daditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 610, 
+                "x": 55, 
+                "y": 430
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "vipPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "mailListView", 
+            "options": {
+                "height": 711, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 662, 
+                "x": 29, 
+                "y": 257
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "btnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "arrowImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "getBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 31, 
+                "colorG": 99, 
+                "colorR": 79, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "一键领取", 
+                "underLine": false, 
+                "width": 88, 
+                "x": 492, 
+                "y": 1037
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "getBtn", 
+            "options": {
+                "bottom": 23, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "mailPanel#btn/lvanniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 25, 
+                "width": 149, 
+                "x": 462, 
+                "y": 1017
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "delBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "删除已读", 
+                "underLine": false, 
+                "width": 88, 
+                "x": 140, 
+                "y": 1038
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "delBtn", 
+            "options": {
+                "bottom": 36, 
+                "height": 50, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "mailPanel#btn/huanganniuda.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 12, 
+                "width": 149, 
+                "x": 109, 
+                "y": 1017
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg1", 
+            "options": {
+                "bottom": 8, 
+                "height": 736, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "mailPanel#board/qiansedikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 672, 
+                "x": 24, 
+                "y": 252
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 30, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#icon/youjian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 75, 
+                "x": 327, 
+                "y": 184
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1009, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailPanel#board/youjiandi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 113
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "mailPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

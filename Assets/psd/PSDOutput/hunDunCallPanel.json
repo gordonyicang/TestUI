@@ -1,0 +1,1354 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/exp.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moneyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 203, 
+                        "colorG": 236, 
+                        "colorR": 229, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "9999万", 
+                        "underLine": false, 
+                        "width": 74, 
+                        "x": 45, 
+                        "y": 14
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyBg", 
+                    "options": {
+                        "bottom": 8, 
+                        "height": 38, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "hunDunCallPanel#board/baizidiheitouming.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 8, 
+                        "width": 125, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "zuziyuan3", 
+            "options": {
+                "height": 38, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 125, 
+                "x": 588, 
+                "y": 80
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/xiaojinren.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moneyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 203, 
+                        "colorG": 236, 
+                        "colorR": 229, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "9999万", 
+                        "underLine": false, 
+                        "width": 74, 
+                        "x": 45, 
+                        "y": 14
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyBg2", 
+                    "options": {
+                        "bottom": 8, 
+                        "height": 38, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "hunDunCallPanel#board/baizidiheitouming.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 8, 
+                        "width": 125, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "zuziyuan2", 
+            "options": {
+                "height": 38, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 125, 
+                "x": 459, 
+                "y": 80
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 38, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/jinbi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 42, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "moneyLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 203, 
+                        "colorG": 236, 
+                        "colorR": 229, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "9999万", 
+                        "underLine": false, 
+                        "width": 74, 
+                        "x": 45, 
+                        "y": 14
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moneyBg", 
+                    "options": {
+                        "bottom": 8, 
+                        "height": 38, 
+                        "isScaleImage": true, 
+                        "left": 8, 
+                        "link": "hunDunCallPanel#board/baizidiheitouming.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 8, 
+                        "top": 8, 
+                        "width": 125, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "zuziyuan1", 
+            "options": {
+                "height": 38, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 125, 
+                "x": 331, 
+                "y": 80
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tipsBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 59, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallPanel#icon/wenhao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 57, 
+                "x": 650, 
+                "y": 172
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tabBtnLabel1", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "鸿蒙唤灵", 
+                "underLine": false, 
+                "width": 88, 
+                "x": 251, 
+                "y": 195
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "shopBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 80, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallPanel#iconhonmengshangdian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 76, 
+                "x": 15, 
+                "y": 154
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn1", 
+            "options": {
+                "bottom": 25, 
+                "height": 48, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "hunDunCallPanel#btn/lingxinganniucheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 7, 
+                "top": 22, 
+                "width": 143, 
+                "x": 217, 
+                "y": 178
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tabBtnLabel2", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 31, 
+                "colorG": 99, 
+                "colorR": 79, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "英魂置换", 
+                "underLine": false, 
+                "width": 89, 
+                "x": 382, 
+                "y": 195
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn2", 
+            "options": {
+                "bottom": 25, 
+                "height": 48, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "hunDunCallPanel#btn/lingxinganniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 7, 
+                "top": 22, 
+                "width": 143, 
+                "x": 360, 
+                "y": 178
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "arrowImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallPanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "closeBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallPanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "selectImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 55, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/yuanxuanzhongkuang.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 55, 
+                        "x": 186, 
+                        "y": 850
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "iconImg1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 53, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/quan.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 53, 
+                        "x": 188, 
+                        "y": 853
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "iconImg2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 53, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/ren.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 53, 
+                        "x": 285, 
+                        "y": 853
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "iconImg3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 53, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/gui.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 53, 
+                        "x": 381, 
+                        "y": 853
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "iconImg4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 53, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/yao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 53, 
+                        "x": 478, 
+                        "y": 853
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LIST", 
+                    "items": [], 
+                    "name": "bagList", 
+                    "options": {
+                        "height": 159, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 622, 
+                        "x": 50, 
+                        "y": 937
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "bagBg1", 
+                    "options": {
+                        "bottom": 232, 
+                        "height": 435, 
+                        "isScaleImage": true, 
+                        "left": 1, 
+                        "link": "hunDunCallPanel#board/muwenbg.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 358, 
+                        "top": 110, 
+                        "width": 360, 
+                        "x": 0, 
+                        "y": 834
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "bagBg2", 
+                    "options": {
+                        "bottom": 232, 
+                        "height": 435, 
+                        "isScaleImage": true, 
+                        "left": 1, 
+                        "link": "hunDunCallPanel#board/muwenbg.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 358, 
+                        "top": 110, 
+                        "width": 360, 
+                        "x": 359, 
+                        "y": 834
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "cancelBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 31, 
+                                "colorG": 99, 
+                                "colorR": 79, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 24, 
+                                "height": 24, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "取 消", 
+                                "underLine": false, 
+                                "width": 53, 
+                                "x": 54, 
+                                "y": 22
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "saveBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 12, 
+                                "colorG": 86, 
+                                "colorR": 149, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 24, 
+                                "height": 23, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "保 存", 
+                                "underLine": false, 
+                                "width": 54, 
+                                "x": 266, 
+                                "y": 23
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "cancelBtn", 
+                            "options": {
+                                "bottom": 23, 
+                                "height": 56, 
+                                "isScaleImage": true, 
+                                "left": 10, 
+                                "link": "hunDunCallPanel#btn/lvanniuda.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 10, 
+                                "top": 25, 
+                                "width": 159, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "saveBtn", 
+                            "options": {
+                                "bottom": 24, 
+                                "height": 56, 
+                                "isScaleImage": true, 
+                                "left": 30, 
+                                "link": "hunDunCallPanel#btn/huangdaanniu.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 30, 
+                                "top": 25, 
+                                "width": 159, 
+                                "x": 213, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "saveLayer", 
+                    "options": {
+                        "height": 56, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 372, 
+                        "x": 176, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "resetBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 12, 
+                                "colorG": 86, 
+                                "colorR": 149, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 24, 
+                                "height": 23, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "重 置", 
+                                "underLine": false, 
+                                "width": 54, 
+                                "x": 52, 
+                                "y": 23
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "resetBtn", 
+                            "options": {
+                                "bottom": 24, 
+                                "height": 56, 
+                                "isScaleImage": true, 
+                                "left": 30, 
+                                "link": "hunDunCallPanel#btn/huangdaanniu.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 30, 
+                                "top": 25, 
+                                "width": 159, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "resetLayer", 
+                    "options": {
+                        "height": 56, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 159, 
+                        "x": 282, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "resetCostLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 119, 
+                                "colorG": 123, 
+                                "colorR": 107, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 24, 
+                                "height": 18, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "99", 
+                                "underLine": false, 
+                                "width": 24, 
+                                "x": 94, 
+                                "y": 16
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "resetCostIcon", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 38, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/jinbi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 42, 
+                                "x": 46, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "resetMoneyBg", 
+                            "options": {
+                                "bottom": 22, 
+                                "height": 42, 
+                                "isScaleImage": true, 
+                                "left": 136, 
+                                "link": "hunDunCallPanel#board/zhandi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 136, 
+                                "top": 12, 
+                                "width": 182, 
+                                "x": 0, 
+                                "y": 2
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "costMoneyLayer", 
+                    "options": {
+                        "height": 44, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 182, 
+                        "x": 270, 
+                        "y": 736
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "arrowImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 54, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#icon/guanganjianyou.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 76, 
+                        "x": 321, 
+                        "y": 592
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "bgImg2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1280, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#yingxiongdianbg.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=1\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "huanLayer", 
+            "options": {
+                "height": 1280, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "moreCallBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 12, 
+                                "colorG": 85, 
+                                "colorR": 149, 
+                                "font": "AdobeHeitiStd-Regular", 
+                                "fontSize": 22, 
+                                "height": 22, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "唤灵10次", 
+                                "underLine": false, 
+                                "width": 85, 
+                                "x": 255, 
+                                "y": 58
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "moreCallBtn", 
+                            "options": {
+                                "bottom": 36, 
+                                "height": 50, 
+                                "isScaleImage": true, 
+                                "left": 10, 
+                                "link": "hunDunCallPanel#btn/huanganniuda.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 10, 
+                                "top": 12, 
+                                "width": 149, 
+                                "x": 224, 
+                                "y": 38
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "moreCostLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 203, 
+                                "colorG": 236, 
+                                "colorR": 229, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 22, 
+                                "height": 16, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "10", 
+                                "underLine": false, 
+                                "width": 19, 
+                                "x": 339, 
+                                "y": 17
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "moreCostDes", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 203, 
+                                "colorG": 236, 
+                                "colorR": 229, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 22, 
+                                "height": 22, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "消耗：", 
+                                "underLine": false, 
+                                "width": 51, 
+                                "x": 237, 
+                                "y": 14
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "moreCostMoneyIcon", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 38, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/jinbi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 42, 
+                                "x": 293, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "oneCallBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 12, 
+                                "colorG": 85, 
+                                "colorR": 149, 
+                                "font": "AdobeHeitiStd-Regular", 
+                                "fontSize": 22, 
+                                "height": 22, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "唤灵1次", 
+                                "underLine": false, 
+                                "width": 73, 
+                                "x": 37, 
+                                "y": 58
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "oneCallBtn", 
+                            "options": {
+                                "bottom": 36, 
+                                "height": 50, 
+                                "isScaleImage": true, 
+                                "left": 10, 
+                                "link": "hunDunCallPanel#btn/huanganniuda.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 10, 
+                                "top": 12, 
+                                "width": 149, 
+                                "x": 0, 
+                                "y": 38
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "oneCostLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 203, 
+                                "colorG": 236, 
+                                "colorR": 229, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 22, 
+                                "height": 16, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "1", 
+                                "underLine": false, 
+                                "width": 6, 
+                                "x": 125, 
+                                "y": 17
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "oneCostDes", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 203, 
+                                "colorG": 236, 
+                                "colorR": 229, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 22, 
+                                "height": 22, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "消耗：", 
+                                "underLine": false, 
+                                "width": 51, 
+                                "x": 11, 
+                                "y": 14
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "oneCostMoneyIcon", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 38, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/jinbi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 42, 
+                                "x": 77, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "xialan", 
+                    "options": {
+                        "height": 88, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 373, 
+                        "x": 175, 
+                        "y": 999
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "icon1", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 72, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/ren.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 70, 
+                                "x": 50, 
+                                "y": 581
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "bgImg1", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 693, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/luseqi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 170, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "itemLayer1", 
+                    "options": {
+                        "height": 693, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 170, 
+                        "x": 11, 
+                        "y": 279
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "icon3", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 72, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/yao.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 70, 
+                                "x": 50, 
+                                "y": 581
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "bgImg3", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 693, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/lanseqi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 170, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "itemLayer3", 
+                    "options": {
+                        "height": 693, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 170, 
+                        "x": 365, 
+                        "y": 279
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "icon2", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 72, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/gui.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 70, 
+                                "x": 50, 
+                                "y": 581
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "bgImg2", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 693, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/ziseqi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 170, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "itemLayer2", 
+                    "options": {
+                        "height": 693, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 170, 
+                        "x": 187, 
+                        "y": 279
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "icon4", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 72, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/moshen.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 70, 
+                                "x": 50, 
+                                "y": 581
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "bgImg4", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 396, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/chenghongqiyiban.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 133, 
+                                "x": 19, 
+                                "y": 252
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "bgImg41", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 693, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "hunDunCallPanel#icon/chenghongqi.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 170, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "itemLayer4", 
+                    "options": {
+                        "height": 693, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 170, 
+                        "x": 540, 
+                        "y": 279
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "bgImg1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1280, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "hunDunCallPanel#beijing.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=1\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "callLayer", 
+            "options": {
+                "height": 1280, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "hunDunCallPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "levelLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 221, 
+                "colorG": 244, 
+                "colorR": 240, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 15, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "55", 
+                "underLine": false, 
+                "width": 21, 
+                "x": 63, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tickIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroGrid#icon/dagou.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 43, 
+                "x": 22, 
+                "y": 36
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "lockIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 31, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroGrid#icon/dasuo.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 40, 
+                "x": 27, 
+                "y": 41
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "typeIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 33, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroGrid#icon/ren.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 32, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "typeIconBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroGrid#cells/lvjiao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 39, 
+                "x": 4, 
+                "y": 4
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "maskImg", 
+            "options": {
+                "bottom": 6, 
+                "height": 80, 
+                "isScaleImage": true, 
+                "left": 6, 
+                "link": "heroGrid#btn/bantoumingzhezhao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 6, 
+                "top": 6, 
+                "width": 79, 
+                "x": 8, 
+                "y": 8
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "icon", 
+            "options": {
+                "bottom": 0, 
+                "height": 79, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroGrid#icon.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 80, 
+                "x": 7, 
+                "y": 9
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 0, 
+                "height": 93, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroGrid#cells/lvkuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 94, 
+                "x": 0, 
+                "y": 2
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroGrid", 
+    "options": {
+        "height": 95, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 94, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,437 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 24, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "购买确认", 
+                "underLine": false, 
+                "width": 95, 
+                "x": 311, 
+                "y": 393
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 583, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "buyTipsPanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 234, 
+                "y": 378
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "topImg", 
+            "options": {
+                "bottom": 2, 
+                "height": 36, 
+                "isScaleImage": true, 
+                "left": 166, 
+                "link": "buyTipsPanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 166, 
+                "top": 28, 
+                "width": 574, 
+                "x": 73, 
+                "y": 375
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "buyBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 85, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "购 买", 
+                "underLine": false, 
+                "width": 53, 
+                "x": 332, 
+                "y": 861
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "buyBtn", 
+            "options": {
+                "bottom": 24, 
+                "height": 56, 
+                "isScaleImage": true, 
+                "left": 30, 
+                "link": "buyTipsPanel#btn/huangdaanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 30, 
+                "top": 25, 
+                "width": 159, 
+                "x": 280, 
+                "y": 839
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 40, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 52, 
+                "x": 286, 
+                "y": 739
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "9998万", 
+                "underLine": false, 
+                "width": 74, 
+                "x": 350, 
+                "y": 755
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 38, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "buyTipsPanel#board/baizidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 198, 
+                "x": 289, 
+                "y": 741
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyTipsLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "消耗：", 
+                "underLine": false, 
+                "width": 51, 
+                "x": 232, 
+                "y": 755
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tipsLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "请输入购买次数", 
+                "underLine": false, 
+                "width": 154, 
+                "x": 291, 
+                "y": 607
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bottomBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 114, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#icon/sanjijiemianditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 540, 
+                "x": 90, 
+                "y": 824
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "numLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "6", 
+                "underLine": false, 
+                "width": 12, 
+                "x": 361, 
+                "y": 679
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "maxBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#btn/zuoxiang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 491, 
+                "y": 665
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "minBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#btn/zuoxiang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 209, 
+                "y": 665
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "subtractBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#btn/jianhao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 249, 
+                "y": 665
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "addBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "buyTipsPanel#btn/jiahao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 36, 
+                "x": 453, 
+                "y": 665
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "numBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 38, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "buyTipsPanel#board/baizidibianji.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 158, 
+                "x": 289, 
+                "y": 663
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 312, 
+                "y": 443
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "centerBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 264, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "buyTipsPanel#board/baidikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 482, 
+                "x": 118, 
+                "y": 559
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 54, 
+                "height": 587, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "buyTipsPanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 587, 
+                "x": 74, 
+                "y": 373
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "buyTipsPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

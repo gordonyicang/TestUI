@@ -1,0 +1,109 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 104, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rewardPanel#huodejiangli.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 402, 
+                "x": 155, 
+                "y": 329
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 312, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rewardPanel#rewardTitleBg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 699, 
+                "x": 20, 
+                "y": 154
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemList", 
+            "options": {
+                "height": 216, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 479, 
+                "x": 120, 
+                "y": 489
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tipLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 203, 
+                "colorG": 236, 
+                "colorR": 229, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 21, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "点击空白处关闭界面", 
+                "underLine": false, 
+                "width": 194, 
+                "x": 261, 
+                "y": 760
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 200, 
+                "height": 318, 
+                "isScaleImage": true, 
+                "left": 358, 
+                "link": "rewardPanel#board/hehuadi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 360, 
+                "top": 220, 
+                "width": 719, 
+                "x": 0, 
+                "y": 423
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "rewardPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,508 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "qualityIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 77, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "heroDetailsPanel#icon/shenhua.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 75, 
+                        "x": 281, 
+                        "y": 8
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "qualityBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 91, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "heroDetailsPanel#icon/xianhuawen.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 161, 
+                        "x": 238, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "fullLeveltipsLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 81, 
+                        "colorG": 85, 
+                        "colorR": 67, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 25, 
+                        "height": 26, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "已晋升至最高品质", 
+                        "underLine": false, 
+                        "width": 206, 
+                        "x": 210, 
+                        "y": 323
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line1", 
+                    "options": {
+                        "bottom": 12, 
+                        "height": 29, 
+                        "isScaleImage": true, 
+                        "left": 66, 
+                        "link": "heroDetailsPanel#board/xianqifengexian.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 66, 
+                        "top": 16, 
+                        "width": 620, 
+                        "x": 0, 
+                        "y": 85
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line2", 
+                    "options": {
+                        "bottom": 12, 
+                        "height": 29, 
+                        "isScaleImage": true, 
+                        "left": 66, 
+                        "link": "heroDetailsPanel#board/xianqifengexian.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 66, 
+                        "top": 16, 
+                        "width": 620, 
+                        "x": 0, 
+                        "y": 273
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "titleBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 104, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "heroDetailsPanel#icon/luse.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 616, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "FullLevelLayer", 
+            "options": {
+                "height": 343, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 620, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "qualityIcon2", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 77, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "heroDetailsPanel#icon/shenhua.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 75, 
+                                "x": 397, 
+                                "y": 7
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "qualityIcon1", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 76, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "heroDetailsPanel#icon/chunashuo.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 75, 
+                                "x": 140, 
+                                "y": 8
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "jsimage2", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 91, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "heroDetailsPanel#icon/xianhuawen.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 161, 
+                                "x": 353, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "jsimage1", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 91, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "heroDetailsPanel#icon/xianhuawen.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 161, 
+                                "x": 96, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "jsimage3", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 54, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "heroDetailsPanel#icon/guanganjianyou.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 76, 
+                                "x": 268, 
+                                "y": 23
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "line1", 
+                            "options": {
+                                "bottom": 12, 
+                                "height": 29, 
+                                "isScaleImage": true, 
+                                "left": 66, 
+                                "link": "heroDetailsPanel#board/xianqifengexian.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 66, 
+                                "top": 16, 
+                                "width": 620, 
+                                "x": 0, 
+                                "y": 84
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "propLayer", 
+                    "options": {
+                        "height": 113, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 620, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "LIST", 
+                            "items": [], 
+                            "name": "heroMaterialList", 
+                            "options": {
+                                "height": 195, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "width": 549, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "selectBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 31, 
+                                "colorG": 99, 
+                                "colorR": 79, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 25, 
+                                "height": 18, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "选 择", 
+                                "underLine": false, 
+                                "width": 41, 
+                                "x": 480, 
+                                "y": 252
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "selectBtn", 
+                            "options": {
+                                "bottom": 16, 
+                                "height": 33, 
+                                "isScaleImage": true, 
+                                "left": 10, 
+                                "link": "heroDetailsPanel#btn/lvanniu.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 10, 
+                                "top": 16, 
+                                "width": 96, 
+                                "x": 453, 
+                                "y": 238
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "selectNumLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 119, 
+                                "colorG": 123, 
+                                "colorR": 107, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 20, 
+                                "height": 20, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "已选择0/3", 
+                                "underLine": false, 
+                                "width": 88, 
+                                "x": 455, 
+                                "y": 220
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "matertalTipsLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 81, 
+                                "colorG": 85, 
+                                "colorR": 67, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 22, 
+                                "height": 52, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": false, 
+                                "text": "被消耗的英雄会100%返还英雄消耗\r的金币，经验，进阶石", 
+                                "underLine": false, 
+                                "width": 333, 
+                                "x": 5, 
+                                "y": 220
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "selectHeroLayer", 
+                    "options": {
+                        "height": 271, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 549, 
+                        "x": 29, 
+                        "y": 12
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "line2", 
+                    "options": {
+                        "bottom": 12, 
+                        "height": 29, 
+                        "isScaleImage": true, 
+                        "left": 66, 
+                        "link": "heroDetailsPanel#board/xianqifengexian.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 66, 
+                        "top": 16, 
+                        "width": 620, 
+                        "x": 0, 
+                        "y": 272
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "cellPot", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 93, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "heroDetailsPanel#cells/beibaokuang.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 94, 
+                        "x": 29, 
+                        "y": 299
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "jinshengBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 86, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "晋 升", 
+                        "underLine": false, 
+                        "width": 54, 
+                        "x": 476, 
+                        "y": 342
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "jinshengBtn", 
+                    "options": {
+                        "bottom": 24, 
+                        "height": 56, 
+                        "isScaleImage": true, 
+                        "left": 30, 
+                        "link": "heroDetailsPanel#btn/huangdaanniu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 30, 
+                        "top": 25, 
+                        "width": 159, 
+                        "x": 424, 
+                        "y": 319
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "notFullLevelLayer", 
+            "options": {
+                "height": 392, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 620, 
+                "x": 0, 
+                "y": 1
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "jsimage4", 
+            "options": {
+                "bottom": 0, 
+                "height": 104, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroDetailsPanel#icon/luse.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 616, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroDetailsPanel_jinShengView", 
+    "options": {
+        "height": 393, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 620, 
+        "x": 98, 
+        "y": 725
+    }
+}

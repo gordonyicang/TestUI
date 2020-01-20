@@ -1,0 +1,57 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tabBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 51, 
+                "colorG": 106, 
+                "colorR": 173, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 26, 
+                "height": 26, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "英 雄", 
+                "underLine": false, 
+                "width": 58, 
+                "x": 46, 
+                "y": 26
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn", 
+            "options": {
+                "bottom": 21, 
+                "height": 54, 
+                "isScaleImage": true, 
+                "left": 20, 
+                "link": "testPanel#btn/biaoqianhuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 40, 
+                "top": 30, 
+                "width": 150, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "testPanel_tabBtn", 
+    "options": {
+        "height": 54, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 150, 
+        "x": 36, 
+        "y": 110
+    }
+}

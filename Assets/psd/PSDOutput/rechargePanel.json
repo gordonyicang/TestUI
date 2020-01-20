@@ -1,0 +1,365 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "tabBtnList", 
+            "options": {
+                "height": 91, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 537, 
+                "x": 81, 
+                "y": 142
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "vipLevelImg", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 40, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "rechargePanel#VIP1.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 78, 
+                                "x": 182, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "img3", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 40, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "rechargePanel#xianyu.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 179, 
+                                "x": 0, 
+                                "y": 1
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "imgLayer", 
+                    "options": {
+                        "height": 41, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 260, 
+                        "x": 222, 
+                        "y": 30
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "img4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 31, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#zaichongzhi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 78, 
+                        "x": 13, 
+                        "y": 40
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "img2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 31, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#tequankegou.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 126, 
+                        "x": 143, 
+                        "y": 94
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "itemImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 46, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#hailiangjinbi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 171, 
+                        "x": 268, 
+                        "y": 80
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "maxLevelImg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 42, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#ninyijingdadaozuigaoji.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 340, 
+                        "x": 112, 
+                        "y": 82
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "curVipLevel", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 27, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#icon/vipshuzi1.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 20, 
+                        "x": 56, 
+                        "y": 112
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "progressBar", 
+                    "options": {
+                        "bottom": 5, 
+                        "height": 15, 
+                        "isScaleImage": true, 
+                        "left": 12, 
+                        "link": "rechargePanel#board/lvjindutiao.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 12, 
+                        "top": 6, 
+                        "width": 297, 
+                        "x": 123, 
+                        "y": 143
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "progressBg", 
+                    "options": {
+                        "bottom": 10, 
+                        "height": 21, 
+                        "isScaleImage": true, 
+                        "left": 20, 
+                        "link": "rechargePanel#board/lvjindutiaodi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 20, 
+                        "top": 11, 
+                        "width": 313, 
+                        "x": 115, 
+                        "y": 140
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "vipBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 72, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#icon/vip1.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 79, 
+                        "x": 27, 
+                        "y": 96
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "img", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 189, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "rechargePanel#ditu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 610, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "vipInfoLayer", 
+            "options": {
+                "height": 189, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 610, 
+                "x": 55, 
+                "y": 239
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "huanjuan", 
+            "options": {
+                "bottom": 0, 
+                "height": 90, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rechargePanel#huanjuan.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 61, 
+                "x": 637, 
+                "y": 144
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "arrowImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rechargePanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "closeBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rechargePanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "rechargePanel#chonzhiditu.png", 
+                "opacity": 255, 
+                "property": "Type=IMAGE\routpic=1\rtojpg=0\rtocommon=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "rechargePanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

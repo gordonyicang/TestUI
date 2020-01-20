@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 968653030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8ea29faf86c757190df763a66838e78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/heroDetailsPanel_bg1.jpg
+Dependencies: []

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 713bddfa8499c4e4da4f355a9c7fc9ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 0
+  fontName: MicrosoftYaHei
+  fontNames:
+  - MicrosoftYaHei
+  fallbackFontReferences:
+  - {instanceID: 0}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: font$yhfont.ttf.u
+  assetBundleVariant: 

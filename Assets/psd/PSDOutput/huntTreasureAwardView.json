@@ -1,0 +1,289 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "aginBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 12, 
+                        "colorG": 85, 
+                        "colorR": 149, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 21, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "再抽一次", 
+                        "underLine": false, 
+                        "width": 88, 
+                        "x": 308, 
+                        "y": 20
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "aginBtn", 
+                    "options": {
+                        "bottom": 36, 
+                        "height": 50, 
+                        "isScaleImage": true, 
+                        "left": 10, 
+                        "link": "huntTreasureAwardView#btn/huanganniuda.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 10, 
+                        "top": 12, 
+                        "width": 149, 
+                        "x": 278, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "sureBtnLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 31, 
+                        "colorG": 99, 
+                        "colorR": 79, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 22, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "确 定", 
+                        "underLine": false, 
+                        "width": 49, 
+                        "x": 49, 
+                        "y": 19
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "sureBtn", 
+                    "options": {
+                        "bottom": 36, 
+                        "height": 50, 
+                        "isScaleImage": true, 
+                        "left": 10, 
+                        "link": "huntTreasureAwardView#btn/lvanniuda.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 10, 
+                        "top": 12, 
+                        "width": 149, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "zhong", 
+            "options": {
+                "height": 50, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 427, 
+                "x": 146, 
+                "y": 787
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 243, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasureAwardView#icon/xiaojimu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 193, 
+                        "x": 0, 
+                        "y": 58
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 299, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasureAwardView#icon/zhongjimu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 81, 
+                        "x": 180, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 232, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasureAwardView#icon/dajimu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 206, 
+                        "x": 251, 
+                        "y": 66
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "typeLayer1", 
+            "options": {
+                "height": 301, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 457, 
+                "x": 131, 
+                "y": 156
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 244, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasureAwardView#icon/xiaoji.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 191, 
+                        "x": 0, 
+                        "y": 58
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 299, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasureAwardView#icon/zhongji.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 81, 
+                        "x": 180, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "icon3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 239, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "huntTreasureAwardView#icon/daji.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 199, 
+                        "x": 258, 
+                        "y": 66
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "typeLayer2", 
+            "options": {
+                "height": 305, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 457, 
+                "x": 131, 
+                "y": 156
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemListView", 
+            "options": {
+                "height": 185, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 533, 
+                "x": 92, 
+                "y": 536
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "awardBg", 
+            "options": {
+                "bottom": 200, 
+                "height": 293, 
+                "isScaleImage": true, 
+                "left": 358, 
+                "link": "huntTreasureAwardView#board/hehuadi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 360, 
+                "top": 220, 
+                "width": 719, 
+                "x": 0, 
+                "y": 475
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "huntTreasureAwardView", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

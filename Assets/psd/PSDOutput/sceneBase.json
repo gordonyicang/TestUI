@@ -1,0 +1,179 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg5", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 585, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "sceneBase#moveBg5.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer5", 
+            "options": {
+                "height": 585, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 1015
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg4", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 616, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "sceneBase#moveBg4.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer4", 
+            "options": {
+                "height": 616, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 984
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg3", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1223, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "sceneBase#moveBg3.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer3", 
+            "options": {
+                "height": 1223, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 377
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1245, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "sceneBase#moveBg2.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer2", 
+            "options": {
+                "height": 1245, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 355
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "moveBg1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 1600, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "sceneBase#moveBg1.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 1500, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "moveLayer1", 
+            "options": {
+                "height": 1600, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 1500, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "sceneBase", 
+    "options": {
+        "height": 1600, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 1500, 
+        "x": 0, 
+        "y": 0
+    }
+}

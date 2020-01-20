@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <!--  
+    lua框架代码路径 (例子:E:\unity_workplace\204\trunk\testBuild\y_Data\StreamingAssets\lua\)
+  -->
+  <luaFrameworkPath></luaFrameworkPath>
+  <!--  
+    lua游戏代码路径(例子:E:\unity_workplace\204\trunk\testBuild\y_Data\StreamingAssets\gamelua\)
+   -->
+  <luaPath></luaPath>
+  <!--
+    资源路径(编辑器模式或者播放器模式资源路径) (例子:E:\unity_workplace\204\trunk\testBuild\y_Data\StreamingAssets\)
+  -->
+  <resPath>F:\unity_workplace\208\208doc\trunk\Data\StreamingAssets\</resPath>
+<resAndroidPath>F:\unity_workplace\208\208doc\trunk\Data\StreamingAssets_android\</resAndroidPath>
+<resIosPath>F:\unity_workplace\208\208doc\trunk\Data\StreamingAssets_ios\</resIosPath>
+</config>

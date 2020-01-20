@@ -1,0 +1,100 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "rewardLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 35, 
+                "colorG": 69, 
+                "colorR": 203, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 20, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "5星约翰蓝波", 
+                "underLine": false, 
+                "width": 111, 
+                "x": 29, 
+                "y": 59
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "vipLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 35, 
+                "colorG": 69, 
+                "colorR": 203, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 30, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "VIP 1", 
+                "underLine": false, 
+                "width": 58, 
+                "x": 51, 
+                "y": 27
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "selectImg", 
+            "options": {
+                "bottom": 28, 
+                "height": 90, 
+                "isScaleImage": true, 
+                "left": 28, 
+                "link": "vipPanel#cells/cellSelect1.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 28, 
+                "top": 28, 
+                "width": 169, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 77, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#icon/VIPanniuliangtai.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 159, 
+                "x": 5, 
+                "y": 10
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "vipPanel_vipTabItem", 
+    "options": {
+        "height": 90, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 169, 
+        "x": 63, 
+        "y": 517
+    }
+}

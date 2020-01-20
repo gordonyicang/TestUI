@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: hunDunCallShopPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:47ab1f389cb397adfb1024e412749d1a:9b39757334df3e4c4ce1be38a4a2e7d1:8efb4304769721d11082a72ce632f3fa$
+#
+
+board/fengezhixian;967;974;12;21;0.5;0.5
+board/jiazi;936;977;29;18;0.5;0.5
+board/shangchengkuang;2;778;359;157;0.5;0.5
+icon/bazhe;936;939;22;36;0.5;0.5
+icon/biaoqiandi;984;928;32;94;0.5;0.5
+icon/hongchouduan;862;496;72;499;0.5;0.5
+icon/hongmengshangdian;862;997;120;25;0.5;0.5
+icon/shangchengditu;2;937;666;85;0.5;0.5
+icon/shangpingdizhuo;670;936;190;86;0.5;0.5

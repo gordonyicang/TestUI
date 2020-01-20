@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: heroDetailsPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:fbf3543bd6b824e4ddb85ef54e4649d3:2c4e5cd0ff2628aea851200af7f966dd:4f630e79fa642c758607d517426cfca1$
+#
+
+board/chenghaodi;942;951;61;48;0.5;0.5
+board/heng;2;604;720;418;0.5;0.5
+board/wenzilvdi;724;1001;281;21;0.5;0.5
+btn/youcechangtai;875;888;65;111;0.5;0.5
+btn/youceliangtai;801;830;65;110;0.5;0.5
+icon/chenghaowenzi;868;856;53;30;0.5;0.5
+icon/chunashuo;724;923;75;76;0.5;0.5
+icon/dao;942;894;60;55;0.5;0.5
+icon/hulu;942;835;58;57;0.5;0.5
+icon/luse;2;498;616;104;0.5;0.5
+icon/mao;724;869;65;52;0.5;0.5
+icon/suo;868;818;48;36;0.5;0.5
+icon/xiezi;786;768;45;60;0.5;0.5
+icon/yifu;724;808;60;59;0.5;0.5
+icon/youcediaozhui;833;763;23;65;0.5;0.5
+icon/youcehudie;801;942;72;57;0.5;0.5
+icon/youceshengzi;1007;998;8;24;0.5;0.5

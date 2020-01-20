@@ -1,0 +1,168 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "bagCountLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "可分解英雄：9999", 
+                "underLine": false, 
+                "width": 178, 
+                "x": 50, 
+                "y": 356
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "IconPos1", 
+            "options": {
+                "height": 55, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 56, 
+                "x": 89, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "IconPos2", 
+            "options": {
+                "height": 55, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 55, 
+                "x": 187, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "IconPos3", 
+            "options": {
+                "height": 55, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 55, 
+                "x": 285, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "IconPos4", 
+            "options": {
+                "height": 55, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 55, 
+                "x": 381, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "IconPos5", 
+            "options": {
+                "height": 55, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 57, 
+                "x": 474, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "IconPos6", 
+            "options": {
+                "height": 55, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 55, 
+                "x": 573, 
+                "y": 18
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "bagListView", 
+            "options": {
+                "height": 237, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 622, 
+                "x": 50, 
+                "y": 105
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg1", 
+            "options": {
+                "bottom": 232, 
+                "height": 529, 
+                "isScaleImage": true, 
+                "left": 1, 
+                "link": "heroSoulTemplePanel#board/muwenbg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 358, 
+                "top": 110, 
+                "width": 360, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg2", 
+            "options": {
+                "bottom": 232, 
+                "height": 529, 
+                "isScaleImage": true, 
+                "left": 1, 
+                "link": "heroSoulTemplePanel#board/muwenbg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 358, 
+                "top": 110, 
+                "width": 360, 
+                "x": 360, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroSoulTemplePanel_bagView", 
+    "options": {
+        "height": 529, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 740
+    }
+}

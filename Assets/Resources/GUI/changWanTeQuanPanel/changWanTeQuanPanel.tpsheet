@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: changWanTeQuanPanel.png (256 x 256)
+# $TexturePacker:SmartUpdate:5c224beb363a849cb414205eb3bc153e:f3ad65eaa4ddf25d6d7eab8a7704053e:894561374eadca6b945a7358453d8582$
+#
+
+honsedikuang;177;117;51;51;0.5;0.5
+icon/dengjilibao;2;32;78;102;0.5;0.5
+meiyuexiangou;2;136;94;84;0.5;0.5
+meizhouxiangou;82;50;93;84;0.5;0.5
+tubiaokuangZ;2;222;139;32;0.5;0.5
+zhongshenxiangou;143;170;95;84;0.5;0.5

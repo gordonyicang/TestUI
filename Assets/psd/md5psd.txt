@@ -1,0 +1,9 @@
+{
+    "changWanTeQuanPanel": [
+        "PSDTmp\\畅玩特权1_changWanTeQuanPanel.psd", 
+        "755d04ce7760e97bd2e529b29463cbb5", 
+        [
+            "changWanTeQuanPanel_itemView"
+        ]
+    ]
+}

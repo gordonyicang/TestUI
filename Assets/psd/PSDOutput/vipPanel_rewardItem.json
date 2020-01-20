@@ -1,0 +1,57 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tipIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 9, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "vipPanel#icon/xiaogezi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 9, 
+                "x": 0, 
+                "y": 6
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "rewardLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 43, 
+                "colorG": 167, 
+                "colorR": 105, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 20, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "激活专属头像", 
+                "underLine": false, 
+                "width": 119, 
+                "x": 14, 
+                "y": 6
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "vipPanel_rewardItem", 
+    "options": {
+        "height": 20, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 134, 
+        "x": 275, 
+        "y": 684
+    }
+}

@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: vipPanel.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:1db332d9a94309d6bf4ea77b36535858:04fb9c57f41d4e955fcdfab914a8b86a:7b17a31c362760684639146b60a420ca$
+#
+
+VIP1;427;1102;50;24;0.5;0.5
+board/hongxiaobiaoti;427;1156;53;31;0.5;0.5
+daditu;2;1347;610;699;0.5;0.5
+hongxian;476;1137;117;17;0.5;0.5
+icon/VIPanniuchangtai;427;1189;159;77;0.5;0.5
+icon/VIPanniuliangtai;427;1268;159;77;0.5;0.5
+shangditu;2;665;427;127;0.5;0.5
+tequan;427;1128;47;26;0.5;0.5
+tequandikuang;2;794;423;551;0.5;0.5

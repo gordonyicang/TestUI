@@ -1,0 +1,654 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Atlas/bubble1/bubble1.tpsheet
+- Assets/Resources/Atlas/buff/buff.tpsheet
+- Assets/Resources/Atlas/equipCopy/equipCopy.tpsheet
+- Assets/Resources/Atlas/face/face.tpsheet
+- Assets/Resources/Atlas/face1/face1.tpsheet
+- Assets/Resources/Atlas/face2/face2.tpsheet
+- Assets/Resources/Atlas/fashion1/fashion1.tpsheet
+- Assets/Resources/Atlas/goods1/goods1.tpsheet
+- Assets/Resources/Atlas/goods10/goods10.tpsheet
+- Assets/Resources/Atlas/goods11/goods11.tpsheet
+- Assets/Resources/Atlas/goods12/goods12.tpsheet
+- Assets/Resources/Atlas/goods2/goods2.tpsheet
+- Assets/Resources/Atlas/goods2_1/goods2_1.tpsheet
+- Assets/Resources/Atlas/goods2_10/goods2_10.tpsheet
+- Assets/Resources/Atlas/goods2_11/goods2_11.tpsheet
+- Assets/Resources/Atlas/goods2_12/goods2_12.tpsheet
+- Assets/Resources/Atlas/goods2_13/goods2_13.tpsheet
+- Assets/Resources/Atlas/goods2_14/goods2_14.tpsheet
+- Assets/Resources/Atlas/goods2_15/goods2_15.tpsheet
+- Assets/Resources/Atlas/goods2_2/goods2_2.tpsheet
+- Assets/Resources/Atlas/goods2_3/goods2_3.tpsheet
+- Assets/Resources/Atlas/goods2_4/goods2_4.tpsheet
+- Assets/Resources/Atlas/goods2_5/goods2_5.tpsheet
+- Assets/Resources/Atlas/goods2_6/goods2_6.tpsheet
+- Assets/Resources/Atlas/goods2_7/goods2_7.tpsheet
+- Assets/Resources/Atlas/goods2_8/goods2_8.tpsheet
+- Assets/Resources/Atlas/goods2_9/goods2_9.tpsheet
+- Assets/Resources/Atlas/goods3/goods3.tpsheet
+- Assets/Resources/Atlas/goods4/goods4.tpsheet
+- Assets/Resources/Atlas/goods5/goods5.tpsheet
+- Assets/Resources/Atlas/goods6/goods6.tpsheet
+- Assets/Resources/Atlas/goods7/goods7.tpsheet
+- Assets/Resources/Atlas/goods8/goods8.tpsheet
+- Assets/Resources/Atlas/goods9/goods9.tpsheet
+- Assets/Resources/Atlas/heroCard1/heroCard1.tpsheet
+- Assets/Resources/Atlas/heroCard2/heroCard2.tpsheet
+- Assets/Resources/Atlas/heroGrid1/heroGrid1.tpsheet
+- Assets/Resources/Atlas/heroGrid2/heroGrid2.tpsheet
+- Assets/Resources/Atlas/icon/icon.tpsheet
+- Assets/Resources/Atlas/number/number.tpsheet
+- Assets/Resources/Atlas/panel/panel.tpsheet
+- Assets/Resources/Atlas/sceneIcon/sceneIcon.tpsheet
+- Assets/Resources/Atlas/sceneNumber/sceneNumber.tpsheet
+- Assets/Resources/Atlas/sceneSkillIcon/sceneSkillIcon.tpsheet
+- Assets/Resources/Atlas/skillIcon/skillIcon.tpsheet
+- Assets/Resources/Atlas/sundry/sundry.tpsheet
+- Assets/Resources/Atlas/title/title.tpsheet
+- Assets/Resources/Atlas/touxian/touxian.tpsheet
+- Assets/Resources/Atlas/vip/vip.tpsheet
+- Assets/Resources/Atlas/zhuangbei/zhuangbei.tpsheet
+- Assets/Resources/GUI/activityIconTips/activityIconTips.tpsheet
+- Assets/Resources/GUI/AnswerFollowPanel/AnswerFollowPanel.tpsheet
+- Assets/Resources/GUI/bagPanel/bagPanel.tpsheet
+- Assets/Resources/GUI/bagpanel/bagpanel.tpsheet
+- Assets/Resources/GUI/battleShowPanel/battleShowPanel.tpsheet
+- Assets/Resources/GUI/battleZhenRongPanel/battleZhenRongPanel.tpsheet
+- Assets/Resources/GUI/bossAttentionPush/bossAttentionPush.tpsheet
+- Assets/Resources/GUI/bossDropRecord/bossDropRecord.tpsheet
+- Assets/Resources/GUI/bossFollowPanel/bossFollowPanel.tpsheet
+- Assets/Resources/GUI/bossPersonalFollowPanel/bossPersonalFollowPanel.tpsheet
+- Assets/Resources/GUI/bossWorld/bossWorld.tpsheet
+- Assets/Resources/GUI/bzmjCopyView/bzmjCopyView.tpsheet
+- Assets/Resources/GUI/callPanel/callPanel.tpsheet
+- Assets/Resources/GUI/callScorePanel/callScorePanel.tpsheet
+- Assets/Resources/GUI/changWanTeQuanPanel/changWanTeQuanPanel.tpsheet
+- Assets/Resources/GUI/chatFaceView/chatFaceView.tpsheet
+- Assets/Resources/GUI/chatPanel/chatPanel.tpsheet
+- Assets/Resources/GUI/chatVoiceView/chatVoiceView.tpsheet
+- Assets/Resources/GUI/chenghaoPanel/chenghaoPanel.tpsheet
+- Assets/Resources/GUI/chongZhi/chongZhi.tpsheet
+- Assets/Resources/GUI/choseServerPanel/choseServerPanel.tpsheet
+- Assets/Resources/GUI/cjlmActPanel/cjlmActPanel.tpsheet
+- Assets/Resources/GUI/cjlmActRankPanel/cjlmActRankPanel.tpsheet
+- Assets/Resources/GUI/clubBossFollowPanel/clubBossFollowPanel.tpsheet
+- Assets/Resources/GUI/clubCangkuPanel/clubCangkuPanel.tpsheet
+- Assets/Resources/GUI/clubHongbaoListPanel/clubHongbaoListPanel.tpsheet
+- Assets/Resources/GUI/clubHongbaoShowPanel/clubHongbaoShowPanel.tpsheet
+- Assets/Resources/GUI/clubInfoPanel/clubInfoPanel.tpsheet
+- Assets/Resources/GUI/clubShouhuFollowPanel/clubShouhuFollowPanel.tpsheet
+- Assets/Resources/GUI/clubWarAwardPanel/clubWarAwardPanel.tpsheet
+- Assets/Resources/GUI/clubWarFenpeiPanel/clubWarFenpeiPanel.tpsheet
+- Assets/Resources/GUI/clubWarFollowPanel/clubWarFollowPanel.tpsheet
+- Assets/Resources/GUI/clubWarRankPanel/clubWarRankPanel.tpsheet
+- Assets/Resources/GUI/clubXinfaPanel/clubXinfaPanel.tpsheet
+- Assets/Resources/GUI/common/common.tpsheet
+- Assets/Resources/GUI/composeTipsPanel/composeTipsPanel.tpsheet
+- Assets/Resources/GUI/copyFailResultPanel/copyFailResultPanel.tpsheet
+- Assets/Resources/GUI/copyJLFollow/copyJLFollow.tpsheet
+- Assets/Resources/GUI/copyMatchPanel/copyMatchPanel.tpsheet
+- Assets/Resources/GUI/copyPetFollow/copyPetFollow.tpsheet
+- Assets/Resources/GUI/copyPetPanel/copyPetPanel.tpsheet
+- Assets/Resources/GUI/copySweepTip/copySweepTip.tpsheet
+- Assets/Resources/GUI/copyTanXian/copyTanXian.tpsheet
+- Assets/Resources/GUI/copyTowerPanel/copyTowerPanel.tpsheet
+- Assets/Resources/GUI/copyWashFollow/copyWashFollow.tpsheet
+- Assets/Resources/GUI/createRolePanel/createRolePanel.tpsheet
+- Assets/Resources/GUI/dailyBossView/dailyBossView.tpsheet
+- Assets/Resources/GUI/dailyFindTabView/dailyFindTabView.tpsheet
+- Assets/Resources/GUI/dailyScapeView/dailyScapeView.tpsheet
+- Assets/Resources/GUI/dailyTaskTabView/dailyTaskTabView.tpsheet
+- Assets/Resources/GUI/dailyWeekPanel/dailyWeekPanel.tpsheet
+- Assets/Resources/GUI/dianfengFollowPanel/dianfengFollowPanel.tpsheet
+- Assets/Resources/GUI/dianfengWarPanel/dianfengWarPanel.tpsheet
+- Assets/Resources/GUI/douXianArenaPanel/douXianArenaPanel.tpsheet
+- Assets/Resources/GUI/equipCopyFollowPanel/equipCopyFollowPanel.tpsheet
+- Assets/Resources/GUI/equipCopyPanel/equipCopyPanel.tpsheet
+- Assets/Resources/GUI/equipTreasureTabView/equipTreasureTabView.tpsheet
+- Assets/Resources/GUI/expCopyFollowView/expCopyFollowView.tpsheet
+- Assets/Resources/GUI/expCopyView/expCopyView.tpsheet
+- Assets/Resources/GUI/fashionPanel/fashionPanel.tpsheet
+- Assets/Resources/GUI/firstRechargePanel/firstRechargePanel.tpsheet
+- Assets/Resources/GUI/firstRechargeReturnPanel/firstRechargeReturnPanel.tpsheet
+- Assets/Resources/GUI/firstRechargeSmallView/firstRechargeSmallView.tpsheet
+- Assets/Resources/GUI/friendAddPanel/friendAddPanel.tpsheet
+- Assets/Resources/GUI/friendPanel/friendPanel.tpsheet
+- Assets/Resources/GUI/fuwenhecheng/fuwenhecheng.tpsheet
+- Assets/Resources/GUI/fuwenShop/fuwenShop.tpsheet
+- Assets/Resources/GUI/fuWenTreasureTabView/fuWenTreasureTabView.tpsheet
+- Assets/Resources/GUI/fuwenxiangqian/fuwenxiangqian.tpsheet
+- Assets/Resources/GUI/fuwenxiangqianfenjieView/fuwenxiangqianfenjieView.tpsheet
+- Assets/Resources/GUI/getSkillTips/getSkillTips.tpsheet
+- Assets/Resources/GUI/getWaysPanel/getWaysPanel.tpsheet
+- Assets/Resources/GUI/helpBattlePanel/helpBattlePanel.tpsheet
+- Assets/Resources/GUI/heroDetailsPanel/heroDetailsPanel.tpsheet
+- Assets/Resources/GUI/heroDrawLookPanel/heroDrawLookPanel.tpsheet
+- Assets/Resources/GUI/heroJinjiePanel/heroJinjiePanel.tpsheet
+- Assets/Resources/GUI/heroJinShengSuccessPanel/heroJinShengSuccessPanel.tpsheet
+- Assets/Resources/GUI/heroKezhiTipsPanel/heroKezhiTipsPanel.tpsheet
+- Assets/Resources/GUI/heroMainPanel/heroMainPanel.tpsheet
+- Assets/Resources/GUI/heroSoulTemplePanel/heroSoulTemplePanel.tpsheet
+- Assets/Resources/GUI/heroStrengthenEquipPanel/heroStrengthenEquipPanel.tpsheet
+- Assets/Resources/GUI/heroTujianXqPanel/heroTujianXqPanel.tpsheet
+- Assets/Resources/GUI/hunDunCallPanel/hunDunCallPanel.tpsheet
+- Assets/Resources/GUI/hunDunCallShopPanel/hunDunCallShopPanel.tpsheet
+- Assets/Resources/GUI/huntTreasureAwardView/huntTreasureAwardView.tpsheet
+- Assets/Resources/GUI/huntTreasurePanel/huntTreasurePanel.tpsheet
+- Assets/Resources/GUI/IconFireFollowPanel/IconFireFollowPanel.tpsheet
+- Assets/Resources/GUI/jiZiPanel/jiZiPanel.tpsheet
+- Assets/Resources/GUI/jubaopenPanel/jubaopenPanel.tpsheet
+- Assets/Resources/GUI/LixianguajiPanel/LixianguajiPanel.tpsheet
+- Assets/Resources/GUI/loginPanel/loginPanel.tpsheet
+- Assets/Resources/GUI/lookCompared/lookCompared.tpsheet
+- Assets/Resources/GUI/lookMessage/lookMessage.tpsheet
+- Assets/Resources/GUI/luanDouWarFollowPanel/luanDouWarFollowPanel.tpsheet
+- Assets/Resources/GUI/lueDuoListPanel/lueDuoListPanel.tpsheet
+- Assets/Resources/GUI/mailPanel/mailPanel.tpsheet
+- Assets/Resources/GUI/mainPanel/mainPanel.tpsheet
+- Assets/Resources/GUI/mapAreaPanel/mapAreaPanel.tpsheet
+- Assets/Resources/GUI/mapWorldPanel/mapWorldPanel.tpsheet
+- Assets/Resources/GUI/marketAppointPanel/marketAppointPanel.tpsheet
+- Assets/Resources/GUI/marketSaleAppointPanel/marketSaleAppointPanel.tpsheet
+- Assets/Resources/GUI/marketSaleLogPanel/marketSaleLogPanel.tpsheet
+- Assets/Resources/GUI/marketSaleShowFriendPanel/marketSaleShowFriendPanel.tpsheet
+- Assets/Resources/GUI/marketSaleShowPanel/marketSaleShowPanel.tpsheet
+- Assets/Resources/GUI/mysticalShopPanel/mysticalShopPanel.tpsheet
+- Assets/Resources/GUI/newFuwenUnlockPanel/newFuwenUnlockPanel.tpsheet
+- Assets/Resources/GUI/npcTalkPanel/npcTalkPanel.tpsheet
+- Assets/Resources/GUI/openSeverActPanel/openSeverActPanel.tpsheet
+- Assets/Resources/GUI/openSeverSalePanel/openSeverSalePanel.tpsheet
+- Assets/Resources/GUI/qiChongActivation/qiChongActivation.tpsheet
+- Assets/Resources/GUI/qiChongHuaXing/qiChongHuaXing.tpsheet
+- Assets/Resources/GUI/qiChongPet/qiChongPet.tpsheet
+- Assets/Resources/GUI/ratePreviewPanel/ratePreviewPanel.tpsheet
+- Assets/Resources/GUI/rechargePanel/rechargePanel.tpsheet
+- Assets/Resources/GUI/relivePanel/relivePanel.tpsheet
+- Assets/Resources/GUI/rewardPanel/rewardPanel.tpsheet
+- Assets/Resources/GUI/roleInfo/roleInfo.tpsheet
+- Assets/Resources/GUI/roleJingJie/roleJingJie.tpsheet
+- Assets/Resources/GUI/roleSpriteHuaXingPanel/roleSpriteHuaXingPanel.tpsheet
+- Assets/Resources/GUI/roleSpritePanel/roleSpritePanel.tpsheet
+- Assets/Resources/GUI/roleWing/roleWing.tpsheet
+- Assets/Resources/GUI/rongLianPanel/rongLianPanel.tpsheet
+- Assets/Resources/GUI/sellPanel/sellPanel.tpsheet
+- Assets/Resources/GUI/sendGift/sendGift.tpsheet
+- Assets/Resources/GUI/settingPanel/settingPanel.tpsheet
+- Assets/Resources/GUI/sevenDayGiftPanel/sevenDayGiftPanel.tpsheet
+- Assets/Resources/GUI/shiPinAdvancePanel/shiPinAdvancePanel.tpsheet
+- Assets/Resources/GUI/shopPanel/shopPanel.tpsheet
+- Assets/Resources/GUI/skillActivePanel/skillActivePanel.tpsheet
+- Assets/Resources/GUI/startCreatePanel/startCreatePanel.tpsheet
+- Assets/Resources/GUI/startNoticePanel/startNoticePanel.tpsheet
+- Assets/Resources/GUI/startSeverPanel/startSeverPanel.tpsheet
+- Assets/Resources/GUI/stoneView/stoneView.tpsheet
+- Assets/Resources/GUI/strengthenView/strengthenView.tpsheet
+- Assets/Resources/GUI/tanXianFight/tanXianFight.tpsheet
+- Assets/Resources/GUI/tanXianRecordPanel/tanXianRecordPanel.tpsheet
+- Assets/Resources/GUI/tanXianUpgradePanel/tanXianUpgradePanel.tpsheet
+- Assets/Resources/GUI/teamAgreePanel/teamAgreePanel.tpsheet
+- Assets/Resources/GUI/teamApplyPanel/teamApplyPanel.tpsheet
+- Assets/Resources/GUI/teamChangePanel/teamChangePanel.tpsheet
+- Assets/Resources/GUI/teamInvitePanel/teamInvitePanel.tpsheet
+- Assets/Resources/GUI/teamListPanel/teamListPanel.tpsheet
+- Assets/Resources/GUI/teamSurePanel/teamSurePanel.tpsheet
+- Assets/Resources/GUI/testPanel/testPanel.tpsheet
+- Assets/Resources/GUI/testTabPanel1/testTabPanel1.tpsheet
+- Assets/Resources/GUI/tianyiWarFollowPanel/tianyiWarFollowPanel.tpsheet
+- Assets/Resources/GUI/tianyiWarPanel/tianyiWarPanel.tpsheet
+- Assets/Resources/GUI/treasureStorePanel/treasureStorePanel.tpsheet
+- Assets/Resources/GUI/vipPanel/vipPanel.tpsheet
+- Assets/Resources/GUI/welfareDailyWishPanel/welfareDailyWishPanel.tpsheet
+- Assets/Resources/GUI/welfareSignInPanel/welfareSignInPanel.tpsheet
+- Assets/Resources/GUI/wingHuaXing/wingHuaXing.tpsheet
+- Assets/Resources/GUI/xianLingPanel/xianLingPanel.tpsheet
+- Assets/Resources/GUI/xianLingQHPanel/xianLingQHPanel.tpsheet
+- Assets/Resources/GUI/xianLingUI/xianLingUI.tpsheet
+- Assets/Resources/GUI/xianLingUpPanel/xianLingUpPanel.tpsheet
+- Assets/Resources/GUI/xinfuhuodongPanel/xinfuhuodongPanel.tpsheet
+- Assets/Resources/GUI/xiuXianRoadPanel/xiuXianRoadPanel.tpsheet
+- Assets/Resources/GUI/xiuXianTaskPanel/xiuXianTaskPanel.tpsheet
+- Assets/Resources/GUI/ybdgActPanel/ybdgActPanel.tpsheet
+- Assets/Resources/GUI/ybdgRankPanel/ybdgRankPanel.tpsheet
+- Assets/Resources/GUI/zhanHun/zhanHun.tpsheet
+- Assets/Resources/GUI/zhuangBanBaseTabView/zhuangBanBaseTabView.tpsheet
+- Assets/Resources/GUI/zhuangBanRongLianPanel/zhuangBanRongLianPanel.tpsheet
+- Assets/Resources/GUI/zhuanzhiSucessPanel/zhuanzhiSucessPanel.tpsheet
+- Assets/Resources/GUI/zqwdQuestionPanel/zqwdQuestionPanel.tpsheet
+textureFileNames:
+- Assets/Resources/Atlas/bubble1/bubble1.png
+- Assets/Resources/Atlas/buff/buff.png
+- Assets/Resources/Atlas/equipCopy/equipCopy.png
+- Assets/Resources/Atlas/face/face.png
+- Assets/Resources/Atlas/face1/face1.png
+- Assets/Resources/Atlas/face2/face2.png
+- Assets/Resources/Atlas/fashion1/fashion1.png
+- Assets/Resources/Atlas/goods1/goods1.png
+- Assets/Resources/Atlas/goods10/goods10.png
+- Assets/Resources/Atlas/goods11/goods11.png
+- Assets/Resources/Atlas/goods12/goods12.png
+- Assets/Resources/Atlas/goods2/goods2.png
+- Assets/Resources/Atlas/goods2_1/goods2_1.png
+- Assets/Resources/Atlas/goods2_10/goods2_10.png
+- Assets/Resources/Atlas/goods2_11/goods2_11.png
+- Assets/Resources/Atlas/goods2_12/goods2_12.png
+- Assets/Resources/Atlas/goods2_13/goods2_13.png
+- Assets/Resources/Atlas/goods2_14/goods2_14.png
+- Assets/Resources/Atlas/goods2_15/goods2_15.png
+- Assets/Resources/Atlas/goods2_2/goods2_2.png
+- Assets/Resources/Atlas/goods2_3/goods2_3.png
+- Assets/Resources/Atlas/goods2_4/goods2_4.png
+- Assets/Resources/Atlas/goods2_5/goods2_5.png
+- Assets/Resources/Atlas/goods2_6/goods2_6.png
+- Assets/Resources/Atlas/goods2_7/goods2_7.png
+- Assets/Resources/Atlas/goods2_8/goods2_8.png
+- Assets/Resources/Atlas/goods2_9/goods2_9.png
+- Assets/Resources/Atlas/goods3/goods3.png
+- Assets/Resources/Atlas/goods4/goods4.png
+- Assets/Resources/Atlas/goods5/goods5.png
+- Assets/Resources/Atlas/goods6/goods6.png
+- Assets/Resources/Atlas/goods7/goods7.png
+- Assets/Resources/Atlas/goods8/goods8.png
+- Assets/Resources/Atlas/goods9/goods9.png
+- Assets/Resources/Atlas/heroCard1/heroCard1.png
+- Assets/Resources/Atlas/heroCard2/heroCard2.png
+- Assets/Resources/Atlas/heroGrid1/heroGrid1.png
+- Assets/Resources/Atlas/heroGrid2/heroGrid2.png
+- Assets/Resources/Atlas/icon/icon.png
+- Assets/Resources/Atlas/number/number.png
+- Assets/Resources/Atlas/panel/panel.png
+- Assets/Resources/Atlas/sceneIcon/sceneIcon.png
+- Assets/Resources/Atlas/sceneNumber/sceneNumber.png
+- Assets/Resources/Atlas/sceneSkillIcon/sceneSkillIcon.png
+- Assets/Resources/Atlas/skillIcon/skillIcon.png
+- Assets/Resources/Atlas/sundry/sundry.png
+- Assets/Resources/Atlas/title/title.png
+- Assets/Resources/Atlas/touxian/touxian.png
+- Assets/Resources/Atlas/vip/vip.png
+- Assets/Resources/Atlas/zhuangbei/zhuangbei.png
+- Assets/Resources/GUI/activityIconTips/activityIconTips.png
+- Assets/Resources/GUI/AnswerFollowPanel/AnswerFollowPanel.png
+- Assets/Resources/GUI/bagPanel/bagPanel.png
+- Assets/Resources/GUI/bagpanel/bagpanel.png
+- Assets/Resources/GUI/battleShowPanel/battleShowPanel.png
+- Assets/Resources/GUI/battleZhenRongPanel/battleZhenRongPanel.png
+- Assets/Resources/GUI/bossAttentionPush/bossAttentionPush.png
+- Assets/Resources/GUI/bossDropRecord/bossDropRecord.png
+- Assets/Resources/GUI/bossFollowPanel/bossFollowPanel.png
+- Assets/Resources/GUI/bossPersonalFollowPanel/bossPersonalFollowPanel.png
+- Assets/Resources/GUI/bossWorld/bossWorld.png
+- Assets/Resources/GUI/bzmjCopyView/bzmjCopyView.png
+- Assets/Resources/GUI/callPanel/callPanel.png
+- Assets/Resources/GUI/callScorePanel/callScorePanel.png
+- Assets/Resources/GUI/changWanTeQuanPanel/changWanTeQuanPanel.png
+- Assets/Resources/GUI/chatFaceView/chatFaceView.png
+- Assets/Resources/GUI/chatPanel/chatPanel.png
+- Assets/Resources/GUI/chatVoiceView/chatVoiceView.png
+- Assets/Resources/GUI/chenghaoPanel/chenghaoPanel.png
+- Assets/Resources/GUI/chongZhi/chongZhi.png
+- Assets/Resources/GUI/choseServerPanel/choseServerPanel.png
+- Assets/Resources/GUI/cjlmActPanel/cjlmActPanel.png
+- Assets/Resources/GUI/cjlmActRankPanel/cjlmActRankPanel.png
+- Assets/Resources/GUI/clubBossFollowPanel/clubBossFollowPanel.png
+- Assets/Resources/GUI/clubCangkuPanel/clubCangkuPanel.png
+- Assets/Resources/GUI/clubHongbaoListPanel/clubHongbaoListPanel.png
+- Assets/Resources/GUI/clubHongbaoShowPanel/clubHongbaoShowPanel.png
+- Assets/Resources/GUI/clubInfoPanel/clubInfoPanel.png
+- Assets/Resources/GUI/clubShouhuFollowPanel/clubShouhuFollowPanel.png
+- Assets/Resources/GUI/clubWarAwardPanel/clubWarAwardPanel.png
+- Assets/Resources/GUI/clubWarFenpeiPanel/clubWarFenpeiPanel.png
+- Assets/Resources/GUI/clubWarFollowPanel/clubWarFollowPanel.png
+- Assets/Resources/GUI/clubWarRankPanel/clubWarRankPanel.png
+- Assets/Resources/GUI/clubXinfaPanel/clubXinfaPanel.png
+- Assets/Resources/GUI/common/common.png
+- Assets/Resources/GUI/composeTipsPanel/composeTipsPanel.png
+- Assets/Resources/GUI/copyFailResultPanel/copyFailResultPanel.png
+- Assets/Resources/GUI/copyJLFollow/copyJLFollow.png
+- Assets/Resources/GUI/copyMatchPanel/copyMatchPanel.png
+- Assets/Resources/GUI/copyPetFollow/copyPetFollow.png
+- Assets/Resources/GUI/copyPetPanel/copyPetPanel.png
+- Assets/Resources/GUI/copySweepTip/copySweepTip.png
+- Assets/Resources/GUI/copyTanXian/copyTanXian.png
+- Assets/Resources/GUI/copyTowerPanel/copyTowerPanel.png
+- Assets/Resources/GUI/copyWashFollow/copyWashFollow.png
+- Assets/Resources/GUI/createRolePanel/createRolePanel.png
+- Assets/Resources/GUI/dailyBossView/dailyBossView.png
+- Assets/Resources/GUI/dailyFindTabView/dailyFindTabView.png
+- Assets/Resources/GUI/dailyScapeView/dailyScapeView.png
+- Assets/Resources/GUI/dailyTaskTabView/dailyTaskTabView.png
+- Assets/Resources/GUI/dailyWeekPanel/dailyWeekPanel.png
+- Assets/Resources/GUI/dianfengFollowPanel/dianfengFollowPanel.png
+- Assets/Resources/GUI/dianfengWarPanel/dianfengWarPanel.png
+- Assets/Resources/GUI/douXianArenaPanel/douXianArenaPanel.png
+- Assets/Resources/GUI/equipCopyFollowPanel/equipCopyFollowPanel.png
+- Assets/Resources/GUI/equipCopyPanel/equipCopyPanel.png
+- Assets/Resources/GUI/equipTreasureTabView/equipTreasureTabView.png
+- Assets/Resources/GUI/expCopyFollowView/expCopyFollowView.png
+- Assets/Resources/GUI/expCopyView/expCopyView.png
+- Assets/Resources/GUI/fashionPanel/fashionPanel.png
+- Assets/Resources/GUI/firstRechargePanel/firstRechargePanel.png
+- Assets/Resources/GUI/firstRechargeReturnPanel/firstRechargeReturnPanel.png
+- Assets/Resources/GUI/firstRechargeSmallView/firstRechargeSmallView.png
+- Assets/Resources/GUI/friendAddPanel/friendAddPanel.png
+- Assets/Resources/GUI/friendPanel/friendPanel.png
+- Assets/Resources/GUI/fuwenhecheng/fuwenhecheng.png
+- Assets/Resources/GUI/fuwenShop/fuwenShop.png
+- Assets/Resources/GUI/fuWenTreasureTabView/fuWenTreasureTabView.png
+- Assets/Resources/GUI/fuwenxiangqian/fuwenxiangqian.png
+- Assets/Resources/GUI/fuwenxiangqianfenjieView/fuwenxiangqianfenjieView.png
+- Assets/Resources/GUI/getSkillTips/getSkillTips.png
+- Assets/Resources/GUI/getWaysPanel/getWaysPanel.png
+- Assets/Resources/GUI/helpBattlePanel/helpBattlePanel.png
+- Assets/Resources/GUI/heroDetailsPanel/heroDetailsPanel.png
+- Assets/Resources/GUI/heroDrawLookPanel/heroDrawLookPanel.png
+- Assets/Resources/GUI/heroJinjiePanel/heroJinjiePanel.png
+- Assets/Resources/GUI/heroJinShengSuccessPanel/heroJinShengSuccessPanel.png
+- Assets/Resources/GUI/heroKezhiTipsPanel/heroKezhiTipsPanel.png
+- Assets/Resources/GUI/heroMainPanel/heroMainPanel.png
+- Assets/Resources/GUI/heroSoulTemplePanel/heroSoulTemplePanel.png
+- Assets/Resources/GUI/heroStrengthenEquipPanel/heroStrengthenEquipPanel.png
+- Assets/Resources/GUI/heroTujianXqPanel/heroTujianXqPanel.png
+- Assets/Resources/GUI/hunDunCallPanel/hunDunCallPanel.png
+- Assets/Resources/GUI/hunDunCallShopPanel/hunDunCallShopPanel.png
+- Assets/Resources/GUI/huntTreasureAwardView/huntTreasureAwardView.png
+- Assets/Resources/GUI/huntTreasurePanel/huntTreasurePanel.png
+- Assets/Resources/GUI/IconFireFollowPanel/IconFireFollowPanel.png
+- Assets/Resources/GUI/jiZiPanel/jiZiPanel.png
+- Assets/Resources/GUI/jubaopenPanel/jubaopenPanel.png
+- Assets/Resources/GUI/LixianguajiPanel/LixianguajiPanel.png
+- Assets/Resources/GUI/loginPanel/loginPanel.png
+- Assets/Resources/GUI/lookCompared/lookCompared.png
+- Assets/Resources/GUI/lookMessage/lookMessage.png
+- Assets/Resources/GUI/luanDouWarFollowPanel/luanDouWarFollowPanel.png
+- Assets/Resources/GUI/lueDuoListPanel/lueDuoListPanel.png
+- Assets/Resources/GUI/mailPanel/mailPanel.png
+- Assets/Resources/GUI/mainPanel/mainPanel.png
+- Assets/Resources/GUI/mapAreaPanel/mapAreaPanel.png
+- Assets/Resources/GUI/mapWorldPanel/mapWorldPanel.png
+- Assets/Resources/GUI/marketAppointPanel/marketAppointPanel.png
+- Assets/Resources/GUI/marketSaleAppointPanel/marketSaleAppointPanel.png
+- Assets/Resources/GUI/marketSaleLogPanel/marketSaleLogPanel.png
+- Assets/Resources/GUI/marketSaleShowFriendPanel/marketSaleShowFriendPanel.png
+- Assets/Resources/GUI/marketSaleShowPanel/marketSaleShowPanel.png
+- Assets/Resources/GUI/mysticalShopPanel/mysticalShopPanel.png
+- Assets/Resources/GUI/newFuwenUnlockPanel/newFuwenUnlockPanel.png
+- Assets/Resources/GUI/npcTalkPanel/npcTalkPanel.png
+- Assets/Resources/GUI/openSeverActPanel/openSeverActPanel.png
+- Assets/Resources/GUI/openSeverSalePanel/openSeverSalePanel.png
+- Assets/Resources/GUI/qiChongActivation/qiChongActivation.png
+- Assets/Resources/GUI/qiChongHuaXing/qiChongHuaXing.png
+- Assets/Resources/GUI/qiChongPet/qiChongPet.png
+- Assets/Resources/GUI/ratePreviewPanel/ratePreviewPanel.png
+- Assets/Resources/GUI/rechargePanel/rechargePanel.png
+- Assets/Resources/GUI/relivePanel/relivePanel.png
+- Assets/Resources/GUI/rewardPanel/rewardPanel.png
+- Assets/Resources/GUI/roleInfo/roleInfo.png
+- Assets/Resources/GUI/roleJingJie/roleJingJie.png
+- Assets/Resources/GUI/roleSpriteHuaXingPanel/roleSpriteHuaXingPanel.png
+- Assets/Resources/GUI/roleSpritePanel/roleSpritePanel.png
+- Assets/Resources/GUI/roleWing/roleWing.png
+- Assets/Resources/GUI/rongLianPanel/rongLianPanel.png
+- Assets/Resources/GUI/sellPanel/sellPanel.png
+- Assets/Resources/GUI/sendGift/sendGift.png
+- Assets/Resources/GUI/settingPanel/settingPanel.png
+- Assets/Resources/GUI/sevenDayGiftPanel/sevenDayGiftPanel.png
+- Assets/Resources/GUI/shiPinAdvancePanel/shiPinAdvancePanel.png
+- Assets/Resources/GUI/shopPanel/shopPanel.png
+- Assets/Resources/GUI/skillActivePanel/skillActivePanel.png
+- Assets/Resources/GUI/startCreatePanel/startCreatePanel.png
+- Assets/Resources/GUI/startNoticePanel/startNoticePanel.png
+- Assets/Resources/GUI/startSeverPanel/startSeverPanel.png
+- Assets/Resources/GUI/stoneView/stoneView.png
+- Assets/Resources/GUI/strengthenView/strengthenView.png
+- Assets/Resources/GUI/tanXianFight/tanXianFight.png
+- Assets/Resources/GUI/tanXianRecordPanel/tanXianRecordPanel.png
+- Assets/Resources/GUI/tanXianUpgradePanel/tanXianUpgradePanel.png
+- Assets/Resources/GUI/teamAgreePanel/teamAgreePanel.png
+- Assets/Resources/GUI/teamApplyPanel/teamApplyPanel.png
+- Assets/Resources/GUI/teamChangePanel/teamChangePanel.png
+- Assets/Resources/GUI/teamInvitePanel/teamInvitePanel.png
+- Assets/Resources/GUI/teamListPanel/teamListPanel.png
+- Assets/Resources/GUI/teamSurePanel/teamSurePanel.png
+- Assets/Resources/GUI/testPanel/testPanel.png
+- Assets/Resources/GUI/testTabPanel1/testTabPanel1.png
+- Assets/Resources/GUI/tianyiWarFollowPanel/tianyiWarFollowPanel.png
+- Assets/Resources/GUI/tianyiWarPanel/tianyiWarPanel.png
+- Assets/Resources/GUI/treasureStorePanel/treasureStorePanel.png
+- Assets/Resources/GUI/vipPanel/vipPanel.png
+- Assets/Resources/GUI/welfareDailyWishPanel/welfareDailyWishPanel.png
+- Assets/Resources/GUI/welfareSignInPanel/welfareSignInPanel.png
+- Assets/Resources/GUI/wingHuaXing/wingHuaXing.png
+- Assets/Resources/GUI/xianLingPanel/xianLingPanel.png
+- Assets/Resources/GUI/xianLingQHPanel/xianLingQHPanel.png
+- Assets/Resources/GUI/xianLingUI/xianLingUI.png
+- Assets/Resources/GUI/xianLingUpPanel/xianLingUpPanel.png
+- Assets/Resources/GUI/xinfuhuodongPanel/xinfuhuodongPanel.png
+- Assets/Resources/GUI/xiuXianRoadPanel/xiuXianRoadPanel.png
+- Assets/Resources/GUI/xiuXianTaskPanel/xiuXianTaskPanel.png
+- Assets/Resources/GUI/ybdgActPanel/ybdgActPanel.png
+- Assets/Resources/GUI/ybdgRankPanel/ybdgRankPanel.png
+- Assets/Resources/GUI/zhanHun/zhanHun.png
+- Assets/Resources/GUI/zhuangBanBaseTabView/zhuangBanBaseTabView.png
+- Assets/Resources/GUI/zhuangBanRongLianPanel/zhuangBanRongLianPanel.png
+- Assets/Resources/GUI/zhuanzhiSucessPanel/zhuanzhiSucessPanel.png
+- Assets/Resources/GUI/zqwdQuestionPanel/zqwdQuestionPanel.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

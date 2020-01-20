@@ -1,0 +1,49 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: icon.png (548 x 548)
+# $TexturePacker:SmartUpdate:0285469723604be81711c7f6610b492a:1a2d82db435ed6603bf81ec549e2a66a:f6db916d01c3ab2122e627942692ec14$
+#
+
+zhujiemian/1001;154;184;74;100;0.5;0.5
+zhujiemian/1001_1;78;184;74;100;0.5;0.5
+zhujiemian/1002;2;184;74;100;0.5;0.5
+zhujiemian/1002_1;458;242;74;100;0.5;0.5
+zhujiemian/1003;382;242;74;100;0.5;0.5
+zhujiemian/1003_1;306;286;74;100;0.5;0.5
+zhujiemian/1004;230;286;74;100;0.5;0.5
+zhujiemian/1004_1;154;286;74;100;0.5;0.5
+zhujiemian/1005;78;286;74;100;0.5;0.5
+zhujiemian/1005_1;2;286;74;100;0.5;0.5
+zhujiemian/1006;442;344;74;100;0.5;0.5
+zhujiemian/1006_1;442;446;74;100;0.5;0.5
+zhujiemian/101;438;12;62;62;0.5;0.5
+zhujiemian/1011;310;215;69;69;0.5;0.5
+zhujiemian/102;374;12;62;62;0.5;0.5
+zhujiemian/103;310;23;62;62;0.5;0.5
+zhujiemian/104;246;56;62;62;0.5;0.5
+zhujiemian/105;164;120;62;62;0.5;0.5
+zhujiemian/201;164;44;80;74;0.5;0.5
+zhujiemian/202;82;108;80;74;0.5;0.5
+zhujiemian/203;82;11;80;74;0.5;0.5
+zhujiemian/301;332;388;108;78;0.5;0.5
+zhujiemian/302;222;388;108;78;0.5;0.5
+zhujiemian/303;112;388;108;78;0.5;0.5
+zhujiemian/304;2;388;108;78;0.5;0.5
+zhujiemian/305;332;468;108;78;0.5;0.5
+zhujiemian/306;222;468;108;78;0.5;0.5
+zhujiemian/307;112;468;108;78;0.5;0.5
+zhujiemian/308;2;468;108;78;0.5;0.5
+zhujiemian/401;2;101;78;81;0.5;0.5
+zhujiemian/402;2;4;78;81;0.5;0.5
+zhujiemian/403;454;76;78;81;0.5;0.5
+zhujiemian/404;374;76;78;81;0.5;0.5
+zhujiemian/405;461;159;78;81;0.5;0.5
+zhujiemian/406;230;120;78;81;0.5;0.5
+zhujiemian/407;381;159;78;81;0.5;0.5
+zhujiemian/408;230;203;78;81;0.5;0.5
+zhujiemian/foldIcon1;310;87;62;62;0.5;0.5
+zhujiemian/foldIcon2;310;151;62;62;0.5;0.5

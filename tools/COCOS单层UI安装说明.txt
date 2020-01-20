@@ -1,0 +1,2 @@
+1.解压到PS安装路径的插件文件夹，如D:\Program Files (x86)\Adobe\Photoshop CS6\Plug-ins\Panels
+2.在PS中调出辅助工具：窗口-扩展功能-COCOS单层UI

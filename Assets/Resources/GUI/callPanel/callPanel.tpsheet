@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: callPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:f4fb85e00c7510655c761f80ad550925:56a86e846d9fcf8b6494705283d0c562:61a3652d78c5c2bebb94347be5fd58c9$
+#
+
+callHeroImg1;2;463;673;280;0.5;0.5
+callHeroImg2;2;185;673;276;0.5;0.5
+callHeroImg3;2;745;683;277;0.5;0.5
+callTitleImg1;2;57;341;126;0.5;0.5
+callTitleImg2;687;893;334;129;0.5;0.5
+callTitleImg3;345;55;336;128;0.5;0.5
+icon/jifen;2;33;91;22;0.5;0.5
+icon/jinjuan;841;477;129;191;0.5;0.5
+icon/jinjuanliang;687;671;166;220;0.5;0.5
+icon/lanjuan;683;60;126;186;0.5;0.5
+icon/lanjuanliang;855;670;162;221;0.5;0.5
+icon/liangdeng;812;366;69;75;0.5;0.5
+icon/lvjuan;677;248;133;193;0.5;0.5
+icon/lvjuanliang;677;443;162;226;0.5;0.5

@@ -1,0 +1,60 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemListView", 
+            "options": {
+                "height": 526, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 605, 
+                "x": 8, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "myRankPos", 
+            "options": {
+                "height": 129, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 609, 
+                "x": 6, 
+                "y": 556
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "panelBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 549, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "douXianArenaPanel#board/qiansedikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 621, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "douXianArenaPanel_rankPanelView", 
+    "options": {
+        "height": 685, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 621, 
+        "x": 51, 
+        "y": 391
+    }
+}

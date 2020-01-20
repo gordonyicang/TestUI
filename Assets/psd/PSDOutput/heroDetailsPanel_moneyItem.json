@@ -1,0 +1,76 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroDetailsPanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 42, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "9998万/9999万", 
+                "underLine": false, 
+                "width": 159, 
+                "x": 48, 
+                "y": 14
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 38, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "heroDetailsPanel#board/baizidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 244, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroDetailsPanel_moneyItem", 
+    "options": {
+        "height": 38, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 244, 
+        "x": 130, 
+        "y": 1001
+    }
+}

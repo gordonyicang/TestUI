@@ -1,0 +1,117 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "denghaoImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 12, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroJinjiePanel#icon/denghaolv.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 20, 
+                "x": 100, 
+                "y": 43
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "addImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 20, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroJinjiePanel#icon/jiahaolv.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 20, 
+                "x": 222, 
+                "y": 39
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot5", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 95, 
+                "x": 439, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot4", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 95, 
+                "x": 342, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot3", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 95, 
+                "x": 245, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot2", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 95, 
+                "x": 124, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot1", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 95, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroJinjiePanel_jinjieItem", 
+    "options": {
+        "height": 95, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 534, 
+        "x": 95, 
+        "y": 817
+    }
+}

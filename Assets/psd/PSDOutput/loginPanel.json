@@ -1,0 +1,290 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tipsLabel", 
+            "options": {
+                "AntiAlias": 3, 
+                "Justification": 0, 
+                "Leading": "20.69231", 
+                "colorB": 255, 
+                "colorG": 255, 
+                "colorR": 255, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 44, 
+                "opacity": 255, 
+                "property": "Type=LABEL\rinput=0\rhidden=0\risRichLabel=1\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "singleLine": false, 
+                "text": "本网络游戏适合年满18周岁以上用户使用；\r为了您的健康，请合理控制游戏时间\r", 
+                "underLine": false, 
+                "width": 438, 
+                "x": 150, 
+                "y": 1165
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "gonggao", 
+            "options": {
+                "bottom": 0, 
+                "height": 71, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "loginPanel#gongao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 64, 
+                "x": 11, 
+                "y": 100
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "qiehuanzhanghao", 
+            "options": {
+                "bottom": 0, 
+                "height": 71, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "loginPanel#qiehuanzhanghao.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 68, 
+                "x": 9, 
+                "y": 13
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "enterImg1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 29, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "loginPanel#wenzi/jinruyouxi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 152, 
+                        "x": 238, 
+                        "y": 449
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "enterBtn", 
+                    "options": {
+                        "bottom": 37, 
+                        "height": 75, 
+                        "isScaleImage": true, 
+                        "left": 70, 
+                        "link": "loginPanel#btn/chuanjueanniu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 70, 
+                        "top": 37, 
+                        "width": 249, 
+                        "x": 189, 
+                        "y": 426
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "serverStateIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 28, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "loginPanel#xuanfudian.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 28, 
+                        "x": 156, 
+                        "y": 369
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "dianjixuanfu", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 39, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "loginPanel#dianjixuanfu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 110, 
+                        "x": 368, 
+                        "y": 361
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "serverLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "0.0", 
+                        "colorB": 255, 
+                        "colorG": 255, 
+                        "colorR": 255, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "醉桃花", 
+                        "underLine": false, 
+                        "width": 70, 
+                        "x": 190, 
+                        "y": 375
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "logo", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 318, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "loginPanel#logo.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=2\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 653, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "borad5", 
+                    "options": {
+                        "bottom": 14, 
+                        "height": 54, 
+                        "isScaleImage": true, 
+                        "left": 12, 
+                        "link": "loginPanel#board/mingzidikuang.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 12, 
+                        "top": 12, 
+                        "width": 337, 
+                        "x": 145, 
+                        "y": 354
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "nameLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 2, 
+                        "Leading": "20.69231", 
+                        "colorB": 254, 
+                        "colorG": 254, 
+                        "colorR": 255, 
+                        "font": "MicrosoftYaHei", 
+                        "fontSize": 26, 
+                        "height": 26, 
+                        "opacity": 255, 
+                        "property": "Type=LABEL\rinput=1\rhidden=0\risRichLabel=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "singleLine": true, 
+                        "text": "请输入账号", 
+                        "underLine": false, 
+                        "width": 134, 
+                        "x": 246, 
+                        "y": 656
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "borad6", 
+                    "options": {
+                        "bottom": 14, 
+                        "height": 54, 
+                        "isScaleImage": true, 
+                        "left": 12, 
+                        "link": "loginPanel#board/mingzidikuang.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 12, 
+                        "top": 12, 
+                        "width": 193, 
+                        "x": 217, 
+                        "y": 636
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "middleLayer", 
+            "options": {
+                "height": 690, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 653, 
+                "x": 45, 
+                "y": 302
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "loginPanel#bg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "loginPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

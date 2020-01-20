@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 733849359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31b45b440b6da59081ad02a28eefd5ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20ec748be8c7d7e544079a8916aa9e57
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1804404296, guid: e893241d60d309c4bb9294efee80f54b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/heroBagPanel/heroBagPanel.png
+- Assets/Resources/GUI/heroBagPanel/heroBagPanel_etc.mat
+- Assets/Resources/GUI/heroBagPanel/heroBagPanel_heroBagViewPrefab.prefab
+- Assets/Resources/GUI/heroBagPanel/heroBagPanel_fragmentBagViewPrefab.prefab
+- Assets/Resources/GUI/heroBagPanel/heroBagPanelPrefab.prefab
+- Assets/Resources/GUI/heroBagPanel/heroBagPanel_alpha.png
+- Assets/Resources/GUI/heroBagPanel/heroBagPanel_heroItemPrefab.prefab
+Dependencies:
+- F:/kysy208/resource/trunk/UIProject/Assets/StreamingAssets/ui$common.u
+- F:/kysy208/resource/trunk/UIProject/Assets/StreamingAssets/shader.u
+- F:/kysy208/resource/trunk/UIProject/Assets/StreamingAssets/font$yhfont.ttf.u

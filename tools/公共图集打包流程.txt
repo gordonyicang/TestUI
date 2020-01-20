@@ -1,0 +1,8 @@
+1.将UI项目和策划目录的SVN更新到最新版本
+2.从\\192.168.10.201\美工技术资源\（手游集合）\5组2019年项目\技术用UI\UI元素，将【UI元素_common.psd】拷贝到UI目录的\Assets\psd\PSDIng\UI元素
+3.如果有删除一些旧资源，则需要删除\Assets\psd\PSDOutput\common目录和\Assets\AtlasCommon\common目录
+4.运行\Assets\psd\psdall2.bat
+5.打开UI项目Unity
+6.运行KYTool-UI-拷贝选中文件夹到公共图集，选中\Assets\psd\PSDOutput\common
+7.运行KYTool-UI-公共图集总生成(带九宫参数)[一键DOC]
+8.提交策划目录和UI目录

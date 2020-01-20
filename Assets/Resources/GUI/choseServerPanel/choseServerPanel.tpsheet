@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: choseServerPanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:26f8c5bcb9092bc4cae00c28b2b54ab6:024dff35d109abac9949d6bd9b292bd1:6cd88d3ac479e7c3ba685b1c9bfefa73$
+#
+
+board/huawenbiaotoudi1;600;890;103;37;0.5;0.5
+btn/jiaobiaotuijian;705;846;33;55;0.5;0.5
+btn/qianseanniu;600;929;266;93;0.5;0.5
+btn/xuanjueanniuchangtai;868;939;145;83;0.5;0.5
+btn/xuanjueanniuliangtai;868;854;145;83;0.5;0.5
+btn/xuanjuefanhui;794;831;56;96;0.5;0.5
+icon/hongsedian;852;879;13;23;0.5;0.5
+icon/huisedian;852;904;14;23;0.5;0.5
+panelBg;2;353;596;669;0.5;0.5
+roleIcon;740;856;24;45;0.5;0.5
+wenzi/xuanzefuwuqi;705;903;87;24;0.5;0.5

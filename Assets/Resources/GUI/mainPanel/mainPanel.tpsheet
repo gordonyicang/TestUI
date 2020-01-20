@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: mainPanel.png (512 x 512)
+# $TexturePacker:SmartUpdate:2dc833e81306ba4feb81e5becd5270ae:2d0344bce6a0bfcd9bf03b4c2d659453:00375d5ce324f9150903537e1623c64f$
+#
+
+battleIcon;408;336;84;91;0.5;0.5
+board/heiqiandi;445;317;17;17;0.5;0.5
+board/jindutiao;483;327;17;7;0.5;0.5
+btn/shuzidi;464;317;17;17;0.5;0.5
+headIcon;247;323;114;91;0.5;0.5
+icon/bianhua;407;294;36;40;0.5;0.5
+icon/exp;363;310;42;38;0.5;0.5
+icon/fengesanjiao;363;350;42;64;0.5;0.5
+icon/guagnxiao;408;429;99;81;0.5;0.5
+icon/zhongjian;2;379;243;131;0.5;0.5
+xialan;247;416;159;94;0.5;0.5

@@ -1,0 +1,114 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "enterImg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 29, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "createRolePanel#wenzi/jinruyouxi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 152, 
+                "x": 288, 
+                "y": 1010
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "enterBtn", 
+            "options": {
+                "bottom": 37, 
+                "height": 75, 
+                "isScaleImage": true, 
+                "left": 70, 
+                "link": "createRolePanel#btn/chuanjueanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 70, 
+                "top": 37, 
+                "width": 249, 
+                "x": 239, 
+                "y": 987
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "nameLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 2, 
+                "Leading": "20.69231", 
+                "colorB": 254, 
+                "colorG": 254, 
+                "colorR": 255, 
+                "font": "MicrosoftYaHei", 
+                "fontSize": 26, 
+                "height": 26, 
+                "opacity": 255, 
+                "property": "Type=LABEL\rinput=1\rhidden=0\risRichLabel=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "singleLine": true, 
+                "text": "请输入角色名", 
+                "underLine": false, 
+                "width": 159, 
+                "x": 281, 
+                "y": 627
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "borad6", 
+            "options": {
+                "bottom": 14, 
+                "height": 54, 
+                "isScaleImage": true, 
+                "left": 12, 
+                "link": "createRolePanel#board/mingzidikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 12, 
+                "top": 12, 
+                "width": 193, 
+                "x": 266, 
+                "y": 607
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 0, 
+                "height": 1280, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "createRolePanel#bg.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "createRolePanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

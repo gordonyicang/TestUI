@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: mysticalShopPanel.png (512 x 512)
+# $TexturePacker:SmartUpdate:dc6ddeec71d33bf247de00df4784f82d:2e2a94d8d57ee2125a16f77166083ebe:6f52ccca29ad128f9a32dfccbbf1dd6a$
+#
+
+board/dabaibankuang;2;103;77;81;0.5;0.5
+board/heiqiandiqiande;469;393;17;17;0.5;0.5
+board/hongshengchang;460;445;9;34;0.5;0.5
+board/huangchengkuang;266;353;201;77;0.5;0.5
+board/jiazikuang;361;432;97;47;0.5;0.5
+board/kuangtou;2;445;357;65;0.5;0.5
+board/yuanxingdi;2;186;262;257;0.5;0.5
+board/zhedi;477;412;33;98;0.5;0.5
+icon/shenmige;361;481;114;29;0.5;0.5

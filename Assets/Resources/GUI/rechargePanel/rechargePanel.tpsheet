@@ -1,0 +1,52 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: rechargePanel.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:6bd62b97696f8e7ea25b328366987a64:382995a349e45fc3f6672265bdf74ee2:20426e9451819f4f14535b9106886633$
+#
+
+VIP1;518;492;78;40;0.5;0.5
+VIP10;829;937;100;41;0.5;0.5
+VIP11;817;853;93;40;0.5;0.5
+VIP12;829;895;100;40;0.5;0.5
+VIP2;518;577;85;40;0.5;0.5
+VIP3;526;619;85;41;0.5;0.5
+VIP4;526;705;86;40;0.5;0.5
+VIP5;518;534;84;41;0.5;0.5
+VIP6;528;747;84;41;0.5;0.5
+VIP7;918;628;84;40;0.5;0.5
+VIP8;526;662;85;41;0.5;0.5
+VIP9;528;790;84;41;0.5;0.5
+bigMoneyImg1;779;548;137;120;0.5;0.5
+bigMoneyImg2;353;509;163;130;0.5;0.5
+bigMoneyImg3;2;479;157;135;0.5;0.5
+bigMoneyImg4;175;494;162;143;0.5;0.5
+bigMoneyImg5;353;641;171;142;0.5;0.5
+bigMoneyImg6;613;554;164;145;0.5;0.5
+bigMoneyImg7;180;639;171;144;0.5;0.5
+chiyou;817;805;88;46;0.5;0.5
+chongzhitubiaodikuang;614;701;201;229;0.5;0.5
+chuanshuoyinghun;2;616;171;46;0.5;0.5
+ditu;2;833;610;189;0.5;0.5
+gaojixingyunqian;614;932;213;46;0.5;0.5
+hailiangjinbi;2;664;171;46;0.5;0.5
+huanjuan;956;932;61;90;0.5;0.5
+huobidikuang;918;594;84;32;0.5;0.5
+icon/biaoqian;2;760;176;71;0.5;0.5
+icon/biaoqianlian;817;712;180;91;0.5;0.5
+icon/vip1;918;520;79;72;0.5;0.5
+icon/vipshuzi1;931;951;20;27;0.5;0.5
+jiangziya;339;461;131;46;0.5;0.5
+leizhenzi;604;506;131;46;0.5;0.5
+longjigongzhu;354;785;172;46;0.5;0.5
+ninyijingdadaozuigaoji;614;980;340;42;0.5;0.5
+shenhualingshi;180;785;172;46;0.5;0.5
+shishishenmo;2;712;171;46;0.5;0.5
+tequankegou;161;461;126;31;0.5;0.5
+xianyu;817;670;179;40;0.5;0.5
+zaichongzhi;2;446;78;31;0.5;0.5
+zengsong;931;857;91;73;0.5;0.5
+zhuxian;912;809;89;46;0.5;0.5

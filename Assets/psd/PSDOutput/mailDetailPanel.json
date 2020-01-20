@@ -1,0 +1,319 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "contentLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "Type=LABEL\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1\risRichLabel=1", 
+                "singleLine": true, 
+                "text": "恭喜第阿纳斯达克大大啊阿达大大大看大大啊啊啊啊", 
+                "underLine": false, 
+                "width": 506, 
+                "x": 109, 
+                "y": 384
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "validTimeLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 43, 
+                "colorG": 167, 
+                "colorR": 105, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 23, 
+                "height": 24, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "有效期：1天", 
+                "underLine": false, 
+                "width": 127, 
+                "x": 499, 
+                "y": 278
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "getBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "领 取", 
+                "underLine": false, 
+                "width": 54, 
+                "x": 340, 
+                "y": 969
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "getBtn", 
+            "options": {
+                "bottom": 24, 
+                "height": 56, 
+                "isScaleImage": true, 
+                "left": 30, 
+                "link": "mailDetailPanel#btn/huangdaanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 30, 
+                "top": 25, 
+                "width": 159, 
+                "x": 285, 
+                "y": 947
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemList", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 493, 
+                "x": 114, 
+                "y": 811
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg3", 
+            "options": {
+                "bottom": 8, 
+                "height": 139, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "mailDetailPanel#board/baizidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 540, 
+                "x": 92, 
+                "y": 789
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "mailNameLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 255, 
+                "colorG": 255, 
+                "colorR": 255, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "邮件名邮件名邮件名", 
+                "underLine": false, 
+                "width": 196, 
+                "x": 262, 
+                "y": 335
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 15, 
+                "height": 35, 
+                "isScaleImage": true, 
+                "left": 26, 
+                "link": "mailDetailPanel#board/lvxiaobiaoti.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 26, 
+                "top": 15, 
+                "width": 275, 
+                "x": 222, 
+                "y": 323
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg2", 
+            "options": {
+                "bottom": 8, 
+                "height": 724, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "mailDetailPanel#board/qiansedikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 550, 
+                "x": 87, 
+                "y": 304
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "邮件", 
+                "underLine": false, 
+                "width": 43, 
+                "x": 341, 
+                "y": 244
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailDetailPanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 623, 
+                "y": 225
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "mailDetailPanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 240, 
+                "y": 228
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBar", 
+            "options": {
+                "bottom": 13, 
+                "height": 28, 
+                "isScaleImage": true, 
+                "left": 212, 
+                "link": "mailDetailPanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 212, 
+                "top": 14, 
+                "width": 644, 
+                "x": 43, 
+                "y": 225
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bottomImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 114, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mailDetailPanel#icon/sanjijiemianditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 611, 
+                "x": 58, 
+                "y": 940
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 54, 
+                "height": 839, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "mailDetailPanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 656, 
+                "x": 43, 
+                "y": 233
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "mailDetailPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

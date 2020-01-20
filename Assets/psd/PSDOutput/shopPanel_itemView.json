@@ -1,0 +1,170 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 77, 
+                "colorG": 105, 
+                "colorR": 77, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "8869万", 
+                "underLine": false, 
+                "width": 74, 
+                "x": 104, 
+                "y": 180
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "limitLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 77, 
+                "colorG": 105, 
+                "colorR": 77, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 16, 
+                "height": 16, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "每月限购：0/0", 
+                "underLine": false, 
+                "width": 104, 
+                "x": 83, 
+                "y": 153
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 42, 
+                "x": 52, 
+                "y": 167
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "discountFlag", 
+            "options": {
+                "bottom": 0, 
+                "height": 94, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#icon/biaoqiandi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 32, 
+                "x": 44, 
+                "y": 7
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridPot", 
+            "options": {
+                "height": 95, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 88, 
+                "y": 45
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "buttomImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 86, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#icon/shangpingdizhuo.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 190, 
+                "x": 40, 
+                "y": 135
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "lineImage", 
+            "options": {
+                "bottom": 6, 
+                "height": 19, 
+                "isScaleImage": true, 
+                "left": 14, 
+                "link": "shopPanel#board/jiazi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 14, 
+                "top": 11, 
+                "width": 666, 
+                "x": 0, 
+                "y": 215
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "shuxian", 
+            "options": {
+                "bottom": 10, 
+                "height": 223, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "shopPanel#board/fengezhixian.png", 
+                "opacity": 214, 
+                "property": "", 
+                "right": 1, 
+                "top": 10, 
+                "width": 22, 
+                "x": 216, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "shopPanel_itemView", 
+    "options": {
+        "height": 234, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 666, 
+        "x": 29, 
+        "y": 177
+    }
+}

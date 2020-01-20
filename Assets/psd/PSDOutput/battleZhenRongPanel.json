@@ -1,0 +1,807 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "clickLayer", 
+            "options": {
+                "height": 1280, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 720, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "roundLabel", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 53, 
+                        "colorG": 106, 
+                        "colorR": 94, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 23, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "第23/55回合", 
+                        "underLine": false, 
+                        "width": 132, 
+                        "x": 292, 
+                        "y": 14
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "board111", 
+                    "options": {
+                        "bottom": 22, 
+                        "height": 42, 
+                        "isScaleImage": true, 
+                        "left": 136, 
+                        "link": "battleZhenRongPanel#board/zhandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 136, 
+                        "top": 12, 
+                        "width": 317, 
+                        "x": 201, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "buffIcon", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 37, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#btn/chakanBUFF.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 130, 
+                        "x": 4, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "zhenfaIcon2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 74, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/guanghuan0002.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 72, 
+                        "x": 642, 
+                        "y": 44
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "zhenfaIcon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 74, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/guanghuan0002.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 72, 
+                        "x": 5, 
+                        "y": 44
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "nameLabel1", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 255, 
+                        "colorG": 144, 
+                        "colorR": 77, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 20, 
+                        "height": 20, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "这里面有七个字", 
+                        "underLine": false, 
+                        "width": 140, 
+                        "x": 95, 
+                        "y": 56
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "nameLabel2", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 87, 
+                        "colorG": 85, 
+                        "colorR": 250, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 20, 
+                        "height": 20, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "这里面有七个字", 
+                        "underLine": false, 
+                        "width": 140, 
+                        "x": 483, 
+                        "y": 57
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "VS", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 33, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#vsImg.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 51, 
+                        "x": 334, 
+                        "y": 43
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "nameBg", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 83, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#nameBg.png", 
+                        "opacity": 255, 
+                        "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 41
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "fightIcon2", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 26, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/zhan.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 443, 
+                        "y": 5
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "fightLabel2", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 53, 
+                        "colorG": 106, 
+                        "colorR": 94, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "5648145", 
+                        "underLine": false, 
+                        "width": 83, 
+                        "x": 481, 
+                        "y": 15
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "fightBg2", 
+                    "options": {
+                        "bottom": 22, 
+                        "height": 42, 
+                        "isScaleImage": true, 
+                        "left": 136, 
+                        "link": "battleZhenRongPanel#board/zhandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 136, 
+                        "top": 12, 
+                        "width": 317, 
+                        "x": 353, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "fightIcon1", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 26, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/zhan.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 36, 
+                        "x": 132, 
+                        "y": 5
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "fightLabel1", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "30.0", 
+                        "colorB": 53, 
+                        "colorG": 106, 
+                        "colorR": 94, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 24, 
+                        "height": 18, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "5648145", 
+                        "underLine": false, 
+                        "width": 83, 
+                        "x": 170, 
+                        "y": 15
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "fightBg1", 
+                    "options": {
+                        "bottom": 22, 
+                        "height": 42, 
+                        "isScaleImage": true, 
+                        "left": 136, 
+                        "link": "battleZhenRongPanel#board/zhandi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 136, 
+                        "top": 12, 
+                        "width": 317, 
+                        "x": 42, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "classname": "LIST", 
+                            "items": [], 
+                            "name": "bagList", 
+                            "options": {
+                                "height": 159, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "width": 622, 
+                                "x": 50, 
+                                "y": 103
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "selectImg", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 55, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/yuanxuanzhongkuang.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 55, 
+                                "x": 187, 
+                                "y": 16
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "typeIcon1", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 53, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/quan.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 53, 
+                                "x": 92, 
+                                "y": 19
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "typeIcon2", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 53, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/ren.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 53, 
+                                "x": 189, 
+                                "y": 19
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "typeIcon3", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 53, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/gui.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 53, 
+                                "x": 285, 
+                                "y": 19
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "typeIcon4", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 53, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/yao.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 53, 
+                                "x": 382, 
+                                "y": 19
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "typeIcon5", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 53, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/shen.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 53, 
+                                "x": 478, 
+                                "y": 19
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "typeIcon6", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 53, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/mo.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 53, 
+                                "x": 575, 
+                                "y": 19
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "goBtnLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 12, 
+                                "colorG": 86, 
+                                "colorR": 149, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 24, 
+                                "height": 23, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "出 战", 
+                                "underLine": false, 
+                                "width": 52, 
+                                "x": 334, 
+                                "y": 289
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "goBtn", 
+                            "options": {
+                                "bottom": 24, 
+                                "height": 56, 
+                                "isScaleImage": true, 
+                                "left": 30, 
+                                "link": "battleZhenRongPanel#btn/huangdaanniu.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 30, 
+                                "top": 25, 
+                                "width": 159, 
+                                "x": 282, 
+                                "y": 266
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "arrowIcon", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 25, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#btn/fanhuiheng.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 33, 
+                                "x": 20, 
+                                "y": 356
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "backLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 12, 
+                                "colorG": 86, 
+                                "colorR": 149, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 22, 
+                                "height": 21, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "返 回", 
+                                "underLine": false, 
+                                "width": 48, 
+                                "x": 60, 
+                                "y": 363
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "backBtn", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 50, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#btn/fanhui.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 130, 
+                                "x": 2, 
+                                "y": 343
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "board1", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 475, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#muwenbg.png", 
+                                "opacity": 255, 
+                                "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 360, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "LABEL", 
+                            "name": "checkLabel", 
+                            "options": {
+                                "AntiAlias": 2, 
+                                "Justification": 0, 
+                                "Leading": "30.0", 
+                                "colorB": 81, 
+                                "colorG": 85, 
+                                "colorR": 67, 
+                                "font": "FZY3JW--GB1-0", 
+                                "fontSize": 20, 
+                                "height": 20, 
+                                "opacity": 255, 
+                                "property": "", 
+                                "singleLine": true, 
+                                "text": "跳过战斗", 
+                                "underLine": false, 
+                                "width": 80, 
+                                "x": 587, 
+                                "y": 290
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "checkIcon", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 36, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#icon/dagou.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 43, 
+                                "x": 541, 
+                                "y": 276
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "checkBox", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 41, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#cells/dagouxiaokuang.png", 
+                                "opacity": 255, 
+                                "property": "", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 41, 
+                                "x": 541, 
+                                "y": 274
+                            }
+                        }, 
+                        {
+                            "children": [], 
+                            "classname": "IMAGE", 
+                            "name": "board2", 
+                            "options": {
+                                "bottom": 0, 
+                                "height": 475, 
+                                "isScaleImage": false, 
+                                "left": 0, 
+                                "link": "battleZhenRongPanel#muwenbg.png", 
+                                "opacity": 255, 
+                                "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                                "right": 0, 
+                                "top": 0, 
+                                "width": 360, 
+                                "x": 360, 
+                                "y": 0
+                            }
+                        }
+                    ], 
+                    "classname": "GROUP", 
+                    "name": "showLayer", 
+                    "options": {
+                        "height": 475, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 98
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "bottomLayer", 
+            "options": {
+                "height": 573, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 720, 
+                "x": 0, 
+                "y": 696
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "addSpeedButton", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 59, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/1bei.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 57, 
+                        "x": 636, 
+                        "y": 0
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "skipButton", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 59, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/tiaoguo.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 57, 
+                        "x": 637, 
+                        "y": 72
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "awardButton", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 66, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/liwu.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 65, 
+                        "x": 0, 
+                        "y": 73
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "rankButton", 
+                    "options": {
+                        "bottom": 0, 
+                        "height": 66, 
+                        "isScaleImage": false, 
+                        "left": 0, 
+                        "link": "battleZhenRongPanel#icon/banghangbang.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 0, 
+                        "top": 0, 
+                        "width": 57, 
+                        "x": 2, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "topLayer", 
+            "options": {
+                "height": 139, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 694, 
+                "x": 14, 
+                "y": 124
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "battleZhenRongPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

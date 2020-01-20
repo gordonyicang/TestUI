@@ -1,0 +1,95 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "tabBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 58, 
+                "colorG": 88, 
+                "colorR": 166, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 53, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "英 雄", 
+                "underLine": false, 
+                "width": 24, 
+                "x": 14, 
+                "y": 52
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabLine", 
+            "options": {
+                "bottom": 0, 
+                "height": 26, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#icon/shenghong.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 8, 
+                "x": 22, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn2", 
+            "options": {
+                "bottom": 0, 
+                "height": 118, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#btn/changtaishangdian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 53, 
+                "x": 0, 
+                "y": 15
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tabBtn1", 
+            "options": {
+                "bottom": 0, 
+                "height": 130, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "shopPanel#liangshangdian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 65, 
+                "x": 0, 
+                "y": 3
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "shopPanel_tabButton", 
+    "options": {
+        "height": 133, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 65, 
+        "x": 9, 
+        "y": 321
+    }
+}

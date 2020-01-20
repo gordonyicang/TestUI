@@ -1,0 +1,90 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemList", 
+            "options": {
+                "height": 471, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 530, 
+                "x": 104, 
+                "y": 434
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "titleLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "22.0", 
+                "colorB": 203, 
+                "colorG": 236, 
+                "colorR": 229, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "奖励预览", 
+                "underLine": false, 
+                "width": 88, 
+                "x": 150, 
+                "y": 394
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 14, 
+                "height": 30, 
+                "isScaleImage": true, 
+                "left": 108, 
+                "link": "callGailvDetailPanel#board/lingzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 48, 
+                "top": 15, 
+                "width": 211, 
+                "x": 104, 
+                "y": 384
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bgImg", 
+            "options": {
+                "bottom": 115, 
+                "height": 597, 
+                "isScaleImage": true, 
+                "left": 124, 
+                "link": "callGailvDetailPanel#board/tipsxiaokuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 158, 
+                "top": 74, 
+                "width": 582, 
+                "x": 71, 
+                "y": 345
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "callGailvDetailPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

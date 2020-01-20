@@ -1,0 +1,277 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "lvNotEnoughLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 87, 
+                "colorG": 85, 
+                "colorR": 250, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 20, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "等级不足", 
+                "underLine": false, 
+                "width": 79, 
+                "x": 441, 
+                "y": 55
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "typeIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 28, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroEquipReplacePanel#icon/lanbagua.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 26, 
+                "x": 242, 
+                "y": 46
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "equipingLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 20, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "装备中...", 
+                "underLine": false, 
+                "width": 74, 
+                "x": 360, 
+                "y": 55
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "wearLevelLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "穿戴等级：180级", 
+                "underLine": false, 
+                "width": 163, 
+                "x": 124, 
+                "y": 85
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "typeLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "类型：武器", 
+                "underLine": false, 
+                "width": 110, 
+                "x": 124, 
+                "y": 54
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "equipName", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 219, 
+                "colorG": 89, 
+                "colorR": 210, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "装备名称", 
+                "underLine": false, 
+                "width": 88, 
+                "x": 124, 
+                "y": 25
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "replaceBtnLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 31, 
+                "colorG": 99, 
+                "colorR": 79, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 25, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "替 换", 
+                "underLine": false, 
+                "width": 41, 
+                "x": 461, 
+                "y": 108
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "replaceBtn", 
+            "options": {
+                "bottom": 16, 
+                "height": 33, 
+                "isScaleImage": true, 
+                "left": 10, 
+                "link": "heroEquipReplacePanel#btn/lvanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 10, 
+                "top": 16, 
+                "width": 96, 
+                "x": 434, 
+                "y": 94
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "heroPot", 
+            "options": {
+                "bottom": 0, 
+                "height": 75, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroEquipReplacePanel#icon/ren.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 76, 
+                "x": 443, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "equipPot", 
+            "options": {
+                "bottom": 0, 
+                "height": 93, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroEquipReplacePanel#cells/beibaokuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 94, 
+                "x": 17, 
+                "y": 12
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "scoreLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 81, 
+                "colorG": 85, 
+                "colorR": 67, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 20, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "评分：", 
+                "underLine": false, 
+                "width": 47, 
+                "x": 15, 
+                "y": 116
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 30, 
+                "height": 139, 
+                "isScaleImage": true, 
+                "left": 34, 
+                "link": "heroEquipReplacePanel#board/kuangbiaotoudiqian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 34, 
+                "top": 4, 
+                "width": 541, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroEquipReplacePanel_equipItem", 
+    "options": {
+        "height": 139, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 541, 
+        "x": 91, 
+        "y": 302
+    }
+}

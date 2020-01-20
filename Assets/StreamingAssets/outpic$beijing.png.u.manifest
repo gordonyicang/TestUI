@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1569738081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a90e207bbccc84fdfc7f715843a8609d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/OutPic/hunDunCallPanel-board/beijing.png
+Dependencies: []

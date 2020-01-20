@@ -1,0 +1,478 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeArrow", 
+            "options": {
+                "bottom": 0, 
+                "height": 25, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#btn/fanhuiheng.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 33, 
+                "x": 20, 
+                "y": 1150
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "closeLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 21, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "返 回", 
+                "underLine": false, 
+                "width": 48, 
+                "x": 60, 
+                "y": 1157
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "closeBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#btn/fanhui.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 130, 
+                "x": 2, 
+                "y": 1137
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "point6", 
+            "options": {
+                "height": 268, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 380, 
+                "y": 762
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "point5", 
+            "options": {
+                "height": 268, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 80, 
+                "y": 762
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "point4", 
+            "options": {
+                "height": 268, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 380, 
+                "y": 476
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "point3", 
+            "options": {
+                "height": 268, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 80, 
+                "y": 476
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "point2", 
+            "options": {
+                "height": 272, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 380, 
+                "y": 185
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "point1", 
+            "options": {
+                "height": 272, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 262, 
+                "x": 80, 
+                "y": 185
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line1", 
+            "options": {
+                "bottom": 10, 
+                "height": 43, 
+                "isScaleImage": true, 
+                "left": 48, 
+                "link": "mysticalShopPanel#board/jiazikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 48, 
+                "top": 36, 
+                "width": 720, 
+                "x": 0, 
+                "y": 1004
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line2", 
+            "options": {
+                "bottom": 10, 
+                "height": 16, 
+                "isScaleImage": true, 
+                "left": 48, 
+                "link": "mysticalShopPanel#board/jiazikuang.png", 
+                "opacity": 74, 
+                "property": "", 
+                "right": 48, 
+                "top": 36, 
+                "width": 707, 
+                "x": 4, 
+                "y": 1040
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line3", 
+            "options": {
+                "bottom": 10, 
+                "height": 43, 
+                "isScaleImage": true, 
+                "left": 48, 
+                "link": "mysticalShopPanel#board/jiazikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 48, 
+                "top": 36, 
+                "width": 720, 
+                "x": 0, 
+                "y": 719
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line4", 
+            "options": {
+                "bottom": 10, 
+                "height": 16, 
+                "isScaleImage": true, 
+                "left": 48, 
+                "link": "mysticalShopPanel#board/jiazikuang.png", 
+                "opacity": 74, 
+                "property": "", 
+                "right": 48, 
+                "top": 36, 
+                "width": 707, 
+                "x": 4, 
+                "y": 755
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line5", 
+            "options": {
+                "bottom": 10, 
+                "height": 52, 
+                "isScaleImage": true, 
+                "left": 48, 
+                "link": "mysticalShopPanel#board/jiazikuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 48, 
+                "top": 36, 
+                "width": 720, 
+                "x": 0, 
+                "y": 433
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "timeLabel2", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 24, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "刷新时间：", 
+                "underLine": false, 
+                "width": 103, 
+                "x": 43, 
+                "y": 1075
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "timeLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 18, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "10:00:00", 
+                "underLine": false, 
+                "width": 84, 
+                "x": 154, 
+                "y": 1077
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "allCountLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 119, 
+                "colorG": 123, 
+                "colorR": 107, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "刷新次数：99/100", 
+                "underLine": false, 
+                "width": 188, 
+                "x": 310, 
+                "y": 1076
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "countLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 12, 
+                "colorG": 86, 
+                "colorR": 149, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "刷新（0/3）", 
+                "underLine": false, 
+                "width": 120, 
+                "x": 547, 
+                "y": 1076
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "countBtn", 
+            "options": {
+                "bottom": 24, 
+                "height": 56, 
+                "isScaleImage": true, 
+                "left": 30, 
+                "link": "mysticalShopPanel#btn/huangdaanniu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 30, 
+                "top": 25, 
+                "width": 159, 
+                "x": 525, 
+                "y": 1053
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 29, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#icon/shenmige.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 114, 
+                "x": 300, 
+                "y": 134
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "titleBg", 
+            "options": {
+                "bottom": 38, 
+                "height": 77, 
+                "isScaleImage": true, 
+                "left": 100, 
+                "link": "mysticalShopPanel#board/huangchengkuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 100, 
+                "top": 38, 
+                "width": 271, 
+                "x": 223, 
+                "y": 110
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "topRightBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 65, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#board/kuangtou.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 357, 
+                "x": 366, 
+                "y": 115
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "topLeftBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 65, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#board/kuangtou.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 357, 
+                "x": -2, 
+                "y": 115
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg2", 
+            "options": {
+                "bottom": 0, 
+                "height": 670, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#ditushan.png", 
+                "opacity": 227, 
+                "property": "Type=IMAGE\routpic=1\rhidden=0\rScale=1=1\rRotation=-1\rVisible=-1\rZOrder=-1\rOpacity=-1\rColor=-1=-1=-1\rAnchor=-1", 
+                "right": 0, 
+                "top": 0, 
+                "width": 672, 
+                "x": 24, 
+                "y": 445
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "bg", 
+            "options": {
+                "bottom": 30, 
+                "height": 981, 
+                "isScaleImage": true, 
+                "left": 38, 
+                "link": "mysticalShopPanel#board/dabaibankuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 38, 
+                "top": 50, 
+                "width": 703, 
+                "x": 9, 
+                "y": 149
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "mysticalShopPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "LIST", 
+            "items": [], 
+            "name": "itemList", 
+            "options": {
+                "height": 837, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 574, 
+                "x": 76, 
+                "y": 224
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "panelBg1", 
+            "options": {
+                "bottom": 0, 
+                "height": 115, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "heroMainPanel#board/huawendide.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 633, 
+                "x": 52, 
+                "y": 184
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "heroMainPanel_fragmentBagView", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 719, 
+        "x": -1, 
+        "y": -1
+    }
+}

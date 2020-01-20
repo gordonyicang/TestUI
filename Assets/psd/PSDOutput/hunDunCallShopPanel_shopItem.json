@@ -1,0 +1,176 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "saleImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 36, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/bazhe.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 22, 
+                "x": 9, 
+                "y": 41
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "saleBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 94, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/biaoqiandi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 32, 
+                "x": 4, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "minusBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 28, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#btn/jianhaohuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 32, 
+                "x": 109, 
+                "y": 40
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 42, 
+                "x": 12, 
+                "y": 160
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 77, 
+                "colorG": 105, 
+                "colorR": 77, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "8869万", 
+                "underLine": false, 
+                "width": 74, 
+                "x": 64, 
+                "y": 173
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "cellImg", 
+            "options": {
+                "bottom": 0, 
+                "height": 93, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#cells/beibaokuang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 94, 
+                "x": 48, 
+                "y": 40
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "limitLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 77, 
+                "colorG": 105, 
+                "colorR": 77, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 16, 
+                "height": 16, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "每月限购：0/0", 
+                "underLine": false, 
+                "width": 104, 
+                "x": 43, 
+                "y": 147
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 86, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "hunDunCallShopPanel#icon/shangpingdizhuo.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 190, 
+                "x": 0, 
+                "y": 128
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "hunDunCallShopPanel_shopItem", 
+    "options": {
+        "height": 214, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 190, 
+        "x": 69, 
+        "y": 406
+    }
+}

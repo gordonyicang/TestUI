@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: battleZhenRongPanel.png (256 x 256)
+# $TexturePacker:SmartUpdate:4030011bc7b9d472c4d6551d6a932533:42ae3e5615b3c7808cdcf01f2cac22ed:260cf60ea3f13b288ae33d8e1035ad14$
+#
+
+btn/chakanBUFF;2;217;130;37;0.5;0.5
+icon/1bei;128;119;57;59;0.5;0.5
+icon/2bei;187;119;57;59;0.5;0.5
+icon/banghangbang;69;149;57;66;0.5;0.5
+icon/guanghuan0002;134;180;72;74;0.5;0.5
+icon/liwu;2;149;65;66;0.5;0.5
+icon/tiaoguo;2;58;57;59;0.5;0.5
+vsImg;61;114;51;33;0.5;0.5

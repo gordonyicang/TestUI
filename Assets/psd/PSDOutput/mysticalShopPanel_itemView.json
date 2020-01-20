@@ -1,0 +1,208 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "line", 
+            "options": {
+                "bottom": 0, 
+                "height": 34, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#board/hongshengchang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 9, 
+                "x": 127, 
+                "y": 0
+            }
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "zheLabel1", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "0.0", 
+                        "colorB": 27, 
+                        "colorG": 113, 
+                        "colorR": 189, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 19, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "五", 
+                        "underLine": false, 
+                        "width": 22, 
+                        "x": 9, 
+                        "y": 32
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "LABEL", 
+                    "name": "zheLabel2", 
+                    "options": {
+                        "AntiAlias": 2, 
+                        "Justification": 0, 
+                        "Leading": "0.0", 
+                        "colorB": 27, 
+                        "colorG": 113, 
+                        "colorR": 189, 
+                        "font": "FZY3JW--GB1-0", 
+                        "fontSize": 22, 
+                        "height": 22, 
+                        "opacity": 255, 
+                        "property": "", 
+                        "singleLine": true, 
+                        "text": "折", 
+                        "underLine": false, 
+                        "width": 22, 
+                        "x": 9, 
+                        "y": 60
+                    }
+                }, 
+                {
+                    "children": [], 
+                    "classname": "IMAGE", 
+                    "name": "zheBg", 
+                    "options": {
+                        "bottom": 46, 
+                        "height": 99, 
+                        "isScaleImage": true, 
+                        "left": 16, 
+                        "link": "mysticalShopPanel#board/zhedi.png", 
+                        "opacity": 255, 
+                        "property": "", 
+                        "right": 16, 
+                        "top": 51, 
+                        "width": 36, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "classname": "GROUP", 
+            "name": "discountLayer", 
+            "options": {
+                "height": 99, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 36, 
+                "x": 28, 
+                "y": 71
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "GROUP", 
+            "name": "gridLayer", 
+            "options": {
+                "height": 93, 
+                "opacity": 255, 
+                "property": "", 
+                "width": 94, 
+                "x": 84, 
+                "y": 74
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyIcon", 
+            "options": {
+                "bottom": 0, 
+                "height": 38, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#icon/jinbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 42, 
+                "x": 49, 
+                "y": 192
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "moneyLabel", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 77, 
+                "colorG": 104, 
+                "colorR": 77, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 24, 
+                "height": 23, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "8869万", 
+                "underLine": false, 
+                "width": 74, 
+                "x": 99, 
+                "y": 205
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "moneyBg", 
+            "options": {
+                "bottom": 8, 
+                "height": 36, 
+                "isScaleImage": true, 
+                "left": 8, 
+                "link": "mysticalShopPanel#board/heiqiandiqiande.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 8, 
+                "top": 8, 
+                "width": 165, 
+                "x": 49, 
+                "y": 192
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "itemBg", 
+            "options": {
+                "bottom": 0, 
+                "height": 257, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "mysticalShopPanel#board/yuanxingdi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 262, 
+                "x": 0, 
+                "y": 15
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "mysticalShopPanel_itemView", 
+    "options": {
+        "height": 272, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 262, 
+        "x": 80, 
+        "y": 185
+    }
+}

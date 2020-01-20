@@ -1,0 +1,233 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "tab", 
+            "options": {
+                "bottom": 0, 
+                "height": 46, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "jubaopenPanel#icon/xinxi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 593, 
+                "y": 299
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "Jubaopen", 
+            "options": {
+                "bottom": 0, 
+                "height": 372, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "jubaopenPanel#jubaopenditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 568, 
+                "x": 78, 
+                "y": 292
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "ResidueTimeTxt", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 0, 
+                "Leading": "30.0", 
+                "colorB": 88, 
+                "colorG": 255, 
+                "colorR": 158, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 20, 
+                "height": 19, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "59天59小时", 
+                "underLine": false, 
+                "width": 103, 
+                "x": 365, 
+                "y": 1010
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "RefreshTime", 
+            "options": {
+                "bottom": 0, 
+                "height": 22, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "jubaopenPanel#icon/shuaxinshijian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 91, 
+                "x": 270, 
+                "y": 1003
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "RefreshTimeBg", 
+            "options": {
+                "bottom": 15, 
+                "height": 32, 
+                "isScaleImage": true, 
+                "left": 15, 
+                "link": "jubaopenPanel#board/wenzixinxidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 15, 
+                "top": 16, 
+                "width": 226, 
+                "x": 254, 
+                "y": 997
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "LABEL", 
+            "name": "TitleTxt", 
+            "options": {
+                "AntiAlias": 2, 
+                "Justification": 2, 
+                "Leading": "22.0", 
+                "colorB": 210, 
+                "colorG": 255, 
+                "colorR": 245, 
+                "font": "FZY3JW--GB1-0", 
+                "fontSize": 22, 
+                "height": 22, 
+                "opacity": 255, 
+                "property": "", 
+                "singleLine": true, 
+                "text": "聚宝盆", 
+                "underLine": false, 
+                "width": 66, 
+                "x": 332, 
+                "y": 254
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "CloseBtn", 
+            "options": {
+                "bottom": 0, 
+                "height": 50, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "jubaopenPanel#btn/xiaochuangiganbi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 46, 
+                "x": 623, 
+                "y": 235
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "TitleBg", 
+            "options": {
+                "bottom": 23, 
+                "height": 49, 
+                "isScaleImage": true, 
+                "left": 122, 
+                "link": "jubaopenPanel#board/sanjijiemianzidi.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 126, 
+                "top": 25, 
+                "width": 250, 
+                "x": 240, 
+                "y": 238
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "TitleBar", 
+            "options": {
+                "bottom": 13, 
+                "height": 28, 
+                "isScaleImage": true, 
+                "left": 212, 
+                "link": "jubaopenPanel#board/sanjijiemianshang.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 212, 
+                "top": 14, 
+                "width": 644, 
+                "x": 43, 
+                "y": 235
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "BelowBar", 
+            "options": {
+                "bottom": 0, 
+                "height": 114, 
+                "isScaleImage": false, 
+                "left": 0, 
+                "link": "jubaopenPanel#icon/sanjijiemianditu.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 0, 
+                "top": 0, 
+                "width": 611, 
+                "x": 58, 
+                "y": 950
+            }
+        }, 
+        {
+            "children": [], 
+            "classname": "IMAGE", 
+            "name": "SceneBg", 
+            "options": {
+                "bottom": 54, 
+                "height": 839, 
+                "isScaleImage": true, 
+                "left": 76, 
+                "link": "jubaopenPanel#board/sanjijiemian.png", 
+                "opacity": 255, 
+                "property": "", 
+                "right": 78, 
+                "top": 16, 
+                "width": 656, 
+                "x": 43, 
+                "y": 243
+            }
+        }
+    ], 
+    "classname": "GROUP", 
+    "name": "jubaopenPanel", 
+    "options": {
+        "height": 1280, 
+        "opacity": 255, 
+        "property": "", 
+        "width": 720, 
+        "x": 0, 
+        "y": 0
+    }
+}
